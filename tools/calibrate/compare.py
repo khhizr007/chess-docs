@@ -222,7 +222,11 @@ class Reviewer:
         return entry if same else None
 
     def review(self, gid: str, pgn: str, key: dict) -> dict:
-        body = {"pgn": pgn, "depth": self.args.depth, "multipv": self.args.multipv}
+        body = {"pgn": pgn, "multipv": self.args.multipv}
+        if self.args.nodes:
+            body["nodes"] = self.args.nodes
+        else:
+            body["depth"] = self.args.depth
         if self.args.config_override is not None:
             body["config"] = self.args.config_override
         if self.args.player_side:
@@ -264,9 +268,10 @@ class Reviewer:
         seconds = time.monotonic() - started
         settings = result.get("settings") or {}
         limit = settings.get("limit") or {}
-        if limit.get("depth") != self.args.depth or settings.get("multipv") != self.args.multipv:
+        want = {"nodes": self.args.nodes} if self.args.nodes else {"depth": self.args.depth}
+        if any(limit.get(k) != v for k, v in want.items()) or settings.get("multipv") != self.args.multipv:
             raise HarnessError(
-                f"server used settings {settings}, expected depth {self.args.depth} "
+                f"server used settings {settings}, expected {want} "
                 f"multipv {self.args.multipv}"
             )
         entry = {
@@ -637,7 +642,7 @@ def build_report(ctx: dict) -> tuple[str, dict]:
     L.append(f"- Generated: {ctx['generated_at']}")
     L.append(f"- Commit: `{src['git_commit'][:12]}`{dirty}")
     L.append(
-        f"- Engine: {ctx['engine'] or 'unknown'}; depth {s['depth']}, multipv {s['multipv']}; "
+        f"- Engine: {ctx['engine'] or 'unknown'}; {'nodes ' + str(s['nodes']) if s.get('nodes') else 'depth ' + str(s['depth'])}, multipv {s['multipv']}; "
         f"config override: {'`' + canonical(s['config']) + '`' if s['config'] else 'none'}"
     )
     L.append(
@@ -807,6 +812,8 @@ def parse_args(argv=None):
                    help="file with one game id per line (# comments allowed)")
     p.add_argument("--run-name", required=True, help="run directory name under --runs-dir")
     p.add_argument("--depth", type=int, default=18, help="search depth per position (1-40)")
+    p.add_argument("--nodes", type=int, default=None,
+                   help="node budget per position, replacing --depth")
     p.add_argument("--multipv", type=int, default=3, help="engine lines per position (1-5)")
     p.add_argument("--config", default=None,
                    help="partial ReviewConfig override as JSON, or @path/to/file.json (part of the cache key)")
@@ -856,6 +863,8 @@ def main(argv=None) -> int:
                 )
             engine, server_version = health.get("engine"), health.get("version")
         settings = {"depth": args.depth, "multipv": args.multipv, "config": args.config_override}
+        if args.nodes:
+            settings = {"nodes": args.nodes, "multipv": args.multipv, "config": args.config_override}
         if args.player_side:
             settings["player_side"] = args.player_side
         base_key = {

@@ -218,3 +218,50 @@ BENCH_GAMES=../tools/speed/bench-games.json python3 ../tools/speed/e2e.py defaul
 ```
 
 Ghidra decompiles: `~/work/re-great/out/speed{1,2,3}` (pattern files `out/pats_speed*.txt`).
+
+
+## 8. Fixes built (2026-10-26)
+
+chess-review branch `claude/review-speed` (worktree `chess-review-wt-speed`), on main b95562f:
+
+| Commit | Change | Output |
+|---|---|---|
+| 1bae87d | free-engine queue (`search_all`, replaces `buffered`) | byte-identical |
+| 8c19811 | default pool `min(8, cpus/2)` (was 4) | byte-identical |
+| dcc3d9b | optional `SearchLimit::Nodes` (`"nodes"` in the request); default unchanged | unchanged by default |
+
+Whole reviews, 8 bench games, fresh server, real searches (`t23.sh`, `tnodes.sh`):
+
+| Build and search | Total | vs main |
+|---|---|---|
+| main, pool 4, depth 18 MultiPV 3 | 255 s | — |
+| main, pool 8 | 223 s | −12% |
+| queue, pool 4 | 242 s | −5% |
+| **queue, pool 8 (the new default)** | **159 s** | **−38%** |
+| queue, pool 8, 600 k nodes, MultiPV 2 | 89 s | −65% |
+| queue, pool 8, 600 k nodes, MultiPV 3 | 87 s | −66% |
+| queue, pool 8, 1.1 M nodes, MultiPV 3 | 151 s | −41% |
+
+All 8 reviews had the same SHA-256 in every depth-18 build. Node-budget reviews were identical
+from fresh servers with pool 4 and pool 3 (`det.sh`).
+
+Labels on the 142 original games (`sp-run.sh`, coach threat searches off; baseline `sp-base142`
+equals fresh depth-18 reviews, `cachecheck.cjs`):
+
+| Run | Exact | Brilliant P/R | Great P/R | Blunder F1 | Mistake F1 | Accuracy MAD |
+|---|---|---|---|---|---|---|
+| depth 18, MultiPV 3 (baseline) | 71.9% | 0.875 / 0.84 | 0.817 / 0.751 | 0.848 | 0.698 | 4.17 |
+| depth 18, MultiPV 2 | 72.4% | 0.846 / 0.88 | 0.823 / 0.787 | 0.841 | 0.688 | 4.42 |
+| 600 k, MultiPV 2 | 73.0% | 0.840 / 0.84 | 0.827 / 0.776 | 0.826 | 0.701 | 4.48 |
+| 600 k, MultiPV 3 | 72.3% | 0.840 / 0.84 | 0.831 / 0.763 | 0.856 | 0.694 | 4.36 |
+| 1.1 M, MultiPV 3 | 72.1% | 0.840 / 0.84 | 0.823 / 0.751 | 0.855 | 0.691 | 4.21 |
+
+No search change kept every metric at or above the baseline. Any change moves 12–20% of labels
+(1,057–1,753 plies), almost all to a neighbouring grade, and gains and losses nearly cancel
+(`flips.cjs`). The Brilliant precision drop is one ply in every variant (185221110711 ply 72
+Rxc3, Best for Chess.com): at depth 18 the second line is 71 cp worse, with node budgets only
+20 cp, which crosses a Brilliant gate. One depth-limited review (184110410320, depth 18
+MultiPV 2) hit the 60 s per-search timeout; node budgets cannot.
+
+The search setting therefore stays depth 18, MultiPV 3 until a node budget is accepted with
+these trade-offs, or passes on all 577 games.

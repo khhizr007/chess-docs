@@ -1,0 +1,2 @@
+sp-d18m2 --depth 18 --multipv 2
+sp-n600m3 --nodes 600000 --multipv 3
