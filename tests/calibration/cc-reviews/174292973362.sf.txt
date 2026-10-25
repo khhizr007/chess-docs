@@ -1,0 +1,57 @@
+eng 10 acc 71.2 87.6 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 e7e5 book 26@28 - - -
+3 f1c4 book 9@32 - - -
+4 b8c6 book 27@32 - - - K
+5 c2c3 good -23@29 d2d3 best 27@31
+6 g8f6 best -23@28 - - -
+7 d1f3 good -66@27 d2d3 best -23@27
+8 d7d6 good -33@28 c6a5 best -66@26
+9 h2h3 best -33@27 - - -
+10 f8e7 excellent -27@30 a7a6 best -33@26
+11 g2g4 inaccuracy -124@30 d2d3 best -27@29
+12 e8g8 best -124@29 - - -
+13 d2d3 best -124@28 - - -
+14 a7a6 good -88@26 d6d5 best -124@27
+15 c1g5 good -109@17 g1e2 best -88@25
+16 c6a5 best -109@16 - - -
+17 g5f6 inaccuracy -157@20 b1d2 best -109@15
+18 e7f6 best -157@19 - - -
+19 b1d2 excellent -160@19 c4b3 best -157@18
+20 a5c4 inaccuracy -104@17 f6g5 best -160@18
+21 d2c4 best -104@16 - - -
+22 b7b5 good -73@17 c8e6 best -104@15
+23 c4d2 inaccuracy -132@19 c4e3 best -73@16
+24 c8b7 best -132@18 - - -
+25 h3h4 best -132@17 - - -
+26 d6d5 best -132@16 - - -
+27 g4g5 excellent -140@16 g1e2 best -132@15
+28 f6e7 best -140@15 - - -
+29 f3g4 inaccuracy -198@18 g1e2 best -140@14
+30 b7c8 inaccuracy -136@20 d5e4 best -198@17
+31 g4g3 best -136@19 - - -
+32 f7f5 best -136@18 - - -
+33 e4d5 inaccuracy -230@19 g5f6 best -136@17
+34 d8d5 best -230@18 - - -
+35 f2f3 inaccuracy -321@19 g3f3 best -230@17
+36 d5d3 good -261@17 e7d6 best -321@18
+37 g1e2 inaccuracy -389@19 g3e5 best -261@16
+38 f5f4 excellent -373@19 f8d8 best -389@18
+39 g3g2 excellent -398@20 g3f2 best -373@18
+40 c8b7 good -337@19 f8d8 best -398@19
+41 a1d1 good -407@19 e2c1 best -337@18
+42 a8d8 excellent -381@19 d3c2 best -407@18
+43 h4h5 inaccuracy -542@19 e2c1 best -381@18
+44 e7c5 good -449@17 e5e4 best -542@18
+45 g5g6 good -512@18 h5h6 best -449@16
+46 h7h6 best -512@17 - - -
+47 g2g4 good -598@18 e2c1 best -512@16
+48 d8d6 good -540@21 b7c8 best -598@17
+49 h1h2 best -540@20 - - -
+50 f8d8 best -540@19 - - -
+51 a2a3 inaccuracy -805@18 b2b4 best -540@18
+52 b7f3 brilliant -805@17 - - - K
+53 g4f3 mistake -1029@20 g4h3 best -805@16 K
+54 d3f3 best -1029@19 - - -
+55 d2f3 mistake -M1@246 e2d4 best -1029@18 K
+56 d6d1 best -M0@245 - - -

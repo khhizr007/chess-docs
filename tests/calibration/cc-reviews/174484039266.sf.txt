@@ -1,0 +1,76 @@
+eng 10 acc 98.0 89.5 cee 1.198.16
+1 d2d4 book 30@31 - - -
+2 d7d5 book 36@18 - - -
+3 c2c4 book 36@17 - - -
+4 d5c4 book 46@29 - - -
+5 e2e3 book 23@31 - - -
+6 g8f6 book 28@28 - - -
+7 f1c4 book 28@27 - - - K
+8 e7e6 book 31@33 - - -
+9 g1f3 book 31@32 - - -
+10 a7a6 book 31@31 - - -
+11 e1g1 book 31@30 - - -
+12 c7c5 book 31@29 - - -
+13 c4b3 book 21@31 - - -
+14 b8c6 book 38@27 - - -
+15 d1e2 book 28@27 - - -
+16 c5d4 book 28@26 - - -
+17 f1d1 book 28@25 - - -
+18 f8e7 book 34@29 - - -
+19 e3d4 book 34@28 - - - K
+20 e8g8 book 34@27 - - -
+21 b1c3 book 34@26 - - - K
+22 b7b5 mistake 167@20 c6a5 best 34@25 K
+23 d4d5 great 167@19 - - - K
+24 e6d5 best 167@18 - - -
+25 c3d5 best 167@17 - - -
+26 f6d5 mistake 354@17 c8d7 best 167@16 K
+27 b3d5 best 354@16 - - -
+28 c8d7 excellent 389@23 c8b7 best 354@15
+29 d5c6 best 389@22 - - - K
+30 d7c6 best 389@21 - - -
+31 d1d8 best 389@20 - - -
+32 a8d8 excellent 411@19 e7d8 best 389@19
+33 c1e3 excellent 390@17 c1g5 best 411@18
+34 f8e8 best 390@16 - - -
+35 a1d1 best 390@15 - - -
+36 d8c8 excellent 403@21 d8d1 best 390@14
+37 f3e5 best 403@20 - - -
+38 c6e4 best 403@19 - - -
+39 e2h5 best 403@18 - - -
+40 g7g6 excellent 427@22 f7f6 best 403@17
+41 h5g4 best 427@21 - - -
+42 e4f5 best 427@20 - - -
+43 g4f3 best 427@19 - - -
+44 h7h5 excellent 433@18 e7f6 best 427@18
+45 h2h3 excellent 424@18 g2g4 best 433@17
+46 h5h4 excellent 489@19 f5e6 best 424@17
+47 e5g4 best 489@18 - - -
+48 f5g4 excellent 497@23 g8f8 best 489@17
+49 h3g4 best 497@22 - - -
+50 c8d8 best 497@21 - - -
+51 d1d8 best 497@20 - - -
+52 e8d8 best 497@19 - - -
+53 g4g5 best 497@18 - - -
+54 e7f8 excellent 501@18 a6a5 best 497@17
+55 f3g4 excellent 476@18 g2g3 best 501@17
+56 f8g7 excellent 526@18 a6a5 best 476@17
+57 b2b3 best 526@17 - - -
+58 a6a5 excellent 532@20 g7f8 best 526@16
+59 g4h4 best 532@19 - - -
+60 b5b4 excellent 571@19 d8d1 best 532@18
+61 h4e4 excellent 567@17 g2g3 best 571@18
+62 g7c3 excellent 585@18 d8d1 best 567@16
+63 g2g3 excellent 560@19 e4e7 best 585@17
+64 c3b2 excellent 589@18 g8g7 best 560@18
+65 g1g2 excellent 588@18 e4e7 best 589@17
+66 b2c3 excellent 590@23 g8g7 best 588@17
+67 e4b7 best 590@22 - - -
+68 d8e8 best 590@21 - - -
+69 b7b5 best 590@20 - - -
+70 e8e5 excellent 642@20 e8d8 best 590@19
+71 b5b8 excellent 614@20 b5d7 best 642@19
+72 g8g7 best 614@19 - - -
+73 e3f4 best 614@18 - - -
+74 e5e6 excellent 632@18 e5f5 best 614@17
+75 f4d6 excellent 613@19 b8d8 best 632@17

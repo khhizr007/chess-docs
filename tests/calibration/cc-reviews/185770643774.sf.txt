@@ -1,0 +1,61 @@
+eng 10 acc 76.6 83.7 cee 1.198.16
+1 g2g3 book 25@33 - - -
+2 e7e5 book 26@28 - - -
+3 f1g2 book -26@28 - - -
+4 b8c6 book 30@31 - - - K
+5 e2e4 excellent 14@31 c2c4 best 30@30
+6 g8f6 best 14@30 - - -
+7 g1f3 good -53@30 b1c3 best 14@29
+8 f6e4 best -53@29 - - - K
+9 e1g1 best -53@27 - - -
+10 f8c5 excellent -23@30 d7d6 best -53@26
+11 d2d3 good -60@21 d1e1 best -23@29
+12 e4f2 best -60@20 - - -
+13 f1f2 best -60@19 - - -
+14 c5f2 best -60@18 - - -
+15 g1f2 best -60@17 - - -
+16 e8g8 good -14@15 d7d5 best -60@16
+17 f2g1 good -66@15 c2c4 best -14@14
+18 d7d6 good -11@15 d7d5 best -66@14
+19 c1e3 excellent -36@15 c2c4 best -11@14
+20 b7b6 inaccuracy 57@15 d6d5 best -36@14
+21 c2c4 excellent 51@19 f3d4 best 57@14
+22 c8b7 best 51@18 - - -
+23 b1c3 best 51@17 - - -
+24 c6e7 best 51@16 - - -
+25 d1d2 excellent 21@15 d3d4 best 51@15
+26 g7g6 mistake 258@17 c7c5 best 21@14 K
+27 b2b4 good 183@18 e3h6 best 258@16
+28 e7f5 best 183@17 - - -
+29 a2a4 inaccuracy 79@18 e3h6 best 183@16
+30 a7a5 good 118@20 f5e3 best 79@17
+31 b4b5 best 118@19 - - -
+32 f5e3 best 118@18 - - -
+33 d2e3 best 118@17 - - -
+34 f7f5 inaccuracy 177@19 d8e7 best 118@16
+35 a1e1 inaccuracy 93@18 e3h6 best 177@18
+36 f5f4 good 137@16 d8f6 best 93@17
+37 g3f4 excellent 134@19 e3e2 best 137@15
+38 f8f4 best 134@18 - - -
+39 f3d2 mistake -10@17 f3e5 best 134@17 K
+40 b7g2 best -10@16 - - -
+41 g1g2 best -10@15 - - -
+42 d8g5 excellent 20@16 d8h4 best -10@14
+43 g2h1 great 20@15 - - - K
+44 a8f8 mistake 223@18 g5h4 best 20@14 K
+45 c3e4 miss -451@23 c3d5 best 223@17 K
+46 f4f1 brilliant -451@22 - - - K
+47 d2f1 best -451@21 - - -
+48 f8f1 brilliant -451@20 - - - K
+49 e1f1 best -451@19 - - -
+50 g5e3 best -451@18 - - - K
+51 e4f6 excellent -472@19 e4f2 best -451@17
+52 g8g7 best -472@18 - - -
+53 f6e8 excellent -482@19 h1g2 best -472@17
+54 g7h6 best -482@18 - - -
+55 e8c7 good -557@18 h1g2 best -482@17
+56 e3d3 excellent -552@18 e5e4 best -557@17 K
+57 f1g1 mistake -703@17 h1g1 best -552@17 K
+58 d3c4 excellent -691@17 d3e4 best -703@16
+59 c7e6 excellent -738@17 h2h3 best -691@16
+60 c4e6 excellent -712@18 c4d5 best -738@16

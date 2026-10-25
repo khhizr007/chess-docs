@@ -1,0 +1,60 @@
+eng 10 acc 82.2 70.5 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 b7b6 book 100@29 - - -
+3 g1f3 book 71@30 - - -
+4 c8b7 book 71@29 - - -
+5 b1c3 book 71@28 - - - K
+6 b8c6 inaccuracy 137@28 e7e6 best 71@27
+7 d2d4 best 137@27 - - -
+8 e7e6 best 137@26 - - -
+9 d4d5 best 137@25 - - -
+10 e6d5 good 162@30 c6e7 best 137@24
+11 e4d5 best 162@29 - - -
+12 d8e7 inaccuracy 261@25 c6e7 best 162@28
+13 c1e3 inaccuracy 179@27 f1e2 best 261@24
+14 c6b4 inaccuracy 333@26 c6e5 best 179@26
+15 a2a3 good 288@17 f1c4 best 333@25
+16 b4a6 excellent 304@20 f7f5 best 288@16
+17 f1d3 excellent 271@17 f1c4 best 304@19
+18 e8c8 good 313@18 a6c5 best 271@16
+19 e1g1 best 313@17 - - -
+20 g8f6 excellent 343@20 a6c5 best 313@16
+21 f1e1 best 343@19 - - -
+22 d7d6 mistake 556@17 d8e8 best 343@17 K
+23 e3b6 inaccuracy 445@18 e3g5 best 556@16
+24 e7d7 good 503@18 a7b6 best 445@17
+25 f3d4 brilliant 450@17 - - - K
+26 a7b6 excellent 451@22 g7g6 best 450@16
+27 d3f5 best 451@21 - - -
+28 d7f5 best 451@20 - - -
+29 d4f5 best 451@19 - - -
+30 c8b8 excellent 478@20 h7h5 best 451@18
+31 b2b4 best 478@19 - - -
+32 g7g6 mistake 507@18 h7h5 best 478@18 K
+33 f5d4 good 450@18 d1d4 best 507@17
+34 f8g7 good 535@22 f6d5 best 450@17
+35 d4c6 best 535@21 - - - K
+36 b7c6 best 535@20 - - -
+37 d5c6 best 535@19 - - -
+38 f6e8 good 606@21 b8a7 best 535@18
+39 d1d3 best 606@20 - - -
+40 b8a7 best 606@19 - - -
+41 b4b5 inaccuracy 487@19 c3b5 best 606@18
+42 a6c5 best 487@18 - - -
+43 d3c4 good 413@18 d3f3 best 487@17
+44 h8f8 inaccuracy 535@18 d6d5 best 413@17
+45 a3a4 excellent 529@19 c4b4 best 535@17
+46 d8a8 inaccuracy 643@15 d6d5 best 529@18
+47 a4a5 best 643@14 - - -
+48 a7b8 mistake 644@19 e8f6 best 643@13 K
+49 a5b6 best 644@18 - - - K
+50 c7b6 mistake M8@37 a8a1 best 644@17 K
+51 a1a8 best M7@36 - - -
+52 b8a8 best M7@35 - - -
+53 e1e7 miss 622@18 c4a2 best M6@34 K
+54 e8c7 mistake 875@18 g7c3 best 622@17 K
+55 e7c7 best 875@17 - - - K
+56 g7c3 excellent 886@21 c5a6 best 875@16
+57 c4c3 best 886@20 - - -
+58 a8b8 best 886@19 - - -
+59 c7e7 best 886@18 - - -

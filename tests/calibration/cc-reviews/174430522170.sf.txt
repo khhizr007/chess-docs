@@ -1,0 +1,57 @@
+eng 10 acc 58.6 69.3 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 c7c6 book 49@29 - - -
+3 d2d4 book 49@28 - - -
+4 d7d5 book 49@27 - - -
+5 e4d5 book 28@35 - - -
+6 c6d5 book 28@34 - - -
+7 c2c4 book 18@29 - - -
+8 d5c4 book 42@29 - - -
+9 f1c4 book 42@28 - - - K
+10 g7g6 inaccuracy 100@29 g8f6 best 42@27
+11 d1f3 mistake -22@19 b1c3 best 100@28 K
+12 g8f6 best -22@18 - - -
+13 c1g5 good -59@17 c4b5 best -22@17
+14 f8g7 best -59@16 - - -
+15 b1c3 inaccuracy -99@15 g1e2 best -59@15
+16 e8g8 inaccuracy -36@15 d8d4 best -99@14
+17 e1c1 blunder -215@18 g1e2 best -36@14 K
+18 b8c6 inaccuracy -165@16 c8g4 best -215@17
+19 f3e3 inaccuracy -262@18 g5f6 best -165@15
+20 e7e6 mistake -63@12 c6a5 best -262@17 K
+21 h2h3 miss -158@18 g1f3 best -63@11
+22 d8c7 miss -88@15 b7b5 best -158@17
+23 g5f4 inaccuracy -135@16 g5f6 best -88@14
+24 c7b6 inaccuracy -88@18 c7a5 best -135@15
+25 c4b3 mistake -215@17 g1e2 best -88@17 K
+26 f6d5 miss -120@21 c8d7 best -215@16
+27 b3d5 best -120@20 - - -
+28 e6d5 best -120@19 - - -
+29 c3d5 mistake -207@20 f4h6 best -120@18 K
+30 b6a5 best -207@19 - - -
+31 c1b1 mistake -594@19 d5c7 best -207@18 K
+32 c8e6 inaccuracy -431@20 a5d5 best -594@18
+33 d5c3 best -431@19 - - -
+34 a8d8 inaccuracy -315@18 e6f5 best -431@18
+35 g1e2 best -315@17 - - -
+36 f8e8 excellent -310@16 d8e8 best -315@16
+37 e3d2 inaccuracy -425@19 e3f3 best -310@15
+38 c6d4 inaccuracy -286@18 c6b4 best -425@18
+39 e2d4 best -286@17 - - -
+40 d8d4 excellent -277@17 g7d4 best -286@16
+41 d2c1 mistake -559@17 d2d4 best -277@16 K
+42 d4d1 excellent -511@18 a5f5 best -559@16
+43 h1d1 best -511@17 - - -
+44 a5f5 mistake -240@18 g7c3 best -511@16 K
+45 b1a1 best -240@17 - - -
+46 e8c8 best -240@16 - - -
+47 g2g4 excellent -248@17 d1d6 best -240@15
+48 f5a5 best -248@16 - - -
+49 f4d2 mistake -771@20 c1d2 best -248@15 K
+50 g7c3 great -771@19 - - - K
+51 a2a3 inaccuracy -M4@44 c1b1 best -771@18
+52 c3d2 good -811@18 a5a3 best -M3@43
+53 c1d2 inaccuracy -M4@87 c1b1 best -811@17
+54 a5d2 best -M3@86 - - -
+55 d1d2 inaccuracy -M1@246 d1b1 best -M3@85
+56 c8c1 best -M0@245 - - -

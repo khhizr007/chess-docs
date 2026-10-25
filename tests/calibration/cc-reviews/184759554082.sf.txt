@@ -1,0 +1,63 @@
+eng 10 acc 81.2 87.7 cee 1.198.16
+1 b2b3 book -5@30 - - -
+2 e7e5 book -5@29 - - -
+3 c1b2 book -5@28 - - -
+4 b8c6 book -5@27 - - -
+5 e2e3 book -5@26 - - -
+6 a7a6 book 8@30 - - - K
+7 c2c4 best 8@29 - - -
+8 g7g6 good 32@17 d7d5 best 8@28
+9 h2h4 inaccuracy -11@16 f1e2 best 32@16
+10 g8f6 best -11@15 - - -
+11 f1e2 good -25@16 b1c3 best -11@14
+12 f8g7 good 0@16 d7d5 best -25@15
+13 h4h5 best 0@15 - - -
+14 e8g8 excellent 3@17 f6h5 best 0@14
+15 h5g6 good -21@18 b1c3 best 3@16
+16 h7g6 excellent -13@15 f7g6 best -21@17
+17 g1f3 good -39@19 b1c3 best -13@14
+18 e5e4 best -39@18 - - -
+19 f3g5 mistake -109@17 f3e5 best -39@17 K
+20 f8e8 miss -52@19 d7d5 best -109@16
+21 b1c3 best -52@18 - - -
+22 d7d5 great -52@17 - - - K
+23 c3d5 blunder -198@21 c4d5 best -52@16 K
+24 f6d5 best -198@20 - - -
+25 b2g7 best -198@19 - - -
+26 d8g5 great -198@18 - - - K
+27 c4d5 inaccuracy -324@18 g7b2 best -198@17
+28 g8g7 miss -96@21 g5g2 best -324@17 K
+29 d5c6 best -96@20 - - -
+30 g5g2 best -96@19 - - - K
+31 h1f1 best -96@18 - - -
+32 b7b6 best -96@17 - - -
+33 d1c2 best -96@16 - - -
+34 g2g5 excellent -88@19 c8g4 best -96@15
+35 e1c1 good -101@15 c2c3 best -88@18
+36 g5f6 best -101@14 - - -
+37 c1b1 good -119@17 c2b2 best -101@13
+38 c8f5 excellent -110@17 e8h8 best -119@16
+39 d2d3 inaccuracy -135@17 d2d4 best -110@16
+40 e8e6 excellent -131@21 f5h3 best -135@16
+41 d3d4 best -131@20 - - -
+42 e6c6 best -131@19 - - - K
+43 c2b2 best -131@18 - - -
+44 c6d6 excellent -128@19 a6a5 best -131@17
+45 d1c1 best -128@18 - - -
+46 c7c6 best -128@17 - - -
+47 b1a1 best -128@16 - - -
+48 a6a5 good -116@16 d6e6 best -128@15
+49 a2a4 inaccuracy -161@18 f2f3 best -116@15
+50 f5e6 mistake -21@16 f5h3 best -161@17 K
+51 e2c4 miss -168@18 f2f3 best -21@15
+52 a8h8 good -141@22 e6d7 best -168@17
+53 c4e6 best -141@21 - - -
+54 d6e6 best -141@20 - - -
+55 f1h1 inaccuracy -176@18 f1g1 best -141@19
+56 e6e8 good -161@18 h8h1 best -176@17
+57 a1a2 good -173@19 h1d1 best -161@17
+58 e8c8 inaccuracy -136@18 h8h1 best -173@18
+59 h1h8 inaccuracy -174@19 h1d1 best -136@17
+60 c8h8 best -174@18 - - -
+61 b2c3 mistake -345@19 a2a3 best -174@17 K
+62 h8h2 best -345@18 - - -

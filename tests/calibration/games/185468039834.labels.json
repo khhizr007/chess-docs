@@ -1,0 +1,350 @@
+{
+  "game_id": "185468039834",
+  "source_url": "https://www.chess.com/game/live/185468039834",
+  "collected_at": "2026-10-17",
+  "review_settings": {
+    "strength": "Fast (18)",
+    "engine": "stockfish16 nnue",
+    "notes": "new review requested after switching engine"
+  },
+  "white": "daaj98",
+  "black": "khhizr7",
+  "white_elo": "1005",
+  "black_elo": "1025",
+  "time_control": "600",
+  "result": "0-1",
+  "white_accuracy": 80,
+  "black_accuracy": 87.5,
+  "counts": {
+    "white": {
+      "brilliant": 0,
+      "great": 0,
+      "book": 4,
+      "best": 9,
+      "excellent": 2,
+      "good": 1,
+      "inaccuracy": 1,
+      "mistake": 1,
+      "miss": 1,
+      "blunder": 0
+    },
+    "black": {
+      "brilliant": 0,
+      "great": 1,
+      "book": 4,
+      "best": 6,
+      "excellent": 3,
+      "good": 3,
+      "inaccuracy": 2,
+      "mistake": 0,
+      "miss": 0,
+      "blunder": 0
+    }
+  },
+  "plies": [
+    {
+      "ply": 1,
+      "san": "e4",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.26"
+    },
+    {
+      "ply": 2,
+      "san": "e5",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.26"
+    },
+    {
+      "ply": 3,
+      "san": "Bc4",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.12"
+    },
+    {
+      "ply": 4,
+      "san": "Nf6",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.12"
+    },
+    {
+      "ply": 5,
+      "san": "Nc3",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.12"
+    },
+    {
+      "ply": 6,
+      "san": "Nc6",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.18"
+    },
+    {
+      "ply": 7,
+      "san": "Nf3",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.15"
+    },
+    {
+      "ply": 8,
+      "san": "Bc5",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.21"
+    },
+    {
+      "ply": 9,
+      "san": "d4",
+      "label": "inaccuracy",
+      "app_best_san": "d3",
+      "app_best_uci": "d2d3",
+      "app_eval": "-0.94"
+    },
+    {
+      "ply": 10,
+      "san": "exd4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.94"
+    },
+    {
+      "ply": 11,
+      "san": "Nd5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.94"
+    },
+    {
+      "ply": 12,
+      "san": "d6",
+      "label": "inaccuracy",
+      "app_best_san": "h6",
+      "app_best_uci": "h7h6",
+      "app_eval": "0.00"
+    },
+    {
+      "ply": 13,
+      "san": "Bg5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "0.00"
+    },
+    {
+      "ply": 14,
+      "san": "h6",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.60"
+    },
+    {
+      "ply": 15,
+      "san": "Bxf6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.60"
+    },
+    {
+      "ply": 16,
+      "san": "gxf6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.60"
+    },
+    {
+      "ply": 17,
+      "san": "O-O",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.60"
+    },
+    {
+      "ply": 18,
+      "san": "Ne5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.61"
+    },
+    {
+      "ply": 19,
+      "san": "Nxe5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.61"
+    },
+    {
+      "ply": 20,
+      "san": "fxe5",
+      "label": "inaccuracy",
+      "app_best_san": "dxe5",
+      "app_best_uci": "d6e5",
+      "app_eval": "+1.53"
+    },
+    {
+      "ply": 21,
+      "san": "Qh5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.48"
+    },
+    {
+      "ply": 22,
+      "san": "Be6",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.84"
+    },
+    {
+      "ply": 23,
+      "san": "Qf3",
+      "label": "miss",
+      "app_best_san": "Nxc7+",
+      "app_best_uci": "d5c7",
+      "app_eval": "-0.91"
+    },
+    {
+      "ply": 24,
+      "san": "c6",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.83"
+    },
+    {
+      "ply": 25,
+      "san": "Nf6+",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-1.28"
+    },
+    {
+      "ply": 26,
+      "san": "Ke7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-1.28"
+    },
+    {
+      "ply": 27,
+      "san": "Bxe6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-1.28"
+    },
+    {
+      "ply": 28,
+      "san": "fxe6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-1.28"
+    },
+    {
+      "ply": 29,
+      "san": "Rab1",
+      "label": "mistake",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.36"
+    },
+    {
+      "ply": 30,
+      "san": "Rf8",
+      "label": "great",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.36"
+    },
+    {
+      "ply": 31,
+      "san": "b4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.61"
+    },
+    {
+      "ply": 32,
+      "san": "Rxf6",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.39"
+    },
+    {
+      "ply": 33,
+      "san": "Qh3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.39"
+    },
+    {
+      "ply": 34,
+      "san": "Bb6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.39"
+    },
+    {
+      "ply": 35,
+      "san": "a4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.39"
+    },
+    {
+      "ply": 36,
+      "san": "a5",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-2.75"
+    },
+    {
+      "ply": 37,
+      "san": "bxa5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-2.75"
+    },
+    {
+      "ply": 38,
+      "san": "Rxa5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-2.75"
+    }
+  ]
+}

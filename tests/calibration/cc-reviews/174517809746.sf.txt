@@ -1,0 +1,66 @@
+eng 10 acc 77.7 68.4 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 e7e5 book 26@28 - - - K
+3 d1h5 good -32@30 g1f3 best 26@26
+4 b8c6 best -32@29 - - -
+5 b2b4 mistake -271@19 f1c4 best -32@28 K
+6 c6b4 miss -47@27 g8f6 best -271@18
+7 h5e5 great -47@26 - - - K
+8 d8e7 excellent -41@15 f8e7 best -47@25
+9 e5e7 best -41@14 - - -
+10 f8e7 good 13@16 g8e7 best -41@13
+11 b1a3 excellent -6@19 e1d1 best 13@15
+12 g8f6 best -6@18 - - -
+13 c2c3 excellent -29@20 f2f3 best -6@17
+14 b4c6 best -29@19 - - -
+15 a3c4 inaccuracy -124@20 a3b5 best -29@18
+16 f6e4 best -124@19 - - - K
+17 f2f3 best -124@18 - - -
+18 e4d6 good -91@19 e4c5 best -124@17
+19 c4d6 best -91@18 - - -
+20 e7d6 best -91@17 - - -
+21 c1b2 inaccuracy -154@19 d2d4 best -91@16
+22 c6a5 excellent -146@18 h7h5 best -154@18
+23 e1c1 good -185@20 e1f2 best -146@17
+24 e8g8 best -185@19 - - -
+25 h2h4 excellent -205@19 f1d3 best -185@18
+26 b7b6 excellent -184@17 a7a6 best -205@18
+27 g2g4 good -247@20 h4h5 best -184@16
+28 c8b7 best -247@19 - - -
+29 f1g2 good -327@18 c3c4 best -247@18
+30 a5c4 excellent -314@19 a8e8 best -327@17
+31 b2a1 good -384@17 h4h5 best -314@18
+32 d6a3 good -343@21 c4e5 best -384@16
+33 c1c2 best -343@20 - - -
+34 b7c6 best -343@19 - - -
+35 g4g5 mistake -522@21 c2b3 best -343@18 K
+36 c6a4 best -522@20 - - - K
+37 c2d3 best -522@19 - - -
+38 c4e5 good -451@19 a4d1 best -522@18
+39 d3e4 inaccuracy -575@19 d3e2 best -451@18
+40 a4d1 excellent -573@21 d7d5 best -575@18 K
+41 e4e5 best -573@20 - - -
+42 f8e8 excellent -568@21 a8e8 best -573@19
+43 e5f4 best -568@20 - - -
+44 a3d6 best -568@19 - - -
+45 f4g4 best -568@18 - - -
+46 g7g6 good -494@18 e8e1 best -568@17
+47 h4h5 excellent -503@19 c3c4 best -494@17
+48 f7f5 inaccuracy -365@17 e8e1 best -503@18
+49 g4h4 good -449@19 g5f6 best -365@16
+50 g6h5 excellent -407@19 e8e1 best -449@18
+51 h4h5 good -454@18 f3f4 best -407@18
+52 e8e6 excellent -431@19 e8e1 best -454@17
+53 h5h4 excellent -445@19 c3c4 best -431@18
+54 e6g6 excellent -414@18 d1c2 best -445@18
+55 f3f4 excellent -423@19 g1h3 best -414@17
+56 h7h6 mistake -225@19 a8e8 best -423@18 K
+57 g2a8 best -225@18 - - -
+58 h6g5 miss -72@16 d6f4 best -225@17 K
+59 f4g5 inaccuracy -167@16 h4g3 best -72@15
+60 d6e7 mistake 263@19 g6g7 best -167@15 K
+61 g1h3 best 263@18 - - -
+62 d1f3 mistake 604@20 d1g4 best 263@17 K
+63 a8f3 best 604@19 - - - K
+64 e7g5 mistake 806@19 g6h6 best 604@18 K
+65 h3g5 best 806@18 - - -

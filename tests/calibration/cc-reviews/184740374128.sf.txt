@@ -1,0 +1,59 @@
+eng 10 acc 56.3 64.2 cee 1.198.16
+1 e2e4 book 25@29 - - -
+2 e7e5 book 25@28 - - -
+3 g1f3 book 25@27 - - -
+4 g8f6 book 53@16 - - -
+5 b1c3 book 12@32 - - -
+6 f8b4 book 45@32 - - -
+7 f3e5 book 45@31 - - - K
+8 b4c3 excellent 46@27 e8g8 best 45@30
+9 b2c3 good 4@15 d2c3 best 46@26
+10 d8e7 good 76@28 e8g8 best 4@14
+11 d2d4 good 24@34 e5g4 best 76@27
+12 d7d6 best 24@33 - - -
+13 e5f3 good -43@15 c1a3 best 24@32
+14 e7e4 inaccuracy 41@14 f6e4 best -43@14
+15 c1e3 best 41@13 - - -
+16 c8g4 excellent 46@16 e4c6 best 41@12
+17 f1d3 best 46@15 - - -
+18 g4f3 mistake 256@18 e4c6 best 46@14 K
+19 g2f3 miss 4@16 d3e4 best 256@17 K
+20 e4e7 inaccuracy 102@15 e4c6 best 4@15
+21 c3c4 inaccuracy 28@17 e1d2 best 102@14
+22 d6d5 excellent 41@16 b8c6 best 28@16
+23 c4c5 excellent 15@15 d1b1 best 41@15
+24 b8d7 excellent 26@15 b7b6 best 15@14
+25 a2a4 good -17@16 e1d2 best 26@14
+26 f6h5 good 38@17 e8g8 best -17@15
+27 e1g1 best 38@16 - - -
+28 e8c8 mistake 194@16 e8g8 best 38@15 K
+29 a4a5 inaccuracy 131@15 d1d2 best 194@15
+30 a7a6 mistake 347@19 e7f6 best 131@14 K
+31 c2c4 miss 64@16 c5c6 best 347@18
+32 d7f6 miss 242@18 d5c4 best 64@15
+33 e3g5 miss 98@15 a1b1 best 242@17
+34 h7h6 inaccuracy 211@18 e7d7 best 98@14
+35 g5f6 mistake -175@18 d3f5 best 211@17 K
+36 e7f6 best -175@17 - - -
+37 c4d5 inaccuracy -265@17 a1a4 best -175@16
+38 d8d5 excellent -248@18 h5f4 best -265@16
+39 d3e4 mistake -492@15 f1e1 best -248@17 K
+40 d5g5 mistake 0@27 h5f4 best -492@14 K
+41 g1h1 forced 0@26 - - -
+42 h5f4 best 0@25 - - -
+43 d1b3 best 0@20 - - -
+44 c7c6 best 0@27 - - -
+45 a1b1 inaccuracy -84@15 f1b1 best 0@14
+46 f6e7 blunder 382@18 b7b5 best -84@14 K
+47 h2h4 miss -447@22 e4c6 best 382@17
+48 g5h5 great -447@21 - - - K
+49 b3b7 best -447@20 - - -
+50 e7b7 best -447@19 - - -
+51 b1b7 best -447@18 - - -
+52 c8b7 best -447@17 - - -
+53 e4c6 mistake -731@20 f1b1 best -447@16 K
+54 b7c6 best -731@19 - - -
+55 h1h2 excellent -750@21 f1b1 best -731@18
+56 h5h4 best -750@20 - - -
+57 h2g3 best -750@19 - - -
+58 g7g5 best -750@18 - - -

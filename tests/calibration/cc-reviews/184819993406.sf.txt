@@ -1,0 +1,63 @@
+eng 10 acc 56.2 62.7 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 c7c5 book 35@31 - - -
+3 g1f3 book 32@28 - - -
+4 e7e6 book 49@28 - - -
+5 d2d4 book 49@27 - - -
+6 d7d5 book 89@29 - - -
+7 e4d5 book 89@28 - - -
+8 e6d5 book 89@27 - - - K
+9 f1e2 inaccuracy 26@32 f1b5 best 89@26
+10 d8b6 mistake 131@15 b8c6 best 26@31 K
+11 e1g1 excellent 119@16 b1c3 best 131@14
+12 c8e6 inaccuracy 172@20 g8f6 best 119@15
+13 d4c5 inaccuracy 119@19 c2c4 best 172@19
+14 f8c5 best 119@18 - - -
+15 f1e1 blunder -253@22 b1c3 best 119@17 K
+16 c5f2 great -253@21 - - - K
+17 g1h1 best -253@20 - - -
+18 f2e1 best -253@19 - - - K
+19 d1e1 best -253@18 - - -
+20 g8e7 best -253@17 - - -
+21 b1d2 good -318@20 c1e3 best -253@16
+22 e8g8 best -318@19 - - -
+23 d2b3 excellent -336@19 a2a4 best -318@18
+24 b8c6 excellent -330@19 e6f5 best -336@18
+25 e1g3 excellent -342@19 a2a4 best -330@18
+26 e7g6 excellent -320@18 a8e8 best -342@18
+27 h2h4 excellent -324@18 a2a4 best -320@17
+28 e6f5 good -287@19 h7h5 best -324@17
+29 h4h5 best -287@18 - - -
+30 f5c2 mistake -157@20 f8e8 best -287@17 K
+31 h5g6 best -157@19 - - -
+32 f7g6 best -157@18 - - -
+33 b3d2 mistake -298@21 c1d2 best -157@17 K
+34 a8e8 best -298@20 - - -
+35 e2f1 best -298@19 - - -
+36 c6d4 inaccuracy -181@19 c6e7 best -298@18
+37 b2b3 mistake -515@18 g3f2 best -181@18 K
+38 d4e2 miss -125@17 d4f3 best -515@17 K
+39 g3h4 blunder -471@19 f1e2 best -125@16 K
+40 e2c1 miss -147@18 g6g5 best -471@18 K
+41 a1c1 best -147@17 - - -
+42 c2f5 excellent -142@16 e8c8 best -147@16
+43 f3g5 inaccuracy -235@19 h4d4 best -142@15
+44 h7h6 great -235@18 - - - K
+45 g5f3 best -235@17 - - -
+46 b6e3 inaccuracy -170@17 b6d6 best -235@16
+47 h4b4 good -206@17 h4d4 best -170@16
+48 b7b6 inaccuracy -126@18 f5e4 best -206@16
+49 c1c3 mistake -246@19 f1b5 best -126@17 K
+50 e3f2 miss -134@17 a7a5 best -246@18
+51 b4d6 inaccuracy -209@19 f1b5 best -134@16
+52 f5e4 mistake -34@14 e8d8 best -209@18 K
+53 d2e4 blunder -561@19 f1b5 best -34@13 K
+54 d5e4 miss -200@18 f2f1 best -561@18 K
+55 d6d5 mistake -532@17 f1c4 best -200@17 K
+56 g8h8 best -532@16 - - -
+57 f3e5 mistake -798@20 f3h2 best -532@15 K
+58 f2f1 best -798@19 - - - K
+59 h1h2 forced -798@18 - - -
+60 f1f4 best -798@17 - - -
+61 g2g3 inaccuracy -M4@60 h2g1 best -798@16
+62 f4e5 good -769@17 f4f2 best -M3@59

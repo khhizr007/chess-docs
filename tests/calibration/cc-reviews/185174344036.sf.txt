@@ -1,0 +1,34 @@
+eng 10 acc 55.3 45.0 cee 1.198.16
+1 b1c3 book -4@29 - - -
+2 e7e5 book 36@27 - - - K
+3 c3d5 inaccuracy -88@27 g1f3 best 36@26
+4 f8c5 good -28@30 c7c6 best -88@26
+5 e2e4 good -75@21 e2e3 best -28@29
+6 c7c6 best -75@20 - - -
+7 d5e3 best -75@19 - - -
+8 g8f6 best -75@18 - - -
+9 e3f5 inaccuracy -153@15 d2d3 best -75@17
+10 f6e4 good -117@19 g7g6 best -153@14
+11 f5g7 best -117@18 - - -
+12 e8f8 great -117@17 - - - K
+13 d1g4 mistake -368@18 d1f3 best -117@16 K
+14 d8f6 inaccuracy -256@16 c5f2 best -368@17
+15 f1c4 mistake -470@21 g1f3 best -256@15 K
+16 f6f2 best -470@20 - - -
+17 e1d1 forced -470@19 - - -
+18 e4d2 miss 277@20 f2g1 best -470@18 K
+19 c1d2 best 277@19 - - -
+20 f2f1 blunder 845@19 f2f6 best 277@18 K
+21 c4f1 great 845@18 - - - K
+22 c5g1 inaccuracy M7@31 d7d5 best 845@17
+23 h1g1 good 940@17 g7f5 best M6@30
+24 f7f5 good M6@37 d7d6 best 940@16
+25 g4f5 best M5@35 - - -
+26 f8g8 excellent M4@45 f8e7 best M5@34
+27 f1c4 excellent M4@43 d2h6 best M3@39
+28 d7d5 best M4@42 - - -
+29 d2h6 miss 540@17 g7e6 best M3@41 K
+30 d5c4 mistake M3@132 c8f5 best 540@16 K
+31 g7e6 miss 951@17 f5c8 best M2@114 K
+32 c8e6 mistake M1@246 b8d7 best 951@16 K
+33 f5e6 best -M0@245 - - -

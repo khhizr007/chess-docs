@@ -1,0 +1,438 @@
+{
+  "game_id": "1034847688",
+  "source_url": "https://www.chess.com/game/daily/1034847688",
+  "collected_at": "2026-10-17",
+  "review_settings": {
+    "strength": "Fast (18)",
+    "engine": "stockfish16 nnue",
+    "notes": "other player's daily game; review requested after switching engine"
+  },
+  "white": "AMansfield",
+  "black": "erik",
+  "white_elo": "1548",
+  "black_elo": "1490",
+  "time_control": "1/259200",
+  "result": "1-0",
+  "white_accuracy": 73.7,
+  "black_accuracy": 65,
+  "counts": {
+    "white": {
+      "brilliant": 0,
+      "great": 1,
+      "book": 1,
+      "best": 7,
+      "excellent": 3,
+      "good": 6,
+      "inaccuracy": 1,
+      "mistake": 3,
+      "miss": 2,
+      "blunder": 1
+    },
+    "black": {
+      "brilliant": 0,
+      "great": 1,
+      "book": 1,
+      "best": 6,
+      "excellent": 3,
+      "good": 2,
+      "inaccuracy": 6,
+      "mistake": 1,
+      "miss": 3,
+      "blunder": 1
+    }
+  },
+  "plies": [
+    {
+      "ply": 1,
+      "san": "Nf3",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.33"
+    },
+    {
+      "ply": 2,
+      "san": "d6",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.58"
+    },
+    {
+      "ply": 3,
+      "san": "e3",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.31"
+    },
+    {
+      "ply": 4,
+      "san": "Nf6",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.33"
+    },
+    {
+      "ply": 5,
+      "san": "d4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.33"
+    },
+    {
+      "ply": 6,
+      "san": "g6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.33"
+    },
+    {
+      "ply": 7,
+      "san": "Nbd2",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.13"
+    },
+    {
+      "ply": 8,
+      "san": "Bg7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.13"
+    },
+    {
+      "ply": 9,
+      "san": "c4",
+      "label": "inaccuracy",
+      "app_best_san": "Bd3",
+      "app_best_uci": "f1d3",
+      "app_eval": "-0.52"
+    },
+    {
+      "ply": 10,
+      "san": "O-O",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.50"
+    },
+    {
+      "ply": 11,
+      "san": "b3",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.89"
+    },
+    {
+      "ply": 12,
+      "san": "c5",
+      "label": "inaccuracy",
+      "app_best_san": "e5",
+      "app_best_uci": "e7e5",
+      "app_eval": "-0.10"
+    },
+    {
+      "ply": 13,
+      "san": "Bb2",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.10"
+    },
+    {
+      "ply": 14,
+      "san": "Nc6",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.28"
+    },
+    {
+      "ply": 15,
+      "san": "d5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.28"
+    },
+    {
+      "ply": 16,
+      "san": "Nb8",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.28"
+    },
+    {
+      "ply": 17,
+      "san": "Qc2",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.12"
+    },
+    {
+      "ply": 18,
+      "san": "b5",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.38"
+    },
+    {
+      "ply": 19,
+      "san": "h4",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.11"
+    },
+    {
+      "ply": 20,
+      "san": "Bg4",
+      "label": "inaccuracy",
+      "app_best_san": "Bf5",
+      "app_best_uci": "c8f5",
+      "app_eval": "+0.64"
+    },
+    {
+      "ply": 21,
+      "san": "Be2",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.24"
+    },
+    {
+      "ply": 22,
+      "san": "a5",
+      "label": "mistake",
+      "app_best_san": "Nbd7",
+      "app_best_uci": "b8d7",
+      "app_eval": "+1.29"
+    },
+    {
+      "ply": 23,
+      "san": "Ng5",
+      "label": "miss",
+      "app_best_san": "cxb5",
+      "app_best_uci": "c4b5",
+      "app_eval": "+0.44"
+    },
+    {
+      "ply": 24,
+      "san": "Bxe2",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.44"
+    },
+    {
+      "ply": 25,
+      "san": "Kxe2",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.44"
+    },
+    {
+      "ply": 26,
+      "san": "h6",
+      "label": "inaccuracy",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.90"
+    },
+    {
+      "ply": 27,
+      "san": "Ndf3",
+      "label": "mistake",
+      "app_best_san": "h5",
+      "app_best_uci": "h4h5",
+      "app_eval": "-0.60"
+    },
+    {
+      "ply": 28,
+      "san": "Nbd7",
+      "label": "miss",
+      "app_best_san": "Qd7",
+      "app_best_uci": "d8d7",
+      "app_eval": "+0.53"
+    },
+    {
+      "ply": 29,
+      "san": "Rad1",
+      "label": "mistake",
+      "app_best_san": "h5",
+      "app_best_uci": "h4h5",
+      "app_eval": "-1.48"
+    },
+    {
+      "ply": 30,
+      "san": "Nh5",
+      "label": "miss",
+      "app_best_san": "a4",
+      "app_best_uci": "a5a4",
+      "app_eval": "+1.64"
+    },
+    {
+      "ply": 31,
+      "san": "Bxg7",
+      "label": "blunder",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.01"
+    },
+    {
+      "ply": 32,
+      "san": "Nxg7",
+      "label": "miss",
+      "app_best_san": "Kxg7",
+      "app_best_uci": "g8g7",
+      "app_eval": "+2.30"
+    },
+    {
+      "ply": 33,
+      "san": "cxb5",
+      "label": "miss",
+      "app_best_san": "h5",
+      "app_best_uci": "h4h5",
+      "app_eval": "0.00"
+    },
+    {
+      "ply": 34,
+      "san": "hxg5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "0.00"
+    },
+    {
+      "ply": 35,
+      "san": "hxg5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "0.00"
+    },
+    {
+      "ply": 36,
+      "san": "Ne5",
+      "label": "inaccuracy",
+      "app_best_san": "a4",
+      "app_best_uci": "a5a4",
+      "app_eval": "+0.86"
+    },
+    {
+      "ply": 37,
+      "san": "Rh4",
+      "label": "mistake",
+      "app_best_san": "Rh6",
+      "app_best_uci": "h1h6",
+      "app_eval": "-0.10"
+    },
+    {
+      "ply": 38,
+      "san": "Nxf3",
+      "label": "great",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.10"
+    },
+    {
+      "ply": 39,
+      "san": "gxf3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.10"
+    },
+    {
+      "ply": 40,
+      "san": "Nf5",
+      "label": "inaccuracy",
+      "app_best_san": "f5",
+      "app_best_uci": "f7f5",
+      "app_eval": "+0.50"
+    },
+    {
+      "ply": 41,
+      "san": "Rh3",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.39"
+    },
+    {
+      "ply": 42,
+      "san": "e5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.39"
+    },
+    {
+      "ply": 43,
+      "san": "dxe6",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.30"
+    },
+    {
+      "ply": 44,
+      "san": "Qxg5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.46"
+    },
+    {
+      "ply": 45,
+      "san": "exf7+",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.09"
+    },
+    {
+      "ply": 46,
+      "san": "Kxf7",
+      "label": "inaccuracy",
+      "app_best_san": "Rxf7",
+      "app_best_uci": "f8f7",
+      "app_eval": "+0.92"
+    },
+    {
+      "ply": 47,
+      "san": "Rh7+",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.92"
+    },
+    {
+      "ply": 48,
+      "san": "Ke8",
+      "label": "blunder",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "M9"
+    },
+    {
+      "ply": 49,
+      "san": "Qe4+",
+      "label": "great",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "M8"
+    }
+  ]
+}

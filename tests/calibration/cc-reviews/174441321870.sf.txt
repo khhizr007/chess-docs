@@ -1,0 +1,60 @@
+eng 10 acc 65.1 75.8 cee 1.198.16
+1 d2d4 book 30@31 - - -
+2 d7d5 book 36@18 - - -
+3 c2c4 book 36@17 - - -
+4 d5c4 book 46@29 - - - K
+5 b2b3 mistake -144@28 e2e4 best 46@28 K
+6 c4b3 excellent -130@28 e7e5 best -144@27
+7 a2b3 best -130@27 - - -
+8 e7e6 good -102@30 g8f6 best -130@26
+9 e2e4 mistake -233@18 g1f3 best -102@26 K
+10 f8b4 great -233@17 - - - K
+11 e1e2 excellent -256@18 c1d2 best -233@16
+12 b7b6 excellent -240@18 b8c6 best -256@17
+13 f2f4 good -323@19 c1a3 best -240@17
+14 c8a6 mistake -65@18 c8b7 best -323@18 K
+15 e2e3 miss -231@18 a1a6 best -65@17
+16 a6f1 excellent -218@21 a6b7 best -231@17
+17 d1f1 best -218@20 - - -
+18 c7c5 best -218@19 - - -
+19 f1b5 best -218@18 - - -
+20 e8e7 inaccuracy -147@17 b8d7 best -218@17
+21 g1f3 best -147@16 - - -
+22 a7a6 excellent -128@15 g8f6 best -147@15
+23 b5b6 blunder -640@19 b5d3 best -128@14 K
+24 d8b6 great -640@18 - - - K
+25 c1a3 good -695@20 b1d2 best -640@17
+26 b4a3 best -695@19 - - -
+27 a1a3 good -759@20 b1a3 best -695@18
+28 c5d4 best -759@19 - - -
+29 f3d4 good -852@20 e3e2 best -759@18
+30 b6c5 inaccuracy -658@19 b8c6 best -852@19
+31 h1d1 excellent -686@18 a3a4 best -658@18
+32 g8f6 excellent -652@19 b8c6 best -686@17
+33 g2g3 good -795@19 a3a4 best -652@18
+34 f6g4 good -687@19 b8c6 best -795@18
+35 e3f3 best -687@18 - - -
+36 g4h2 excellent -677@20 c5h5 best -687@17
+37 f3g2 best -677@19 - - -
+38 h2g4 excellent -642@18 a8a7 best -677@18
+39 g2f3 good -751@18 b3b4 best -642@17
+40 h7h5 excellent -735@19 c5h5 best -751@17
+41 f4f5 mistake -775@19 b3b4 best -735@18 K
+42 e6f5 good -639@20 h8d8 best -775@18
+43 d1e1 mistake -878@20 d4f5 best -639@19 K
+44 c5d4 best -878@19 - - - K
+45 e4f5 inaccuracy -M10@29 a3a2 best -878@18
+46 e7f6 best -M9@28 - - -
+47 a3a5 excellent -M6@34 a3a2 best -M9@27
+48 b8c6 excellent -M8@29 d4f2 best -M5@33
+49 a5a4 inaccuracy -M2@246 e1e6 best -M8@28
+50 c6e5 miss -M5@39 d4f2 best -M1@245 K
+51 f3g2 inaccuracy -M2@246 e1e5 best -M5@38
+52 d4b2 miss -M4@46 d4f2 best -M1@245 K
+53 g2h3 inaccuracy -M1@246 b1d2 best -M4@45
+54 b2b3 miss -961@18 b2h2 best -M0@245 K
+55 a4e4 good -M5@37 a4d4 best -961@17
+56 h8e8 good -975@18 b3f3 best -M4@36
+57 b1d2 excellent -976@18 e4e2 best -975@17
+58 b3d3 excellent -930@19 b3d5 best -976@17
+59 d2f1 inaccuracy -M7@29 e4e2 best -930@18

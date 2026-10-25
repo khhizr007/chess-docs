@@ -1,0 +1,58 @@
+eng 10 acc 64.6 54.8 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 g7g6 book 58@27 - - -
+3 f1c4 book 33@30 - - -
+4 f8g7 book 33@29 - - - K
+5 d2d3 good 2@31 g1f3 best 33@26
+6 b7b6 good 42@27 c7c5 best 2@30
+7 a2a3 good -7@18 h2h4 best 42@26
+8 c8b7 excellent 13@32 e7e6 best -7@17
+9 b1c3 best 13@31 - - -
+10 g8f6 excellent 24@16 e7e6 best 13@30
+11 f2f4 inaccuracy -52@20 c4a2 best 24@15
+12 e8g8 inaccuracy 26@15 d7d5 best -52@19
+13 g1f3 inaccuracy -74@16 c4a2 best 26@14
+14 e7e6 inaccuracy 51@15 d7d5 best -74@15
+15 e1g1 inaccuracy -61@17 e4e5 best 51@14
+16 c7c5 inaccuracy 23@15 d7d5 best -61@16
+17 h2h3 inaccuracy -87@24 c4a2 best 23@14
+18 d7d5 best -87@23 - - -
+19 e4d5 best -87@22 - - -
+20 e6d5 best -87@21 - - -
+21 c4a2 best -87@20 - - -
+22 d5d4 best -87@19 - - -
+23 c3e2 best -87@18 - - -
+24 f6h5 mistake 50@15 b7d5 best -87@17 K
+25 d1e1 good 16@15 f4f5 best 50@14
+26 d8f6 mistake 210@17 b8d7 best 16@14 K
+27 f3g5 miss -15@16 g2g4 best 210@16
+28 f6c6 excellent 7@18 b8d7 best -15@15
+29 e1f2 best 7@17 - - -
+30 b8d7 best 7@16 - - -
+31 f4f5 best 7@15 - - -
+32 a8e8 mistake 202@19 g6f5 best 7@14 K
+33 f5g6 inaccuracy 130@18 g5f7 best 202@18
+34 h7g6 mistake 323@18 c6g6 best 130@17 K
+35 g5e4 miss -66@18 a2f7 best 323@17 K
+36 e8e7 miss 65@16 e8e4 best -66@17
+37 e2g3 good 4@17 e2f4 best 65@15
+38 h5g3 best 4@16 - - -
+39 f2g3 good -47@15 e4g3 best 4@15
+40 a7a5 mistake 140@17 e7e4 best -47@14 K
+41 c1f4 inaccuracy 42@14 e4d6 best 140@16
+42 b6b5 mistake 235@18 e7e4 best 42@13 K
+43 f4d6 great 233@19 - - - K
+44 e7e6 blunder 663@19 e7e4 best 233@18 K
+45 d6f8 miss 442@19 a2e6 best 663@18 K
+46 g8f8 mistake 561@19 g7f8 best 442@18 K
+47 a2e6 excellent 527@20 f1f7 best 561@18 K
+48 c6e6 best 527@19 - - -
+49 a1e1 inaccuracy 397@19 e4g5 best 527@18
+50 g7e5 inaccuracy 519@18 b7e4 best 397@18
+51 g3g5 inaccuracy 371@18 e4c5 best 519@17
+52 f8g7 mistake 591@19 b7e4 best 371@17 K
+53 e4c5 great 591@18 - - - K
+54 d7c5 mistake 687@18 e6d5 best 591@17 K
+55 e1e5 best 687@17 - - -
+56 e6c6 good 794@18 e6d6 best 687@16
+57 e5c5 excellent 754@18 e5e7 best 794@17

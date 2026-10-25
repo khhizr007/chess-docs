@@ -1,0 +1,53 @@
+eng 10 acc 60.4 59.3 cee 1.198.16
+1 h2h3 good -18@30 e2e4 best 29@29
+2 e7e5 excellent -8@26 d7d5 best -18@29
+3 g2g3 good -73@31 e2e4 best -8@25
+4 d7d5 best -73@30 - - -
+5 f2f3 inaccuracy -174@31 f1g2 best -73@26
+6 b8c6 best -174@30 - - -
+7 e2e3 best -174@29 - - -
+8 g8f6 good -143@28 h7h5 best -174@28
+9 d2d3 excellent -163@28 g1e2 best -143@27
+10 d5d4 excellent -144@16 f8b4 best -163@27
+11 c2c3 good -181@18 e3e4 best -144@15
+12 d4c3 good -150@16 f6h5 best -181@17
+13 b1c3 excellent -159@16 b2c3 best -150@15
+14 f8b4 inaccuracy -101@16 f8c5 best -159@15
+15 a2a3 excellent -112@17 g1e2 best -101@15
+16 e8g8 blunder 245@20 b4c3 best -112@15 K
+17 a3b4 great 245@19 - - - K
+18 c6b4 best 245@18 - - -
+19 g1e2 blunder -416@16 h1h2 best 245@17 K
+20 f8e8 miss 198@18 b4d3 best -416@15 K
+21 b2b3 blunder -435@16 e1f2 best 198@17 K
+22 c8e6 miss 118@15 b4d3 best -435@15 K
+23 a1b1 blunder -492@17 d3d4 best 118@14 K
+24 b4d3 great -492@16 - - - K
+25 e1d2 good -555@17 d1d3 best -492@15
+26 d3c5 miss -193@20 d3f2 best -555@16 K
+27 d2c2 best -193@19 - - -
+28 e6b3 blunder 188@20 d8c8 best -193@18 K
+29 c2b2 blunder -777@19 b1b3 best 188@19 K
+30 b3d1 great -777@18 - - - K
+31 c3d1 good -878@20 b2a1 best -777@17
+32 d8d1 best -878@19 - - -
+33 e2c3 mistake -964@17 b2a2 best -878@18 K
+34 c5d3 good -774@16 d1b3 best -964@16
+35 f1d3 excellent -801@19 b2a1 best -774@15
+36 d1d3 best -801@18 - - -
+37 b2b3 good -950@19 h1d1 best -801@17
+38 b7b5 excellent -845@19 e8e6 best -950@18
+39 c1b2 excellent -950@21 c1a3 best -845@18
+40 d3c4 best -950@20 - - -
+41 b3c2 best -950@19 - - -
+42 e8d8 excellent -856@18 a8d8 best -950@18
+43 h1d1 mistake -892@19 b1c1 best -856@17 K
+44 d8d1 excellent -856@19 b5b4 best -892@18
+45 b1d1 best -856@18 - - -
+46 a8e8 excellent -799@15 b5b4 best -856@17
+47 c2b1 excellent -829@15 b2a3 best -799@14
+48 e5e4 good -729@17 b5b4 best -829@14
+49 f3e4 excellent -756@19 f3f4 best -729@16
+50 e8e4 good -682@17 f6e4 best -756@18
+51 d1d8 excellent -722@18 g3g4 best -682@16
+52 e4e8 best -722@17 - - -

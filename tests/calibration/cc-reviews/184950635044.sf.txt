@@ -1,0 +1,58 @@
+eng 10 acc 81.3 66.2 cee 1.198.16
+1 d2d4 book 29@30 - - -
+2 d7d5 book 29@29 - - -
+3 e2e3 book 14@32 - - - K
+4 b8c6 good 50@27 e7e6 best 14@31
+5 c2c4 excellent 42@28 g1f3 best 50@26
+6 g8f6 good 60@28 e7e5 best 42@27
+7 b1c3 good 37@27 c4d5 best 60@27
+8 e7e6 excellent 50@29 c8f5 best 37@26
+9 a2a3 best 50@28 - - -
+10 a7a5 excellent 58@19 f8d6 best 50@27
+11 h2h3 excellent 47@17 g1f3 best 58@18
+12 b7b6 good 69@17 g7g6 best 47@16
+13 g1f3 good 50@16 d1c2 best 69@16
+14 c8a6 inaccuracy 107@18 f8d6 best 50@15
+15 c4d5 best 107@17 - - -
+16 f6d5 inaccuracy 171@20 a6f1 best 107@16
+17 f1a6 best 171@19 - - -
+18 d5c3 inaccuracy 225@17 a8a6 best 171@18
+19 b2c3 mistake 101@17 d1d3 best 225@16 K
+20 a8a6 best 101@16 - - -
+21 d1b3 inaccuracy 65@17 e1g1 best 101@15
+22 d8d5 mistake 168@19 a6a8 best 65@16 K
+23 c3c4 great 168@18 - - - K
+24 d5e4 mistake 439@18 d5d7 best 168@17 K
+25 b3b5 great 439@17 - - - K
+26 a6a8 excellent 482@18 f8e7 best 439@16
+27 d4d5 best 482@16 - - -
+28 e6d5 mistake 729@20 f8d6 best 482@15 K
+29 c4d5 inaccuracy 384@17 b5c6 best 729@19
+30 f8a3 mistake 867@19 f8b4 best 384@16 K
+31 b5c6 best 867@18 - - -
+32 e8d8 best 867@17 - - -
+33 c6a8 best 867@16 - - -
+34 d8e7 mistake 1006@18 d8d7 best 867@15 K
+35 c1a3 best 1006@17 - - -
+36 e7f6 good M7@30 e4b4 best 1006@16
+37 a8h8 good 995@17 a8c6 best M6@29
+38 e4d5 excellent 1100@18 h7h6 best 995@16
+39 h8h7 excellent 939@17 e1g1 best 1100@17
+40 d5d3 good M5@39 d5c4 best 939@16
+41 h7d3 best M4@38 - - -
+42 c7c6 excellent M2@246 g7g5 best M4@37
+43 e1g1 miss M4@41 d3e4 best M1@245 K
+44 c6c5 excellent M2@246 g7g5 best M4@40
+45 a1b1 miss M4@43 d3e4 best M1@245 K
+46 c5c4 inaccuracy M1@246 g7g6 best M4@39
+47 d3c4 miss M4@38 b1b6 best -M0@245 K
+48 b6b5 excellent M2@246 f6g6 best M4@37
+49 b1b5 good M3@69 c4e4 best M1@245
+50 a5a4 inaccuracy M1@246 f6g6 best M3@68
+51 c4f4 miss M2@247 c4c6 best -M0@245 K
+52 f6g6 best M2@246 - - -
+53 f4g5 excellent M2@249 f4h4 best M1@245
+54 g6h7 forced M2@248 - - -
+55 g5h5 best M1@247 - - -
+56 h7g8 forced M1@246 - - -
+57 b5b8 best -M0@245 - - -

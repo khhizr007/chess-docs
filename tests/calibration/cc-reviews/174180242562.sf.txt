@@ -1,0 +1,60 @@
+eng 10 acc 82.7 76.4 cee 1.198.16
+1 d2d4 book 21@29 - - -
+2 b8c6 book 85@29 - - -
+3 c2c4 book 53@30 - - -
+4 g8f6 book 57@31 - - -
+5 g1f3 book 57@30 - - -
+6 d7d6 book 87@32 - - - K
+7 g2g3 excellent 68@34 b1c3 best 87@31
+8 g7g6 excellent 80@32 e7e5 best 68@33
+9 f1g2 excellent 68@31 d4d5 best 80@31
+10 f8g7 best 68@30 - - -
+11 b1c3 excellent 57@29 d4d5 best 68@29
+12 a7a6 excellent 60@15 e8g8 best 57@28
+13 e2e4 excellent 45@17 c1f4 best 60@14
+14 e7e5 good 90@17 e8g8 best 45@16
+15 d4d5 best 90@16 - - -
+16 c6e7 excellent 106@16 c6b8 best 90@15
+17 e1g1 good 64@17 a2a4 best 106@15
+18 c8g4 good 99@18 e8g8 best 64@16
+19 h2h3 excellent 92@18 c1e3 best 99@17
+20 g4c8 good 128@20 g4f3 best 92@17
+21 b2b4 inaccuracy 85@17 a2a4 best 128@19
+22 e8g8 good 114@17 a6a5 best 85@16
+23 c4c5 best 114@16 - - -
+24 b7b6 excellent 123@17 f6e8 best 114@15
+25 c5c6 excellent 113@17 a2a4 best 123@16
+26 f6h5 excellent 121@18 f6e8 best 113@16
+27 c3e2 good 97@19 a2a4 best 121@17
+28 f7f5 best 97@18 - - -
+29 f3g5 mistake -37@16 a2a4 best 97@17 K
+30 f5e4 miss 140@18 h5f6 best -37@15
+31 e2c3 good 109@22 g5e4 best 140@17
+32 e4e3 best 109@21 - - -
+33 c1e3 best 109@20 - - - K
+34 e7f5 best 109@19 - - -
+35 e3d2 excellent 107@18 g5e6 best 109@18
+36 f5d4 best 107@17 - - -
+37 a2a3 good 65@15 c3e2 best 107@16
+38 c8f5 excellent 83@17 h7h6 best 65@14
+39 g3g4 mistake -129@17 d2e3 best 83@16 K
+40 f5d3 blunder 313@19 f5c2 best -129@16 K
+41 g4h5 best 313@18 - - - K
+42 d3f1 excellent 323@21 e5e4 best 313@17
+43 g1f1 best 323@20 - - -
+44 g7h6 best 323@19 - - -
+45 g5e6 excellent 305@19 c3e4 best 323@18
+46 d8f6 mistake 568@18 d8h4 best 305@18 K
+47 e6f8 miss 354@18 c3e4 best 568@17
+48 a8f8 excellent 362@21 f6f8 best 354@17
+49 c3e4 best 362@20 - - -
+50 f6f5 mistake 617@20 f6g7 best 362@19 K
+51 d2h6 best 617@19 - - - K
+52 f5h5 mistake 727@19 f8f7 best 617@18 K
+53 h6f8 excellent 726@19 d1h5 best 727@18
+54 g8f8 best 726@18 - - -
+55 e4d6 excellent 701@18 d1h5 best 726@17
+56 h5d1 excellent 755@20 h5h4 best 701@17
+57 a1d1 forced 755@19 - - -
+58 c7d6 excellent 835@17 f8e7 best 755@18
+59 c6c7 excellent 779@18 d1d4 best 835@16

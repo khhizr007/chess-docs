@@ -1,0 +1,10 @@
+*.log
+__pycache__/
+# Chess.com coach captures and the decoded text asset are local evaluation data only
+# (docs/calibration/coach-log.md); they hold Chess.com text and must never be committed.
+captures/
+*.coach.json
+*.keys.json
+coach_en_us.raw
+rating_ranges.raw
+tag_names.txt

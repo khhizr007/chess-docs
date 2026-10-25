@@ -1,0 +1,63 @@
+eng 10 acc 66.2 81.1 cee 1.198.16
+1 e2e4 book 25@29 - - -
+2 e7e5 book 25@28 - - -
+3 g1f3 book 25@27 - - -
+4 g8f6 book 43@28 - - -
+5 d2d4 book 39@31 - - -
+6 f6e4 book 39@30 - - -
+7 f1d3 book 39@29 - - -
+8 d7d5 book 39@28 - - - K
+9 e1g1 inaccuracy -42@30 f3e5 best 39@27
+10 e5d4 best -42@29 - - -
+11 f3d4 best -42@28 - - -
+12 f8e7 excellent -30@19 f8c5 best -42@27
+13 f1e1 mistake -105@17 c2c4 best -30@18 K
+14 c8f5 blunder 491@18 e8g8 best -105@16 K
+15 f2f3 inaccuracy 339@19 d4f5 best 491@17
+16 e7c5 excellent 361@20 g7g6 best 339@18
+17 c1e3 best 361@19 - - -
+18 e8g8 mistake 375@19 c5d4 best 361@18 K
+19 d4f5 best 375@18 - - - K
+20 d5d4 good 443@19 c5e3 best 375@17
+21 f3e4 good 374@18 e3c1 best 443@18
+22 d4e3 best 374@17 - - -
+23 f5e3 excellent 348@19 d1g4 best 374@16
+24 d8g5 best 348@18 - - -
+25 d1f3 excellent 323@18 d1e2 best 348@17
+26 b8c6 best 323@17 - - -
+27 g1h1 best 323@16 - - -
+28 c6e5 excellent 346@19 a8e8 best 323@15
+29 f3e2 best 346@18 - - -
+30 a8e8 excellent 350@19 f7f5 best 346@17
+31 b1d2 best 350@18 - - -
+32 f7f5 good 420@18 g8h8 best 350@17
+33 d2f3 inaccuracy 293@21 e4f5 best 420@17
+34 e5f3 best 293@20 - - -
+35 e2f3 good 232@16 g2f3 best 293@19
+36 f5e4 best 232@15 - - -
+37 d3e4 blunder -457@20 d3c4 best 232@14 K
+38 f8f3 great -457@19 - - - K
+39 e4f3 best -457@18 - - -
+40 e8e3 best -457@17 - - -
+41 e1e3 good -547@20 f3b7 best -457@16
+42 g5e3 best -547@19 - - -
+43 a1d1 excellent -569@17 f3b7 best -547@18
+44 c5d6 excellent -523@18 g7g6 best -569@16
+45 h2h3 good -599@19 f3d5 best -523@17
+46 e3f4 best -599@18 - - -
+47 h1g1 best -599@17 - - -
+48 d6c5 excellent -586@15 f4e3 best -599@16
+49 g1h1 best -586@14 - - -
+50 c5d6 best -586@13 - - -
+51 h1g1 excellent -587@17 f3d5 best -586@12
+52 f4h2 excellent -550@20 g8h8 best -587@16
+53 g1f1 best -550@19 - - -
+54 d6c5 excellent -527@18 g7g5 best -550@18
+55 f3b7 mistake -M3@246 d1d5 best -527@17 K
+56 h2g3 miss -592@17 h2g1 best -M2@245 K
+57 f1e2 mistake -M2@246 d1d8 best -592@16 K
+58 g3f2 good -M3@250 g3e3 best -M1@245
+59 e2d3 forced -M3@249 - - -
+60 f2d4 best -M2@248 - - -
+61 d3e2 forced -M2@247 - - -
+62 d4e3 best -M1@246 - - -

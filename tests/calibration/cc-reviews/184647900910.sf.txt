@@ -1,0 +1,58 @@
+eng 10 acc 88.2 78.3 cee 1.198.16
+1 d2d4 book 21@29 - - -
+2 d7d6 book 67@27 - - - K
+3 e2e3 good 38@29 e2e4 best 67@26
+4 f7f5 good 65@33 g7g6 best 38@28
+5 f1d3 good 23@31 g1f3 best 65@32
+6 g8f6 best 23@30 - - -
+7 g1f3 best 23@29 - - -
+8 e7e6 good 66@27 b8c6 best 23@28
+9 b1d2 excellent 44@30 c2c4 best 66@26
+10 f8e7 excellent 68@33 d6d5 best 44@29
+11 e1g1 excellent 63@31 e3e4 best 68@32
+12 e8g8 excellent 68@17 d6d5 best 63@30
+13 e3e4 best 68@16 - - -
+14 f5e4 good 104@17 c7c6 best 68@15
+15 d2e4 best 104@16 - - -
+16 d6d5 inaccuracy 166@18 f6e4 best 104@15
+17 e4g5 inaccuracy 106@18 e4f6 best 166@17
+18 f6e4 mistake 278@22 h7h6 best 106@17 K
+19 g5e4 best 278@21 - - -
+20 d5e4 best 278@20 - - -
+21 d3e4 best 278@19 - - -
+22 c7c6 good 355@18 b8d7 best 278@18
+23 c2c3 good 320@19 d1d3 best 355@17
+24 b8d7 excellent 322@19 d8c7 best 320@18
+25 c1e3 excellent 298@17 e4c2 best 322@18
+26 d8c7 excellent 302@19 d7f6 best 298@16
+27 d1d2 good 257@18 e4c2 best 302@18
+28 d7f6 excellent 269@19 b7b6 best 257@17
+29 e4d3 excellent 241@19 e4c2 best 269@18
+30 a7a6 good 314@23 e7d6 best 241@18
+31 e3f4 best 314@22 - - -
+32 e7d6 best 314@21 - - -
+33 f4d6 best 314@20 - - -
+34 c7d6 best 314@19 - - -
+35 f3e5 inaccuracy 223@20 d2e3 best 314@18
+36 b7b5 good 297@20 c6c5 best 223@19
+37 d2e3 best 297@19 - - -
+38 c8b7 excellent 316@19 a8a7 best 297@18
+39 e3h3 mistake 170@20 f1e1 best 316@18 K
+40 c6c5 best 170@19 - - -
+41 e5g4 excellent 165@19 f1e1 best 170@18
+42 b7e4 blunder 550@23 g7g6 best 165@18 K
+43 g4f6 great 550@22 - - - K
+44 f8f6 best 550@21 - - -
+45 d3e4 best 550@20 - - - K
+46 f6h6 best 550@19 - - -
+47 h3g3 best 550@18 - - -
+48 d6e7 mistake 784@20 d6g3 best 550@17 K
+49 e4a8 best 784@19 - - - K
+50 c5d4 best 784@18 - - -
+51 c3d4 excellent 782@17 g3b8 best 784@17
+52 h6g6 mistake 817@18 e7d8 best 782@16 K
+53 g3b8 excellent 805@18 g3e5 best 817@17
+54 g8f7 excellent 901@18 e7f8 best 805@17
+55 b8b7 excellent 802@19 f1c1 best 901@17
+56 e7b7 best 802@18 - - -
+57 a8b7 best 802@17 - - -

@@ -1,0 +1,21 @@
+eng 10 acc 46.9 80 cee 1.198.16
+1 e2e4 book 38@31 - - -
+2 e7e5 book 38@30 - - -
+3 g1f3 book 38@29 - - -
+4 b8c6 book 38@28 - - -
+5 f1c4 book 28@30 - - -
+6 g8f6 book 28@29 - - -
+7 f3g5 book 18@27 - - -
+8 f8c5 book 136@20 - - -
+9 g5f7 book 136@19 - - - K
+10 c5f2 book 136@18 - - -
+11 e1f2 book 15@27 - - -
+12 f6e4 book 15@26 - - - K
+13 f2e1 blunder -511@23 f2e3 best 15@25 K
+14 d8h4 great -511@22 - - - K
+15 g2g3 best -511@21 - - -
+16 e4g3 best -511@20 - - -
+17 d2d3 mistake -M2@246 h2g3 best -511@19 K
+18 g3h1 miss -440@18 g3e4 best -M1@245 K
+19 e1f1 blunder -M1@246 e1d2 best -440@17 K
+20 h4f2 best -M0@245 - - - K

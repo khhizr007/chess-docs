@@ -1,0 +1,59 @@
+eng 10 acc 63.8 55.9 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 e7e6 book 50@28 - - -
+3 d2d4 book 46@28 - - - K
+4 g7g6 inaccuracy 113@27 d7d5 best 46@27
+5 a2a3 good 67@29 h2h4 best 113@26
+6 f8g7 excellent 88@16 d7d5 best 67@28
+7 g1f3 excellent 80@28 b1c3 best 88@15
+8 h7h5 inaccuracy 160@17 d7d5 best 80@27
+9 c1g5 excellent 150@21 b1c3 best 160@16
+10 f7f6 best 150@20 - - -
+11 g5e3 best 150@19 - - -
+12 h5h4 good 209@19 d7d5 best 150@18
+13 e4e5 inaccuracy 148@17 f1d3 best 209@18
+14 h4h3 inaccuracy 209@18 b8c6 best 148@16
+15 e5f6 inaccuracy 114@15 b1c3 best 209@17
+16 g7f6 inaccuracy 220@18 d8f6 best 114@14
+17 b1c3 best 220@17 - - -
+18 h3g2 excellent 243@20 b8c6 best 220@16
+19 f1g2 best 243@19 - - -
+20 d7d6 excellent 252@19 d8e7 best 243@18
+21 c3e4 good 190@17 d1d3 best 252@18
+22 e6e5 inaccuracy 327@19 b8c6 best 190@16
+23 e4f6 excellent 302@24 d4e5 best 327@18
+24 d8f6 best 302@23 - - -
+25 d4e5 best 302@22 - - -
+26 d6e5 best 302@21 - - -
+27 e3g5 best 302@20 - - -
+28 f6e6 mistake 581@18 f6d6 best 302@19 K
+29 e1g1 miss 364@18 d1d8 best 581@17 K
+30 e5e4 good 471@17 b8c6 best 364@17
+31 f1e1 excellent 438@18 d1d8 best 471@16
+32 g8e7 mistake 512@20 b8c6 best 438@17 K
+33 f3d4 good 411@18 d1d4 best 512@19
+34 e6e5 excellent 454@17 e6d6 best 411@17
+35 d4f3 brilliant 430@18 - - - K
+36 e5f5 mistake 485@19 e5g7 best 430@17 K
+37 f3d4 miss -287@18 g5e7 best 485@18 K
+38 f5g5 great -287@17 - - - K
+39 e1e4 best -287@16 - - -
+40 c8h3 best -287@15 - - -
+41 e4e7 inaccuracy -429@17 d1f1 best -287@14
+42 g5e7 miss -47@20 e8e7 best -429@16 K
+43 g2h3 best -47@19 - - -
+44 h8h3 best -47@18 - - -
+45 d1g4 great -47@17 - - - K
+46 h3h4 blunder 366@18 h3h7 best -47@16 K
+47 g4g6 best 366@17 - - -
+48 e8d7 mistake 614@18 e8d8 best 366@16 K
+49 g6f5 mistake 0@18 a1d1 best 614@17 K
+50 d7d8 great 0@17 - - - K
+51 d4e6 best 0@16 - - -
+52 d8e8 blunder 581@18 d8c8 best 0@15 K
+53 a1e1 great 581@17 - - - K
+54 h4h6 good 685@20 b8c6 best 581@16
+55 e6c7 best 685@19 - - - K
+56 e8d8 forced 685@18 - - -
+57 f5d5 mistake 25@20 e1e7 best 685@17 K
+58 e7d7 great 25@19 - - - K

@@ -1,0 +1,63 @@
+eng 10 acc 47.7 67.6 cee -
+1 e2e4 book 38@31 - - -
+2 e7e5 book 38@30 - - -
+3 g1f3 book 38@29 - - -
+4 b8c6 book 38@28 - - -
+5 f1c4 book 28@30 - - -
+6 g8f6 book 28@29 - - -
+7 f3g5 book 18@27 - - -
+8 f8c5 book 105@26 - - -
+9 g5f7 book 76@34 - - -
+10 c5f2 book 76@33 - - -
+11 e1f1 book 76@32 - - -
+12 d8e7 book 76@31 - - -
+13 f7h8 book 76@30 - - - K
+14 d7d5 book 76@29 - - -
+15 e4d5 book 76@28 - - - K
+16 c8g4 book 179@21 - - - K
+17 c4e2 great 179@20 - - - K
+18 g4e2 great 179@19 - - - K
+19 d1e2 best 179@18 - - -
+20 c6d4 best 179@17 - - -
+21 e2c4 mistake -101@13 e2f2 best 179@16 K
+22 f6e4 inaccuracy 0@15 e8c8 best -101@12
+23 d2d3 blunder -621@18 c2c3 best 0@14 K
+24 e7f6 brilliant -621@17 - - - K
+25 d3e4 mistake -M3@145 c4a4 best -621@16 K
+26 f2e3 miss 0@34 f2g3 best -M2@144 K
+27 f1e1 forced 0@33 - - -
+28 f6f2 best 0@32 - - -
+29 e1d1 forced 0@31 - - -
+30 e3c1 miss 388@19 f2g2 best 0@30 K
+31 d1c1 excellent 350@18 d5d6 best 388@18
+32 b7b5 mistake 550@17 f2g2 best 350@17 K
+33 c4c5 blunder -337@21 c4c7 best 550@16 K
+34 d4e2 great -337@20 - - - K
+35 c1d1 best -337@19 - - -
+36 f2c5 best -337@18 - - - K
+37 b1c3 mistake -493@18 d1e2 best -337@17 K
+38 e2c3 best -493@17 - - -
+39 b2c3 best -493@16 - - -
+40 c5c3 best -493@15 - - -
+41 a1c1 mistake -636@19 a1b1 best -493@14 K
+42 e8c8 good -554@16 c3d4 best -636@18
+43 h8f7 mistake -721@16 c1b1 best -554@15 K
+44 d8f8 excellent -672@18 c3d4 best -721@15
+45 f7e5 inaccuracy -M6@34 h1f1 best -672@17
+46 c3e5 miss -631@17 f8f2 best -M5@33 K
+47 h1f1 mistake -M6@35 c2c3 best -631@16 K
+48 f8f1 great -M5@34 - - - K
+49 d1e2 best -M5@33 - - -
+50 e5f4 miss -660@19 f1f4 best -M4@32 K
+51 e2d3 mistake -M6@34 c1f1 best -660@18 K
+52 f4c1 great -M7@29 - - - K
+53 d3d4 excellent -M4@44 a2a4 best -M7@28
+54 c1c2 excellent -M4@40 f1d1 best -M3@40
+55 d4e5 excellent -M2@246 d5d6 best -M4@39
+56 c2c3 best -M1@247 - - -
+57 e5e6 forced -M1@246 - - -
+58 f1f6 excellent -M1@247 c3f6 best -M0@245
+59 e6e7 forced -M1@246 - - -
+60 c3c5 excellent -M1@246 c3e5 best -M0@245
+61 e7e8 best -M1@246 - - -
+62 c5d6 excellent -M1@246 c5f8 best -M0@245

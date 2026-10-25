@@ -1,0 +1,56 @@
+eng 10 acc 47.3 37.9 cee 1.198.16
+1 g2g3 book 25@33 - - -
+2 e7e5 book 26@28 - - -
+3 f1g2 book -26@28 - - - K
+4 d8f6 inaccuracy 93@29 d7d5 best -26@27
+5 h2h3 good 54@29 c2c4 best 93@28
+6 f8c5 best 54@28 - - -
+7 e2e3 best 54@27 - - -
+8 d7d6 excellent 61@26 g8e7 best 54@26
+9 b2b3 excellent 35@17 c2c4 best 61@25
+10 b8a6 good 86@17 g8e7 best 35@16
+11 c1b2 excellent 69@17 g1e2 best 86@16
+12 g8h6 good 108@19 g8e7 best 69@16
+13 f2f4 mistake -71@15 b1c3 best 108@18 K
+14 e8g8 inaccuracy 19@15 f6g6 best -71@14
+15 g3g4 mistake -181@19 g1e2 best 19@14 K
+16 f6e7 miss 34@14 f6h4 best -181@18
+17 f4f5 good -45@15 d1e2 best 34@13
+18 f7f6 inaccuracy 100@15 c7c6 best -45@14
+19 g1f3 inaccuracy -38@16 g1e2 best 100@14
+20 h6f7 good 0@15 d6d5 best -38@15
+21 h3h4 inaccuracy -92@17 e1g1 best 0@14
+22 b7b5 mistake 158@16 c7c6 best -92@16 K
+23 a2a3 miss -80@18 f3e5 best 158@15
+24 c8b7 good -41@16 d6d5 best -80@17
+25 h1h2 inaccuracy -147@18 d1e2 best -41@15
+26 f7h6 inaccuracy -87@18 d6d5 best -147@17
+27 g2h3 best -87@17 - - -
+28 b7f3 mistake 122@14 d6d5 best -87@16 K
+29 d1f3 best 122@13 - - -
+30 b5b4 mistake 281@17 e5e4 best 122@12 K
+31 a3a4 miss 70@15 f3b7 best 281@16
+32 a6b8 mistake 198@18 c7c6 best 70@14 K
+33 g4g5 inaccuracy 132@17 f3a8 best 198@17
+34 f6g5 best 132@16 - - -
+35 h4g5 blunder -138@16 f5f6 best 132@15 K
+36 h6f7 miss 287@18 e7g5 best -138@15
+37 f5f6 best 287@17 - - -
+38 g7f6 inaccuracy 425@18 f7g5 best 287@16
+39 g5f6 best 425@17 - - -
+40 e7e8 mistake 631@15 f7g5 best 425@16 K
+41 h2g2 inaccuracy 492@20 f3g2 best 631@14
+42 g8h8 best 492@19 - - -
+43 f3g4 inaccuracy 354@19 f3a8 best 492@18
+44 f8g8 best 354@18 - - -
+45 g4f5 mistake 122@17 g4g8 best 354@17 K
+46 g8g2 good 170@18 d6d5 best 122@16
+47 h3g2 best 170@17 - - -
+48 b8c6 mistake 441@17 b8d7 best 170@16 K
+49 g2e4 inaccuracy 251@19 f5g4 best 441@16
+50 e8g8 best 251@18 - - -
+51 f5h3 miss -162@16 e4c6 best 251@17 K
+52 g8g1 blunder 293@18 f7g5 best -162@15 K
+53 e1e2 best 293@17 - - - K
+54 a8g8 blunder M1@246 f7g5 best 293@16 K
+55 h3h7 great -M0@245 - - - K

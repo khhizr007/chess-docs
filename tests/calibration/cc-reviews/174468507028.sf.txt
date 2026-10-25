@@ -1,0 +1,58 @@
+eng 10 acc 73.7 60.4 cee -
+1 e2e4 book 25@29 - - -
+2 e7e5 book 25@28 - - -
+3 g1f3 book 25@27 - - - K
+4 f8c5 mistake 162@28 b8c6 best 25@26 K
+5 f1c4 miss 29@29 f3e5 best 162@27 K
+6 d7d6 excellent 35@31 b8c6 best 29@28
+7 c2c3 best 35@30 - - -
+8 c8g4 inaccuracy 104@26 g8f6 best 35@29
+9 d2d4 excellent 100@26 d1b3 best 104@25
+10 g4f3 blunder 439@25 e5d4 best 100@25 K
+11 d1f3 best 439@24 - - -
+12 g8f6 good 501@20 d6d5 best 439@23
+13 d4c5 great 501@19 - - - K
+14 d6c5 excellent 509@18 b8d7 best 501@18
+15 c1g5 excellent 504@19 e1g1 best 509@17
+16 b8d7 best 504@18 - - -
+17 e1g1 excellent 477@18 b1d2 best 504@17
+18 h7h6 excellent 489@18 a7a6 best 477@17
+19 g5f6 excellent 456@19 g5e3 best 489@17
+20 d7f6 best 456@18 - - -
+21 b1d2 blunder -58@14 c4e2 best 456@17 K
+22 e8g8 miss 452@19 d8d2 best -58@13 K
+23 a1d1 excellent 420@18 f1d1 best 452@18
+24 d8e7 excellent 425@19 c7c6 best 420@17
+25 d2b3 excellent 404@18 a2a4 best 425@18
+26 c7c6 excellent 413@19 f8d8 best 404@17
+27 f1e1 good 370@18 c4e2 best 413@18
+28 b7b6 excellent 398@19 b7b5 best 370@17
+29 a2a4 excellent 386@19 c4e2 best 398@18
+30 a8b8 excellent 418@20 a7a6 best 386@18
+31 a4a5 good 375@19 c4e2 best 418@19
+32 b6b5 best 375@18 - - -
+33 c4d3 blunder 27@17 c4e2 best 375@17 K
+34 c5c4 great 27@16 - - - K
+35 d3c4 good -10@23 b3c1 best 27@15
+36 b5c4 best -10@22 - - -
+37 b3d2 great -10@21 - - - K
+38 b8b2 good 36@17 e7c5 best -10@20
+39 d2c4 best 36@16 - - - K
+40 b2b8 best 36@15 - - -
+41 c4d6 excellent 12@15 h2h3 best 36@14
+42 b8d8 inaccuracy 122@18 g7g6 best 12@14
+43 d6f5 best 122@17 - - -
+44 d8d1 blunder 706@18 e7e6 best 122@16 K
+45 e1d1 miss 164@17 f5e7 best 706@17 K
+46 e7c5 best 164@16 - - -
+47 f3g3 excellent 163@16 d1d6 best 164@15
+48 g7g5 mistake 372@18 g7g6 best 163@15 K
+49 f5h6 great 372@17 - - - K
+50 g8g7 blunder 880@21 g8h8 best 372@16 K
+51 g3g5 best 880@20 - - -
+52 g7h7 best 880@19 - - -
+53 g5f6 best 880@18 - - - K
+54 c5c3 mistake M3@247 f8e8 best 880@17 K
+55 h6f5 best M2@246 - - -
+56 f8h8 excellent M1@246 c3e1 best M2@245
+57 f6g7 best M0@245 - - -

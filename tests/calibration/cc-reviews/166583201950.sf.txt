@@ -1,0 +1,69 @@
+eng 10 acc 53.1 47.2 cee -
+1 e2e4 book 26@29 - - -
+2 e7e6 book 50@28 - - -
+3 g1f3 book 29@29 - - -
+4 d7d5 book 29@28 - - -
+5 e4d5 book 20@30 - - - K
+6 c8d7 mistake 167@26 e6d5 best 20@29 K
+7 b1c3 excellent 148@28 d5e6 best 167@25
+8 f8b4 inaccuracy 216@20 g8f6 best 148@27
+9 f1c4 best 216@19 - - -
+10 e6d5 excellent 234@19 g8f6 best 216@18
+11 c3d5 best 234@18 - - -
+12 d7g4 mistake 456@18 b4d6 best 234@17 K
+13 d5b4 great 456@17 - - - K
+14 g8f6 excellent 492@18 d8d6 best 456@16
+15 d2d4 excellent 466@18 e1g1 best 492@17
+16 g4f3 good 524@20 d8d6 best 466@17
+17 d1f3 best 524@19 - - -
+18 d8d4 excellent 532@16 e8g8 best 524@18
+19 f3b7 inaccuracy 383@18 f3e2 best 532@15
+20 d4c4 excellent 396@15 e8g8 best 383@17
+21 b4d3 inaccuracy 246@18 c1e3 best 396@14
+22 c4e6 inaccuracy 351@19 c4c6 best 246@17
+23 c1e3 best 351@18 - - -
+24 e6c6 mistake 543@24 e6d5 best 351@17 K
+25 b7c8 great 543@23 - - - K
+26 e8e7 forced 543@22 - - -
+27 e3c5 best 543@21 - - -
+28 c6c5 best 543@20 - - -
+29 c8h8 great 543@19 - - - K
+30 c5c2 inaccuracy 664@18 c5a5 best 543@18
+31 d3e5 blunder -209@21 e1g1 best 664@17 K
+32 c2e4 great -209@20 - - - K
+33 e1f1 best -209@19 - - -
+34 e4e5 mistake 163@18 b8d7 best -209@18 K
+35 a1d1 inaccuracy 80@13 a1e1 best 163@17
+36 b8c6 mistake 297@18 e5b5 best 80@12 K
+37 h8a8 great 297@17 - - - K
+38 c6d4 mistake 695@19 e5b5 best 297@16 K
+39 d1e1 great 695@18 - - - K
+40 f6e4 mistake 776@17 e5e6 best 695@17 K
+41 f2f3 miss -M7@40 e1e4 best 776@16 K
+42 e4d2 miss 733@19 e5b5 best -M6@39 K
+43 f1f2 great 733@18 - - - K
+44 d2e4 mistake 846@19 d2c4 best 733@17 K
+45 f3e4 miss 0@46 e1e4 best 846@18 K
+46 e5f4 great 0@45 - - - K
+47 f2g1 forced 0@44 - - -
+48 d4c2 mistake 355@18 d4e2 best 0@43 K
+49 e1c1 blunder -M3@248 a8b7 best 355@17 K
+50 f4c1 great -M2@247 - - - K
+51 g1f2 forced -M2@246 - - -
+52 c1h1 miss -432@16 c1e3 best -M1@245 K
+53 a8d5 inaccuracy -568@23 a8a7 best -432@15
+54 h1e1 best -568@22 - - -
+55 f2f3 forced -568@21 - - -
+56 e1e3 best -568@20 - - -
+57 f3g4 forced -568@19 - - -
+58 e3e2 inaccuracy -470@17 f7f6 best -568@18
+59 g4f4 mistake -878@16 g4h4 best -470@16 K
+60 c2e3 miss -454@14 e2f2 best -878@15
+61 d5e5 inaccuracy -578@18 d5c5 best -454@13
+62 e7d7 good -515@19 e7f8 best -578@17
+63 e5d4 best -515@18 - - -
+64 d7c8 good -453@15 d7e7 best -515@17
+65 d4e3 mistake -835@19 d4g7 best -453@14 K
+66 g7g5 great -835@18 - - - K
+67 f4g3 mistake -M3@247 f4g5 best -835@17 K
+68 e2e3 best -M2@246 - - -

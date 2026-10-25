@@ -1,0 +1,51 @@
+# Calibration holdout set (18 games: 6 from batch 1, 12 from batch 2).
+# Split method: games stratified by result (1-0 / 0-1 / draw), shuffled with Python random.Random(5),
+# 30% of each stratum to holdout. Seed 5 was the first of seeds 1-5 whose holdout has a Brilliant,
+# a game of 80+ plies and a non-rapid time control. Never tune on holdout games.
+185387411150
+185425961522
+185439816356
+185466827454
+185476493194
+994221268
+# Batch 2 (2026-10-18): stratified by level (max Elo >= 2000) and result, random.Random(2026), 30% to holdout.
+184740374128
+185101208706
+185137444946
+185151408586
+185221110711
+185311691496
+185344445308
+185362589181
+185363112760
+185468237512
+185961991257
+186393389351
+# Batch 4 (2026-10-19): 82 random khhizr7 rapid games (random.Random(2027), 30+ plies) labelled from
+# captured /v2/game-review responses; stratified by result and whether the game has a Brilliant,
+# random.Random(2027), 30% to holdout.
+142636591844
+142873206408
+142918703388
+147991742972
+164462806840
+165450446440
+167316688806
+167397747616
+168148201932
+169217872990
+170185678278
+171124015136
+171980080646
+173068943088
+173807034866
+174468507028
+184271279368
+184449650784
+184555832944
+184797463690
+184810276410
+185097600644
+185198810006
+185216623720
+185498696400

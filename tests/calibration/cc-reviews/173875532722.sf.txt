@@ -1,0 +1,58 @@
+eng 10 acc 57.5 42.9 cee 1.198.16
+1 e2e4 book 25@29 - - -
+2 e7e5 book 25@28 - - -
+3 g1f3 book 25@27 - - -
+4 d7d6 book 62@28 - - -
+5 b1c3 book 32@30 - - -
+6 b8c6 book 72@28 - - - K
+7 c3d5 good -2@27 f1b5 best 72@27
+8 g8f6 best -2@26 - - -
+9 f1b5 excellent -29@27 d2d4 best -2@25
+10 c8d7 good 18@29 a7a6 best -29@26
+11 d5f6 good -35@30 d2d4 best 18@28
+12 g7f6 good 37@27 d8f6 best -35@29
+13 e1g1 good -22@17 d2d4 best 37@26
+14 f6f5 good 23@16 a7a6 best -22@16
+15 e4f5 best 23@15 - - -
+16 d7f5 inaccuracy 114@18 h8g8 best 23@14
+17 d2d3 inaccuracy 13@16 d2d4 best 114@17
+18 f8g7 excellent 31@14 h8g8 best 13@15
+19 c2c4 good -34@18 d3d4 best 31@13
+20 e8g8 best -34@17 - - -
+21 d3d4 inaccuracy -157@19 c1g5 best -34@16
+22 e5d4 miss -23@17 c6d4 best -157@18 K
+23 f3g5 miss -225@17 c1g5 best -23@16
+24 h7h6 good -169@19 d8f6 best -225@16
+25 d1h5 mistake -387@19 d1f3 best -169@18 K
+26 d8f6 inaccuracy -253@18 h6g5 best -387@18
+27 c4c5 inaccuracy -449@19 b5c6 best -253@17
+28 d6c5 inaccuracy -285@18 h6g5 best -449@18
+29 b5c4 inaccuracy -449@20 g5f3 best -285@17
+30 a7a6 good -355@19 c6e5 best -449@19
+31 f2f3 good -404@18 g5f3 best -355@18
+32 f8e8 blunder 63@17 f5g6 best -404@16 K
+33 c1d2 miss -444@18 c4f7 best 63@16 K
+34 c6e5 excellent -424@18 h6g5 best -444@17
+35 g5e4 best -424@17 - - -
+36 f5e4 blunder -87@17 f6g6 best -424@16 K
+37 f3e4 best -87@16 - - -
+38 f6g6 blunder 222@19 f6d6 best -87@15 K
+39 c4f7 brilliant 222@18 - - - K
+40 g8h7 blunder 863@21 g6f7 best 222@17 K
+41 f7g6 best 863@20 - - - K
+42 e5g6 inaccuracy M8@33 h7g8 best 863@19
+43 f1f7 best M7@32 - - -
+44 e8e4 inaccuracy M2@246 g6f4 best M7@31
+45 h5c5 miss 587@18 h5h6 best M1@245 K
+46 a8e8 excellent 594@18 a8f8 best 587@17
+47 h2h3 good 536@18 c5c7 best 594@17
+48 c7c6 good 608@19 e8e7 best 536@17
+49 c5b6 inaccuracy 501@18 c5h5 best 608@18
+50 e4e2 inaccuracy 667@19 g6e5 best 501@17
+51 b6b7 mistake 457@20 b6d4 best 667@18 K
+52 e2d2 blunder M3@250 e8g8 best 457@19 K
+53 f7g7 great M2@249 - - - K
+54 h7h8 forced M2@248 - - -
+55 g7h7 best M1@247 - - -
+56 h8g8 forced M1@246 - - -
+57 b7g7 best -M0@245 - - -

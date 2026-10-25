@@ -1,0 +1,214 @@
+{
+  "game_id": "185330935602",
+  "source_url": "https://www.chess.com/game/live/185330935602",
+  "collected_at": "2026-10-18",
+  "review_settings": {
+    "strength": "Fast (18)",
+    "engine": "stockfish16 nnue",
+    "notes": "batch 2; review shown with engine Stockfish"
+  },
+  "white": "VasileGB",
+  "black": "PeterSouth1954",
+  "white_elo": "1029",
+  "black_elo": "1011",
+  "time_control": "600",
+  "result": "1-0",
+  "white_accuracy": 77.9,
+  "black_accuracy": 68.5,
+  "counts": {
+    "white": {
+      "brilliant": 0,
+      "great": 1,
+      "book": 1,
+      "best": 2,
+      "excellent": 3,
+      "good": 1,
+      "inaccuracy": 2,
+      "mistake": 1,
+      "miss": 0,
+      "blunder": 0
+    },
+    "black": {
+      "brilliant": 0,
+      "great": 0,
+      "book": 1,
+      "best": 2,
+      "excellent": 3,
+      "good": 1,
+      "inaccuracy": 1,
+      "mistake": 2,
+      "miss": 0,
+      "blunder": 0
+    }
+  },
+  "plies": [
+    {
+      "ply": 1,
+      "san": "e3",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.10"
+    },
+    {
+      "ply": 2,
+      "san": "e5",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.25"
+    },
+    {
+      "ply": 3,
+      "san": "Qh5",
+      "label": "inaccuracy",
+      "app_best_san": "d4",
+      "app_best_uci": "d2d4",
+      "app_eval": "-0.88"
+    },
+    {
+      "ply": 4,
+      "san": "Nc6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.88"
+    },
+    {
+      "ply": 5,
+      "san": "Bb5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.90"
+    },
+    {
+      "ply": 6,
+      "san": "Nf6",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.88"
+    },
+    {
+      "ply": 7,
+      "san": "Qg5",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-1.33"
+    },
+    {
+      "ply": 8,
+      "san": "Ne7",
+      "label": "mistake",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.46"
+    },
+    {
+      "ply": 9,
+      "san": "Qxe5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.46"
+    },
+    {
+      "ply": 10,
+      "san": "a6",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.62"
+    },
+    {
+      "ply": 11,
+      "san": "Bc4",
+      "label": "inaccuracy",
+      "app_best_san": "Be2",
+      "app_best_uci": "b5e2",
+      "app_eval": "-0.39"
+    },
+    {
+      "ply": 12,
+      "san": "d6",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.29"
+    },
+    {
+      "ply": 13,
+      "san": "Qc3",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.53"
+    },
+    {
+      "ply": 14,
+      "san": "Nc6",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "0.00"
+    },
+    {
+      "ply": 15,
+      "san": "Qb3",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.07"
+    },
+    {
+      "ply": 16,
+      "san": "Qe7",
+      "label": "inaccuracy",
+      "app_best_san": "Ne5",
+      "app_best_uci": "c6e5",
+      "app_eval": "+0.90"
+    },
+    {
+      "ply": 17,
+      "san": "Qa4",
+      "label": "mistake",
+      "app_best_san": "Nf3",
+      "app_best_uci": "g1f3",
+      "app_eval": "-0.64"
+    },
+    {
+      "ply": 18,
+      "san": "b5",
+      "label": "mistake",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.77"
+    },
+    {
+      "ply": 19,
+      "san": "Bxb5",
+      "label": "great",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.77"
+    },
+    {
+      "ply": 20,
+      "san": "axb5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.77"
+    },
+    {
+      "ply": 21,
+      "san": "Qxa8",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.77"
+    }
+  ]
+}

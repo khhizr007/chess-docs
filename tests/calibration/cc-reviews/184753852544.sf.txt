@@ -1,0 +1,64 @@
+eng 10 acc 85.5 77.8 cee 1.198.16
+1 e2e4 book 38@31 - - -
+2 e7e5 book 38@30 - - -
+3 g1f3 book 38@29 - - -
+4 b8c6 book 38@28 - - -
+5 d2d4 book 18@33 - - -
+6 e5d4 book 18@32 - - -
+7 f3d4 book 18@31 - - -
+8 g8f6 book 18@30 - - -
+9 d4c6 book 10@29 - - -
+10 b7c6 book 10@28 - - -
+11 e4e5 book 0@41 - - -
+12 d8e7 book 0@40 - - -
+13 d1e2 book 0@39 - - -
+14 f6d5 book 0@38 - - -
+15 h2h4 book -15@25 - - - K
+16 f7f6 inaccuracy 19@18 e7e6 best -15@24
+17 c2c4 best 19@17 - - -
+18 c8a6 best 19@16 - - -
+19 h1h3 best 19@15 - - -
+20 f6e5 inaccuracy 57@14 e8c8 best 19@14
+21 h3a3 inaccuracy 0@15 c1g5 best 57@13
+22 d5b4 great 0@14 - - - K
+23 c1g5 mistake -86@13 b1c3 best 0@13 K
+24 e7e6 great -86@12 - - - K
+25 b1c3 mistake -166@16 a3a5 best -86@11 K
+26 a6c4 miss -92@20 h7h6 best -166@15 K
+27 e2c4 best -92@19 - - -
+28 e6c4 excellent -85@19 b4c2 best -92@18
+29 f1c4 best -85@18 - - -
+30 b4c2 best -85@17 - - -
+31 e1d1 great -85@16 - - - K
+32 c2a1 miss -26@14 c2a3 best -85@15 K
+33 a3a6 mistake -180@18 a3a5 best -26@13 K
+34 f8e7 great -180@17 - - - K
+35 g5d2 excellent -181@18 d1c1 best -180@16
+36 d7d5 miss -85@16 e7h4 best -181@17 K
+37 c4e2 great -85@15 - - - K
+38 e8g8 excellent -83@18 e8c8 best -85@14
+39 f2f3 good -91@14 a6c6 best -83@17
+40 e7b4 mistake -23@16 f8b8 best -91@13 K
+41 a6c6 best -23@15 - - -
+42 b4c3 mistake 188@16 a8d8 best -23@14 K
+43 c6c3 miss 57@20 d2c3 best 188@15 K
+44 a8b8 best 57@19 - - -
+45 c3c1 best 57@18 - - - K
+46 b8b2 best 57@17 - - -
+47 c1a1 best 57@16 - - - K
+48 f8b8 best 57@15 - - -
+49 e2d3 mistake -16@19 d2c3 best 57@14 K
+50 c7c5 best -16@18 - - -
+51 d3c2 best -16@17 - - -
+52 d5d4 mistake 196@17 b2b7 best -16@16 K
+53 c2b3 great 196@16 - - - K
+54 g8f8 best 196@15 - - -
+55 d1c1 mistake 88@18 a1c1 best 196@14 K
+56 c5c4 blunder 420@19 b2b3 best 88@17 K
+57 c1b2 best 420@18 - - - K
+58 c4b3 excellent 448@19 f8e7 best 420@17
+59 a2b3 best 448@18 - - -
+60 b8b7 excellent 497@19 b8c8 best 448@17
+61 a1a5 excellent 480@18 b2c2 best 497@18
+62 g7g6 excellent 526@19 b7c7 best 480@17
+63 a5e5 excellent 516@18 b2c2 best 526@18 K

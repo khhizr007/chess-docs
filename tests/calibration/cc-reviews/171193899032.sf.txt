@@ -1,0 +1,119 @@
+eng 10 acc 80.0 86.1 cee 1.198.16
+1 d2d4 book 21@29 - - -
+2 g8f6 book 25@30 - - -
+3 g1f3 book 21@30 - - -
+4 g7g6 book 33@29 - - -
+5 c1f4 book 9@30 - - -
+6 d7d5 book 33@30 - - -
+7 e2e3 book 28@34 - - -
+8 f8g7 book 28@33 - - -
+9 f1e2 book 28@32 - - - K
+10 c7c5 excellent 35@16 e8g8 best 28@30
+11 d4c5 inaccuracy -25@18 e1g1 best 35@15
+12 d8a5 inaccuracy 24@16 b8d7 best -25@17
+13 c2c3 excellent 19@17 b1d2 best 24@15
+14 a5c5 great 19@16 - - - K
+15 d1b3 inaccuracy -19@16 b1d2 best 19@15
+16 b8c6 best -19@15 - - -
+17 e1g1 good -35@15 b1d2 best -19@14
+18 e8g8 good -13@13 f6e4 best -35@14
+19 h2h3 good -35@16 f1d1 best -13@12
+20 f6d7 inaccuracy 30@16 f6e4 best -35@15
+21 b1a3 inaccuracy -38@16 b1d2 best 30@15
+22 e7e5 best -38@15 - - -
+23 f4h2 good -62@13 f4g3 best -38@14
+24 a7a6 excellent -48@18 d7b6 best -62@12
+25 a1d1 best -48@17 - - -
+26 d7b6 great -48@16 - - - K
+27 a3c2 excellent -50@15 c3c4 best -48@15
+28 c8e6 good -16@15 f8e8 best -50@14
+29 c2b4 inaccuracy -70@17 f3d4 best -16@14
+30 d5d4 excellent -59@16 c6a5 best -70@16
+31 b3a3 inaccuracy -109@20 e3d4 best -59@15
+32 d4e3 great -109@19 - - - K
+33 b4c6 best -109@18 - - -
+34 e3f2 inaccuracy -58@18 c5a3 best -109@17
+35 f1f2 best -58@17 - - -
+36 c5c6 mistake 34@17 c5a3 best -58@16 K
+37 f3e5 best 34@16 - - -
+38 g7e5 good 70@17 c6c8 best 34@15
+39 h2e5 best 70@16 - - -
+40 f7f5 blunder 474@19 b6c4 best 70@15 K
+41 a3e7 miss 164@19 d1d6 best 474@18 K
+42 f8f7 best 164@18 - - -
+43 e7g5 best 164@17 - - -
+44 b6d5 mistake 405@19 a8e8 best 164@16 K
+45 e2f3 inaccuracy 252@16 c3c4 best 405@18
+46 c6c5 inaccuracy 334@19 a8e8 best 252@15
+47 e5d4 inaccuracy 237@19 b2b4 best 334@18
+48 c5d6 excellent 261@17 c5e7 best 237@18
+49 f2e2 good 201@18 d1e1 best 261@16
+50 d5f4 mistake 435@18 d5c7 best 201@17 K
+51 e2d2 great 435@17 - - - K
+52 e6d5 excellent 504@18 h7h6 best 435@16
+53 f3d5 excellent 470@18 d4e3 best 504@17 K
+54 f4d5 best 470@17 - - -
+55 d4f2 mistake 78@15 d4e3 best 470@16 K
+56 d6f4 great 78@14 - - - K
+57 g5f4 good 56@18 h3h4 best 78@13
+58 d5f4 best 56@17 - - -
+59 d2d7 good 34@15 a2a4 best 56@16
+60 a8e8 best 34@14 - - -
+61 d7d8 excellent 28@19 a2a4 best 34@13
+62 e8d8 best 28@18 - - -
+63 d1d8 best 28@17 - - -
+64 g8g7 inaccuracy 89@21 f7f8 best 28@16
+65 f2d4 best 89@20 - - -
+66 g7h6 best 89@19 - - -
+67 d4e3 best 89@18 - - -
+68 g6g5 great 89@17 - - - K
+69 d8d6 good 63@17 e3f4 best 89@16
+70 h6h5 good 79@22 f4g6 best 63@16
+71 e3f4 best 79@21 - - -
+72 g5f4 best 79@20 - - -
+73 g1f2 best 79@19 - - -
+74 h5g5 good 91@20 f7e7 best 79@18
+75 f2f3 best 91@19 - - -
+76 h7h5 inaccuracy 121@17 f7e7 best 91@18
+77 d6d4 best 121@16 - - -
+78 h5h4 excellent 125@20 a6a5 best 121@15
+79 d4f4 best 125@19 - - - K
+80 f7d7 best 125@18 - - -
+81 f4d4 best 125@17 - - -
+82 d7g7 best 125@18 - - -
+83 d4d5 good 112@19 d4b4 best 125@17
+84 g5f6 inaccuracy 142@18 b7b5 best 112@18
+85 f3f4 mistake 70@18 a2a4 best 142@17 K
+86 g7g2 best 70@17 - - -
+87 d5f5 inaccuracy 0@23 d5d6 best 70@16
+88 f6e6 excellent 6@20 f6g6 best 0@20
+89 f5h5 excellent 0@26 f5a5 best 6@19
+90 g2b2 best 0@25 - - - K
+91 h5h4 best 0@22 - - - K
+92 b2f2 excellent 9@18 b2a2 best 0@21
+93 f4g3 excellent 0@18 f4e4 best 9@17
+94 f2a2 best 0@17 - - - K
+95 h4b4 good -31@16 h4h7 best 0@16
+96 b7b5 best -31@15 - - -
+97 h3h4 best -31@14 - - -
+98 a2d2 good -6@15 a2a3 best -31@13
+99 h4h5 best -6@14 - - -
+100 d2d3 excellent 0@17 e6f5 best -6@13
+101 g3g4 excellent -9@14 g3f2 best 0@16
+102 d3d7 excellent 0@25 d3c3 best -9@13
+103 b4e4 best 0@24 - - -
+104 e6f6 best 0@23 - - -
+105 e4d4 mistake -571@18 e4e8 best 0@22 K
+106 d7d4 best -571@17 - - -
+107 c3d4 best -571@16 - - -
+108 b5b4 great -571@15 - - - K
+109 d4d5 best -571@14 - - -
+110 b4b3 best -571@13 - - -
+111 d5d6 excellent -655@21 h5h6 best -571@12
+112 b3b2 best -655@20 - - -
+113 d6d7 best -655@19 - - -
+114 f6e7 great -655@18 - - - K
+115 h5h6 excellent -659@19 g4f4 best -655@17
+116 b2b1q best -659@18 - - -
+117 h6h7 inaccuracy -M15@25 g4f4 best -659@17
+118 b1h7 good -1081@17 b1e4 best -M14@24

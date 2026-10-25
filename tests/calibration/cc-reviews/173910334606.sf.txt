@@ -1,0 +1,60 @@
+eng 10 acc 68.5 54.5 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 g8f6 book 80@30 - - -
+3 b1c3 book 17@32 - - - K
+4 b7b6 inaccuracy 132@28 e7e5 best 17@31
+5 f1c4 inaccuracy 24@31 e4e5 best 132@27
+6 c8b7 best 24@30 - - -
+7 d2d3 excellent 18@30 g1f3 best 24@29
+8 g7g6 good 56@25 e7e6 best 18@29
+9 c1g5 good 16@14 h2h4 best 56@24
+10 f8g7 best 16@13 - - -
+11 d1d2 excellent 8@14 g1f3 best 16@12
+12 e8g8 inaccuracy 87@16 e7e6 best 8@13
+13 e1c1 best 87@15 - - -
+14 b8c6 excellent 108@18 d7d5 best 87@14
+15 h2h4 best 108@17 - - -
+16 c6d4 excellent 128@17 h7h5 best 108@16
+17 h4h5 best 128@16 - - -
+18 e7e6 mistake 294@18 d7d5 best 128@15 K
+19 h5g6 good 228@18 e4e5 best 294@17
+20 f7g6 best 228@17 - - -
+21 g1f3 inaccuracy 129@17 e4e5 best 228@16
+22 d7d5 mistake 387@18 d4f3 best 129@16 K
+23 e4d5 miss -36@15 f3d4 best 387@17 K
+24 e6d5 blunder 299@19 d4f3 best -36@14 K
+25 c3d5 miss 130@19 f3d4 best 299@18 K
+26 b7d5 best 130@18 - - -
+27 c4d5 miss -401@16 f3d4 best 130@17 K
+28 f6d5 blunder 332@22 d8d5 best -401@15 K
+29 g5d8 great 332@21 - - - K
+30 d4f3 best 332@20 - - -
+31 g2f3 best 332@19 - - -
+32 a8d8 best 332@18 - - -
+33 d2g5 excellent 311@17 d1e1 best 332@17
+34 g7f6 good 376@17 d8d6 best 311@16
+35 g5g4 good 328@18 g5h6 best 376@16
+36 f6e7 good 388@18 a7a5 best 328@17
+37 g4h3 excellent 351@15 g4e6 best 388@17
+38 h7h5 excellent 384@19 e7g5 best 351@14
+39 h3g2 good 320@18 h3e6 best 384@18
+40 e7f6 mistake 677@16 g8g7 best 320@17 K
+41 h1h5 blunder 104@19 g2g6 best 677@15 K
+42 d5f4 great 104@18 - - - K
+43 g2g4 great 104@17 - - - K
+44 f4h5 excellent 109@18 d8d4 best 104@16
+45 g4g6 best 109@17 - - - K
+46 g8h8 blunder 500@20 h5g7 best 109@16 K
+47 g6h5 great 500@19 - - - K
+48 h8g7 mistake M5@87 h8g8 best 500@18 K
+49 d1g1 great M4@86 - - - K
+50 f6g5 forced M4@85 - - -
+51 h5g5 best M3@111 - - -
+52 g7f7 best M3@110 - - -
+53 g5f5 excellent M4@55 g5g6 best M2@103
+54 f7e7 best M4@54 - - -
+55 g1g7 best M3@248 - - -
+56 e7d6 best M3@247 - - -
+57 g7g6 best M2@246 - - -
+58 d6e7 excellent M1@246 f8f6 best M2@245
+59 f5e6 best -M0@245 - - -

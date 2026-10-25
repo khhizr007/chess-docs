@@ -1,0 +1,2 @@
+# Per-game review results are large and regenerable; keep only reports.
+*/[0-9]*.json

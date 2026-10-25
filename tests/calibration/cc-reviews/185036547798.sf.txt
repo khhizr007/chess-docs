@@ -1,0 +1,57 @@
+eng 10 acc 65.5 62.6 cee 1.198.16
+1 e2e4 book 25@29 - - -
+2 e7e5 book 25@28 - - -
+3 g1f3 book 25@27 - - - K
+4 d8f6 inaccuracy 115@28 b8c6 best 25@26
+5 b1c3 best 115@27 - - -
+6 f8c5 inaccuracy 229@27 b8c6 best 115@26
+7 f1c4 inaccuracy 126@26 c3d5 best 229@26
+8 b8c6 excellent 146@26 g8e7 best 126@25
+9 d2d3 inaccuracy 40@28 c3d5 best 146@25
+10 c6d4 good 104@27 g8e7 best 40@27
+11 c1e3 good 50@30 f3d4 best 104@26
+12 d4f3 best 50@29 - - -
+13 g2f3 excellent 41@30 d1f3 best 50@28
+14 c5b4 inaccuracy 109@18 c5e3 best 41@29
+15 a2a3 good 56@18 h1g1 best 109@17
+16 b4c3 great 56@17 - - - K
+17 b2c3 best 56@16 - - -
+18 g8h6 mistake 174@18 g8e7 best 56@15 K
+19 e3h6 miss -53@18 h1g1 best 174@17
+20 g7h6 good 25@18 f6h6 best -53@17
+21 d3d4 excellent 19@14 h1g1 best 25@17
+22 e5d4 mistake 154@17 d7d6 best 19@13 K
+23 c3d4 inaccuracy 65@17 d1d4 best 154@16
+24 d7d6 best 65@16 - - -
+25 f3f4 mistake -114@19 a1b1 best 65@15 K
+26 f6f4 great -114@18 - - - K
+27 e4e5 mistake -362@18 d1d3 best -114@17 K
+28 d6e5 good -269@19 f4e4 best -362@17
+29 d1e2 best -269@18 - - -
+30 f4d4 best -269@17 - - - K
+31 c4b5 inaccuracy -415@20 a1d1 best -269@16
+32 c8d7 mistake -152@16 c7c6 best -415@19 K
+33 b5d3 blunder -629@14 b5d7 best -152@15 K
+34 d4a1 great -592@17 - - - K
+35 e2d1 inaccuracy -732@20 e1d2 best -592@16
+36 a1c3 best -732@19 - - -
+37 e1e2 best -732@18 - - -
+38 d7g4 excellent -698@19 e8c8 best -732@17
+39 f2f3 best -698@18 - - -
+40 g4h5 excellent -679@19 e8c8 best -698@17
+41 d1a1 excellent -717@17 d1g1 best -679@18
+42 h8g8 blunder 435@17 c3a1 best -717@16 K
+43 a1c3 great 431@18 - - - K
+44 g8g2 good 502@19 e8c8 best 431@17
+45 e2d1 good 414@17 e2f1 best 502@18
+46 h5f3 good 492@19 e8c8 best 414@16
+47 d1c1 best 492@18 - - -
+48 e5e4 excellent 511@19 e8c8 best 492@17
+49 d3e4 brilliant 495@22 - - - K
+50 f3e4 best 495@21 - - -
+51 c3e5 best 495@20 - - -
+52 e8f8 best 495@19 - - -
+53 e5e4 great 495@18 - - - K
+54 a8e8 mistake 721@19 g2g6 best 495@17 K
+55 e4g2 best 721@18 - - - K
+56 b7b5 good 805@18 e8e5 best 721@17

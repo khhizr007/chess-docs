@@ -1,0 +1,60 @@
+eng 10 acc 80.6 73.4 cee 1.198.16
+1 e2e4 book 25@29 - - -
+2 e7e5 book 25@28 - - -
+3 g1f3 book 25@27 - - -
+4 g8f6 book 43@28 - - -
+5 f1c4 inaccuracy -62@28 f3e5 best 43@27
+6 b8c6 inaccuracy 28@29 f6e4 best -62@27
+7 e1g1 book -39@29 - - -
+8 f8c5 book 30@32 - - -
+9 d2d3 book 26@31 - - -
+10 d7d6 book 27@30 - - - K
+11 f3g5 good -33@31 f1e1 best 27@29
+12 e8g8 excellent -20@28 c8g4 best -33@30
+13 g1h1 good -70@28 c2c3 best -20@27
+14 h7h6 excellent -51@30 c8g4 best -70@27
+15 g5f3 great -51@29 - - - K
+16 c6d4 excellent -46@18 c6a5 best -51@28
+17 f3d4 excellent -47@19 h2h3 best -46@17
+18 c5d4 best -47@18 - - -
+19 c2c3 excellent -59@18 d1e1 best -47@17
+20 d4c5 good -28@16 d4b6 best -59@17
+21 d3d4 good -76@18 f2f4 best -28@15
+22 e5d4 excellent -55@19 c5b6 best -76@17
+23 c3d4 best -55@18 - - -
+24 c5b6 best -55@17 - - -
+25 b1c3 excellent -60@18 d1d3 best -55@16
+26 c8g4 inaccuracy 85@17 f6e4 best -60@17
+27 f2f3 best 85@16 - - -
+28 g4h5 inaccuracy 141@16 g4e6 best 85@15
+29 d1d3 inaccuracy 51@15 c4b3 best 141@15
+30 c7c5 mistake 164@17 h5g6 best 51@14 K
+31 d4d5 inaccuracy 96@15 c1e3 best 164@16
+32 d8e7 excellent 115@17 h5g6 best 96@14
+33 a2a3 good 76@16 a2a4 best 115@16
+34 b6d8 good 115@19 h5g6 best 76@15
+35 b2b4 good 64@17 a3a4 best 115@18
+36 c5b4 excellent 78@18 f6d7 best 64@16
+37 a3b4 best 78@17 - - -
+38 a7a6 excellent 80@16 a8c8 best 78@16
+39 b4b5 excellent 53@17 c1b2 best 80@15
+40 d8b6 good 87@17 a6a5 best 53@16
+41 b5a6 best 87@16 - - -
+42 b7a6 best 87@15 - - -
+43 a1a6 excellent 76@18 c3e2 best 87@14
+44 a8a6 excellent 86@19 f6d7 best 76@17
+45 c4a6 best 86@18 - - -
+46 f8a8 excellent 98@16 f6d7 best 86@17
+47 d3b5 blunder -198@19 c3a4 best 98@15 K
+48 b6d4 miss 123@14 e7a7 best -198@18 K
+49 b5c6 good 91@16 b5c4 best 123@13
+50 d4c3 blunder 372@19 a8b8 best 91@15 K
+51 c6a8 best 372@18 - - - K
+52 g8h7 best 372@17 - - -
+53 a8c6 excellent 335@18 a6d3 best 372@16
+54 c3e5 best 335@17 - - -
+55 c1a3 inaccuracy 242@18 a6d3 best 335@16
+56 f6e8 inaccuracy 383@19 f6e4 best 242@17
+57 f3f4 best 383@18 - - -
+58 h5e2 mistake 498@20 e5d4 best 383@17 K
+59 a6e2 best 498@19 - - - K

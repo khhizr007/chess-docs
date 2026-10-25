@@ -1,0 +1,63 @@
+eng 10 acc 75.2 87.1 cee 1.198.16
+1 d2d4 book 30@31 - - -
+2 d7d5 book 35@19 - - -
+3 c2c4 book 35@18 - - -
+4 g8f6 book 60@29 - - -
+5 c4d5 book 60@28 - - -
+6 f6d5 book 95@26 - - -
+7 g1f3 book 95@25 - - - K
+8 e7e6 good 115@31 c8f5 best 95@24
+9 e2e4 best 115@30 - - -
+10 d5f6 good 129@29 f8b4 best 115@29
+11 f1d3 inaccuracy 75@28 b1c3 best 129@28
+12 b8c6 mistake 161@28 c7c5 best 75@27 K
+13 c1e3 miss 74@18 b1c3 best 161@27
+14 f8b4 miss 152@17 c6b4 best 74@17
+15 b1d2 inaccuracy 112@17 b1c3 best 152@16
+16 e8g8 inaccuracy 155@18 f6g4 best 112@16
+17 e1g1 inaccuracy 121@18 a2a3 best 155@17
+18 f6g4 excellent 123@18 b4e7 best 121@17
+19 a2a3 excellent 113@18 e4e5 best 123@17
+20 g4e3 best 113@17 - - -
+21 f2e3 best 113@16 - - -
+22 b4e7 good 132@17 b4d2 best 113@15
+23 d2c4 inaccuracy 102@16 d1c2 best 132@16
+24 a7a6 good 117@16 f7f6 best 102@15
+25 e4e5 excellent 108@18 d1c2 best 117@15
+26 b7b5 inaccuracy 147@17 f7f5 best 108@17
+27 c4d2 best 147@16 - - -
+28 c8b7 good 163@16 c6b8 best 147@15
+29 a1c1 excellent 162@17 d1c2 best 163@15
+30 b5b4 good 186@21 a8c8 best 162@16
+31 d3e4 best 186@20 - - -
+32 c6a5 best 186@19 - - -
+33 a3b4 good 153@19 d1a4 best 186@18
+34 e7b4 best 153@18 - - -
+35 e4d3 mistake 86@16 h2h4 best 153@17 K
+36 b4d2 miss 165@18 c7c5 best 86@15
+37 d1d2 mistake -129@18 f3d2 best 165@17 K
+38 a5b3 great -129@17 - - - K
+39 d3h7 best -129@16 - - -
+40 g8h8 great -129@15 - - - K
+41 d2c2 inaccuracy -181@20 d2d1 best -129@14
+42 b3c1 best -181@19 - - - K
+43 f1c1 mistake -316@19 h7e4 best -181@18 K
+44 b7f3 best -316@18 - - -
+45 g2f3 good -359@19 c1f1 best -316@17
+46 d8g5 best -359@18 - - -
+47 g1f2 excellent -390@21 g1h1 best -359@17
+48 g5h4 best -390@20 - - -
+49 f2g1 best -390@19 - - -
+50 h4h7 best -390@18 - - -
+51 c2c7 good -512@19 c2f2 best -390@17
+52 h7g6 excellent -468@18 a8b8 best -512@18
+53 g1h1 excellent -495@19 g1f2 best -468@17
+54 a8c8 excellent -489@22 g6f5 best -495@18
+55 c7c8 best -489@21 - - -
+56 f8c8 best -489@20 - - -
+57 c1c8 best -489@19 - - -
+58 h8h7 forced -489@18 - - -
+59 c8c1 good -578@20 e3e4 best -489@17
+60 g6d3 best -578@19 - - -
+61 h1g2 mistake -742@20 c1a1 best -578@18 K
+62 d3d2 best -742@19 - - - K

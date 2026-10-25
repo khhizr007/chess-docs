@@ -1,0 +1,61 @@
+eng 10 acc 78.4 82.2 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 a7a6 book 58@30 - - -
+3 d2d4 book 58@29 - - - K
+4 h7h6 mistake 109@31 e7e6 best 58@28 K
+5 f1d3 good 96@27 c2c4 best 109@30
+6 e7e6 excellent 101@31 d7d6 best 96@26
+7 g1f3 best 101@30 - - -
+8 d7d6 best 101@29 - - -
+9 b1c3 excellent 95@29 e1g1 best 101@28
+10 g7g6 good 114@30 g8f6 best 95@28
+11 h2h4 good 95@17 c1e3 best 114@29
+12 b7b6 inaccuracy 125@17 f8g7 best 95@16
+13 a2a4 inaccuracy 87@18 d1e2 best 125@16
+14 c8b7 good 100@18 f8g7 best 87@17
+15 c1e3 good 81@17 d4d5 best 100@17
+16 b8d7 best 81@16 - - -
+17 c3e2 good 65@17 d1e2 best 81@15
+18 g8f6 best 65@16 - - -
+19 e2g3 great 65@15 - - - K
+20 f6g4 excellent 74@15 c7c5 best 65@14
+21 e3d2 excellent 70@15 e3c1 best 74@14
+22 f8g7 inaccuracy 110@17 h6h5 best 70@14
+23 c2c3 inaccuracy 70@18 h4h5 best 110@16
+24 c7c5 inaccuracy 112@18 h6h5 best 70@17
+25 h4h5 great 112@17 - - - K
+26 d8c7 mistake 213@21 e8g8 best 112@16 K
+27 h5g6 best 213@20 - - -
+28 f7g6 best 213@19 - - -
+29 e4e5 inaccuracy 158@20 d1e2 best 213@18
+30 e8c8 best 158@19 - - -
+31 e5d6 excellent 155@20 d1e2 best 158@18
+32 c7d6 best 155@19 - - -
+33 g3e4 mistake 65@18 d1e2 best 155@18 K
+34 d6e7 miss 183@19 b7e4 best 65@17
+35 d1e2 best 183@18 - - -
+36 e6e5 best 183@17 - - -
+37 d4c5 excellent 172@21 d4d5 best 183@16
+38 d7c5 best 172@20 - - -
+39 e4c5 best 172@19 - - -
+40 e7c5 inaccuracy 236@22 b6c5 best 172@18
+41 d3a6 best 236@21 - - - K
+42 b7a6 best 236@20 - - -
+43 e2a6 best 236@19 - - -
+44 c8b8 best 236@18 - - -
+45 e1g1 best 236@17 - - -
+46 h8f8 good 289@19 d8d6 best 236@16
+47 b2b4 best 289@18 - - -
+48 c5c7 excellent 301@17 c5d5 best 289@16
+49 d2e3 inaccuracy 193@18 a4a5 best 301@16
+50 f8f6 inaccuracy 284@19 g4e3 best 193@17
+51 f1d1 inaccuracy 192@19 a4a5 best 284@18
+52 d8d1 good 214@19 g4e3 best 192@18
+53 a1d1 best 214@18 - - -
+54 e5e4 inaccuracy 296@17 f6c6 best 214@17
+55 g2g3 blunder -425@19 a6b5 best 296@16 K
+56 g4e3 great -425@18 - - - K
+57 f3d4 mistake -477@18 d1e1 best -425@17 K
+58 e3d1 best -477@17 - - - K
+59 b4b5 excellent -685@18 a6b5 best -477@16
+60 d1c3 excellent -631@18 d1f2 best -685@17

@@ -1,0 +1,66 @@
+eng 10 acc 89.3 81.2 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 g7g6 book 58@27 - - -
+3 f1c4 book 32@32 - - -
+4 f8g7 book 32@31 - - - K
+5 g1f3 best 32@30 - - -
+6 e7e6 good 59@32 c7c5 best 32@29
+7 d2d4 good 22@31 b1c3 best 59@31
+8 g8e7 inaccuracy 65@33 d7d5 best 22@30
+9 d4d5 inaccuracy 17@31 c4b3 best 65@32
+10 e6d5 excellent 25@33 d7d6 best 17@30
+11 e4d5 best 25@32 - - -
+12 e8g8 excellent 32@30 d7d6 best 25@31
+13 e1g1 best 32@29 - - -
+14 e7f5 inaccuracy 90@18 d7d6 best 32@28
+15 c1g5 best 90@17 - - -
+16 f5e7 mistake 306@15 g7f6 best 90@16 K
+17 c2c3 blunder 44@16 f1e1 best 306@14 K
+18 d7d6 good 77@21 h7h6 best 44@15
+19 f1e1 best 77@20 - - -
+20 f8e8 best 77@19 - - -
+21 d1e2 best 77@18 - - -
+22 b8d7 blunder 495@24 g8f8 best 77@17 K
+23 g5e7 great 495@23 - - - K
+24 e8e7 best 495@22 - - -
+25 e2e7 best 495@21 - - -
+26 d8e7 best 495@20 - - -
+27 e1e7 best 495@19 - - -
+28 d7e5 good 571@18 g8f8 best 495@18
+29 e7c7 excellent 509@18 e7e8 best 571@17
+30 c8f5 excellent 570@21 e5f3 best 509@17
+31 f3e5 best 570@20 - - -
+32 g7e5 best 570@19 - - -
+33 c7b7 best 570@18 - - -
+34 a7a6 excellent 593@19 f5c8 best 570@17
+35 b1d2 best 593@18 - - -
+36 e5f4 excellent 619@19 f5c8 best 593@17
+37 d2f3 best 619@18 - - -
+38 f5g4 excellent 640@20 f5e4 best 619@17
+39 f3d4 best 640@19 - - -
+40 f4e5 excellent 656@17 g8f8 best 640@18
+41 d4c6 excellent 652@20 g1h1 best 656@16
+42 e5f6 best 652@19 - - -
+43 h2h3 best 652@18 - - -
+44 g4c8 excellent 675@16 g4f5 best 652@17
+45 b7c7 excellent 642@18 b7b8 best 675@15
+46 c8f5 excellent 659@19 g8f8 best 642@17
+47 a1e1 excellent 656@17 c6e7 best 659@18
+48 h7h5 excellent 657@19 f5c2 best 656@16
+49 f2f3 excellent 581@18 c6d4 best 657@18
+50 h5h4 excellent 625@19 g8g7 best 581@17
+51 g1f2 excellent 599@19 f3f4 best 625@18
+52 a6a5 excellent 609@19 f6g5 best 599@18
+53 g2g4 excellent 530@22 c6e7 best 609@18
+54 h4g3 best 530@21 - - -
+55 f2g3 best 530@20 - - -
+56 g8g7 best 530@19 - - -
+57 c6e7 excellent 529@19 c6d4 best 530@18
+58 f6e5 good 697@23 a8h8 best 529@18
+59 f3f4 best 697@22 - - -
+60 e5f6 best 697@21 - - -
+61 e7f5 best 697@20 - - -
+62 g6f5 best 697@19 - - -
+63 c4d3 excellent 684@19 g3f3 best 697@18
+64 g7g6 excellent 781@21 a8h8 best 684@18
+65 e1g1 best 781@20 - - -

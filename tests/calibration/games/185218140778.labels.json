@@ -1,0 +1,694 @@
+{
+  "game_id": "185218140778",
+  "source_url": "https://www.chess.com/game/live/185218140778",
+  "collected_at": "2026-10-18",
+  "review_settings": {
+    "strength": "Fast (18)",
+    "engine": "stockfish16 nnue",
+    "notes": "batch 2; review shown with engine Stockfish"
+  },
+  "white": "jorgo247",
+  "black": "khhizr7",
+  "white_elo": "1002",
+  "black_elo": "987",
+  "time_control": "600",
+  "result": "1-0",
+  "white_accuracy": 84.3,
+  "black_accuracy": 79.3,
+  "counts": {
+    "white": {
+      "brilliant": 0,
+      "great": 0,
+      "book": 3,
+      "best": 16,
+      "excellent": 8,
+      "good": 11,
+      "inaccuracy": 2,
+      "mistake": 1,
+      "miss": 0,
+      "blunder": 0
+    },
+    "black": {
+      "brilliant": 0,
+      "great": 0,
+      "book": 3,
+      "best": 10,
+      "excellent": 13,
+      "good": 7,
+      "inaccuracy": 2,
+      "mistake": 3,
+      "miss": 0,
+      "blunder": 1
+    }
+  },
+  "plies": [
+    {
+      "ply": 1,
+      "san": "e4",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.38"
+    },
+    {
+      "ply": 2,
+      "san": "e5",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.38"
+    },
+    {
+      "ply": 3,
+      "san": "Nf3",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.38"
+    },
+    {
+      "ply": 4,
+      "san": "Nc6",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.38"
+    },
+    {
+      "ply": 5,
+      "san": "d3",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.02"
+    },
+    {
+      "ply": 6,
+      "san": "Nf6",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.07"
+    },
+    {
+      "ply": 7,
+      "san": "Be3",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.60"
+    },
+    {
+      "ply": 8,
+      "san": "Bd6",
+      "label": "inaccuracy",
+      "app_best_san": "d5",
+      "app_best_uci": "d7d5",
+      "app_eval": "+0.36"
+    },
+    {
+      "ply": 9,
+      "san": "c3",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.15"
+    },
+    {
+      "ply": 10,
+      "san": "b6",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.49"
+    },
+    {
+      "ply": 11,
+      "san": "Be2",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.23"
+    },
+    {
+      "ply": 12,
+      "san": "Bb7",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.59"
+    },
+    {
+      "ply": 13,
+      "san": "O-O",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.45"
+    },
+    {
+      "ply": 14,
+      "san": "Ng4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.71"
+    },
+    {
+      "ply": 15,
+      "san": "Nbd2",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.30"
+    },
+    {
+      "ply": 16,
+      "san": "Nxe3",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.33"
+    },
+    {
+      "ply": 17,
+      "san": "fxe3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.33"
+    },
+    {
+      "ply": 18,
+      "san": "Bc5",
+      "label": "inaccuracy",
+      "app_best_san": "Be7",
+      "app_best_uci": "d6e7",
+      "app_eval": "+1.17"
+    },
+    {
+      "ply": 19,
+      "san": "Nc4",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.93"
+    },
+    {
+      "ply": 20,
+      "san": "b5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.04"
+    },
+    {
+      "ply": 21,
+      "san": "Ncxe5",
+      "label": "inaccuracy",
+      "app_best_san": "d4",
+      "app_best_uci": "d3d4",
+      "app_eval": "+0.34"
+    },
+    {
+      "ply": 22,
+      "san": "Nxe5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.51"
+    },
+    {
+      "ply": 23,
+      "san": "Nxe5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.51"
+    },
+    {
+      "ply": 24,
+      "san": "Bxe3+",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.51"
+    },
+    {
+      "ply": 25,
+      "san": "Kh1",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.51"
+    },
+    {
+      "ply": 26,
+      "san": "O-O",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.78"
+    },
+    {
+      "ply": 27,
+      "san": "Bg4",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.22"
+    },
+    {
+      "ply": 28,
+      "san": "Re8",
+      "label": "mistake",
+      "app_best_san": "Qe7",
+      "app_best_uci": "d8e7",
+      "app_eval": "+2.80"
+    },
+    {
+      "ply": 29,
+      "san": "Nxf7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+2.80"
+    },
+    {
+      "ply": 30,
+      "san": "Qh4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.10"
+    },
+    {
+      "ply": 31,
+      "san": "Qe2",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+2.84"
+    },
+    {
+      "ply": 32,
+      "san": "Bb6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+2.84"
+    },
+    {
+      "ply": 33,
+      "san": "g3",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+2.25"
+    },
+    {
+      "ply": 34,
+      "san": "Qe7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+2.25"
+    },
+    {
+      "ply": 35,
+      "san": "d4",
+      "label": "mistake",
+      "app_best_san": "Rf5",
+      "app_best_uci": "f1f5",
+      "app_eval": "-0.71"
+    },
+    {
+      "ply": 36,
+      "san": "Bxe4+",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.08"
+    },
+    {
+      "ply": 37,
+      "san": "Bf3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.08"
+    },
+    {
+      "ply": 38,
+      "san": "Bxf3+",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.07"
+    },
+    {
+      "ply": 39,
+      "san": "Qxf3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.07"
+    },
+    {
+      "ply": 40,
+      "san": "Rf8",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "0.00"
+    },
+    {
+      "ply": 41,
+      "san": "Qd5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "0.00"
+    },
+    {
+      "ply": 42,
+      "san": "Rxf7",
+      "label": "blunder",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.38"
+    },
+    {
+      "ply": 43,
+      "san": "Rxf7",
+      "label": "inaccuracy",
+      "app_best_san": "Rae1",
+      "app_best_uci": "a1e1",
+      "app_eval": "+4.24"
+    },
+    {
+      "ply": 44,
+      "san": "Qxf7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.24"
+    },
+    {
+      "ply": 45,
+      "san": "Qxa8+",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.24"
+    },
+    {
+      "ply": 46,
+      "san": "Qf8",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.24"
+    },
+    {
+      "ply": 47,
+      "san": "Qxf8+",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.24"
+    },
+    {
+      "ply": 48,
+      "san": "Kxf8",
+      "label": "forced",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.24"
+    },
+    {
+      "ply": 49,
+      "san": "Re1",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.99"
+    },
+    {
+      "ply": 50,
+      "san": "Kf7",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.02"
+    },
+    {
+      "ply": 51,
+      "san": "Kg2",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.93"
+    },
+    {
+      "ply": 52,
+      "san": "c6",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.94"
+    },
+    {
+      "ply": 53,
+      "san": "Kf3",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.93"
+    },
+    {
+      "ply": 54,
+      "san": "Kf6",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.39"
+    },
+    {
+      "ply": 55,
+      "san": "Ke4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.16"
+    },
+    {
+      "ply": 56,
+      "san": "Ke6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.16"
+    },
+    {
+      "ply": 57,
+      "san": "Kf4+",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.67"
+    },
+    {
+      "ply": 58,
+      "san": "Kd5",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.57"
+    },
+    {
+      "ply": 59,
+      "san": "Re7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.57"
+    },
+    {
+      "ply": 60,
+      "san": "Kd6",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.40"
+    },
+    {
+      "ply": 61,
+      "san": "Rxg7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.40"
+    },
+    {
+      "ply": 62,
+      "san": "a5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.73"
+    },
+    {
+      "ply": 63,
+      "san": "Rxh7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.73"
+    },
+    {
+      "ply": 64,
+      "san": "a4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.73"
+    },
+    {
+      "ply": 65,
+      "san": "Rh6+",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.28"
+    },
+    {
+      "ply": 66,
+      "san": "Kc7",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.96"
+    },
+    {
+      "ply": 67,
+      "san": "Ke4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.96"
+    },
+    {
+      "ply": 68,
+      "san": "Ba5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.96"
+    },
+    {
+      "ply": 69,
+      "san": "Kd3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.96"
+    },
+    {
+      "ply": 70,
+      "san": "b4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+6.26"
+    },
+    {
+      "ply": 71,
+      "san": "cxb4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+6.16"
+    },
+    {
+      "ply": 72,
+      "san": "Bxb4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+6.16"
+    },
+    {
+      "ply": 73,
+      "san": "Kc4",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.66"
+    },
+    {
+      "ply": 74,
+      "san": "Ba5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+6.02"
+    },
+    {
+      "ply": 75,
+      "san": "b3",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.62"
+    },
+    {
+      "ply": 76,
+      "san": "axb3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.62"
+    },
+    {
+      "ply": 77,
+      "san": "axb3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.62"
+    },
+    {
+      "ply": 78,
+      "san": "Kb6",
+      "label": "mistake",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+6.51"
+    },
+    {
+      "ply": 79,
+      "san": "d5",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+5.58"
+    },
+    {
+      "ply": 80,
+      "san": "d6",
+      "label": "mistake",
+      "app_best_san": "Be1",
+      "app_best_uci": "a5e1",
+      "app_eval": "+6.31"
+    },
+    {
+      "ply": 81,
+      "san": "Rxd6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+6.31"
+    }
+  ]
+}

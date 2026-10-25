@@ -1,0 +1,755 @@
+{
+  "game_id": "1022826438",
+  "source_url": "https://www.chess.com/game/daily/1022826438",
+  "collected_at": "2026-10-23",
+  "review_settings": {
+    "strength": "Fast (18)",
+    "engine": "stockfish16 nnue",
+    "notes": "batch 5 (strat); labels read from the /v2/game-review response (cc-reviews/1022826438.sf.txt)"
+  },
+  "white": "00_Timmy",
+  "black": "cookiemanufacturer",
+  "white_elo": "885",
+  "black_elo": "1081",
+  "time_control": "1/86400",
+  "result": "0-1",
+  "white_accuracy": 83.7,
+  "black_accuracy": 92.2,
+  "counts": {
+    "white": {
+      "brilliant": 0,
+      "great": 1,
+      "book": 5,
+      "best": 11,
+      "excellent": 3,
+      "good": 9,
+      "inaccuracy": 3,
+      "mistake": 2,
+      "miss": 0,
+      "blunder": 0
+    },
+    "black": {
+      "brilliant": 0,
+      "great": 0,
+      "book": 4,
+      "best": 11,
+      "excellent": 11,
+      "good": 6,
+      "inaccuracy": 1,
+      "mistake": 0,
+      "miss": 0,
+      "blunder": 0
+    }
+  },
+  "batch5": {
+    "selection": "strat",
+    "time_class": "daily",
+    "band": 1,
+    "sac_plies": null,
+    "effective_rating": {
+      "white": 1550,
+      "black": 1750
+    },
+    "phase_accuracy": {
+      "white": {
+        "opening": {
+          "accuracy": 92.9,
+          "glyph": "best"
+        },
+        "middlegame": {
+          "accuracy": 82.6,
+          "glyph": "best"
+        },
+        "endgame": {
+          "accuracy": 49.5,
+          "glyph": "mistake"
+        }
+      },
+      "black": {
+        "opening": {
+          "accuracy": 98.7,
+          "glyph": "great"
+        },
+        "middlegame": {
+          "accuracy": 88.8,
+          "glyph": "great"
+        },
+        "endgame": {
+          "accuracy": 100.0,
+          "glyph": "great"
+        }
+      }
+    },
+    "stats": {
+      "white": [
+        {
+          "stat": 100,
+          "performance": "best",
+          "new_rating": 0,
+          "change": 0
+        },
+        {
+          "stat": 101,
+          "performance": "good",
+          "new_rating": 0,
+          "change": 0
+        },
+        {
+          "stat": 102,
+          "performance": "good",
+          "new_rating": 0,
+          "change": 0
+        },
+        {
+          "stat": 103,
+          "performance": "good",
+          "new_rating": 0,
+          "change": 0
+        }
+      ],
+      "black": [
+        {
+          "stat": 100,
+          "performance": "great",
+          "new_rating": 0,
+          "change": 0
+        },
+        {
+          "stat": 101,
+          "performance": "excellent",
+          "new_rating": 0,
+          "change": 0
+        },
+        {
+          "stat": 102,
+          "performance": "excellent",
+          "new_rating": 0,
+          "change": 0
+        },
+        {
+          "stat": 103,
+          "performance": "good",
+          "new_rating": 0,
+          "change": 0
+        }
+      ]
+    },
+    "eco": "C50",
+    "opening": "Giuoco Piano Game: Four Knights, Naroditsky Variation",
+    "tricky_plies": []
+  },
+  "plies": [
+    {
+      "ply": 1,
+      "san": "e4",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.38",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 2,
+      "san": "e5",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.38",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 3,
+      "san": "Nf3",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.38",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 4,
+      "san": "Nc6",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.38",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 5,
+      "san": "Bc4",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.28",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 6,
+      "san": "Bc5",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.28",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 7,
+      "san": "Nc3",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.20",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 8,
+      "san": "Nf6",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.21",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 9,
+      "san": "Nd5",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.00",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 10,
+      "san": "Nxd5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.00",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 11,
+      "san": "Bxd5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.00",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 12,
+      "san": "O-O",
+      "label": "excellent",
+      "app_best_san": "d6",
+      "app_best_uci": "d7d6",
+      "app_eval": "+0.13",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 13,
+      "san": "d3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.13",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 14,
+      "san": "d6",
+      "label": "excellent",
+      "app_best_san": "a5",
+      "app_best_uci": "a7a5",
+      "app_eval": "+0.14",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 15,
+      "san": "Bg5",
+      "label": "good",
+      "app_best_san": "O-O",
+      "app_best_uci": "e1g1",
+      "app_eval": "-0.19",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 16,
+      "san": "Qe8",
+      "label": "excellent",
+      "app_best_san": "Ne7",
+      "app_best_uci": "c6e7",
+      "app_eval": "-0.02",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 17,
+      "san": "Bxc6",
+      "label": "good",
+      "app_best_san": "O-O",
+      "app_best_uci": "e1g1",
+      "app_eval": "-0.70",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 18,
+      "san": "Qxc6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.70",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 19,
+      "san": "Qd2",
+      "label": "good",
+      "app_best_san": "O-O",
+      "app_best_uci": "e1g1",
+      "app_eval": "-1.05",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 20,
+      "san": "f6",
+      "label": "good",
+      "app_best_san": "f5",
+      "app_best_uci": "f7f5",
+      "app_eval": "-0.55",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 21,
+      "san": "Be3",
+      "label": "great",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.55",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 22,
+      "san": "Bxe3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.55",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 23,
+      "san": "fxe3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.55",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 24,
+      "san": "Be6",
+      "label": "excellent",
+      "app_best_san": "b5",
+      "app_best_uci": "b7b5",
+      "app_eval": "-0.36",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 25,
+      "san": "Qc3",
+      "label": "good",
+      "app_best_san": "a4",
+      "app_best_uci": "a2a4",
+      "app_eval": "-0.82",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 26,
+      "san": "Qxc3+",
+      "label": "excellent",
+      "app_best_san": "Qb6",
+      "app_best_uci": "c6b6",
+      "app_eval": "-0.62",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 27,
+      "san": "bxc3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.62",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 28,
+      "san": "d5",
+      "label": "inaccuracy",
+      "app_best_san": "Bd7",
+      "app_best_uci": "e6d7",
+      "app_eval": "+0.18",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 29,
+      "san": "exd5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.18",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 30,
+      "san": "Bxd5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.18",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 31,
+      "san": "O-O",
+      "label": "excellent",
+      "app_best_san": "c4",
+      "app_best_uci": "c3c4",
+      "app_eval": "-0.10",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 32,
+      "san": "e4",
+      "label": "excellent",
+      "app_best_san": "Bc6",
+      "app_best_uci": "d5c6",
+      "app_eval": "-0.02",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 33,
+      "san": "Nd4",
+      "label": "good",
+      "app_best_san": "Nd2",
+      "app_best_uci": "f3d2",
+      "app_eval": "-0.55",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 34,
+      "san": "exd3",
+      "label": "excellent",
+      "app_best_san": "Rad8",
+      "app_best_uci": "a8d8",
+      "app_eval": "-0.30",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 35,
+      "san": "cxd3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.30",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 36,
+      "san": "c5",
+      "label": "excellent",
+      "app_best_san": "Rad8",
+      "app_best_uci": "a8d8",
+      "app_eval": "-0.24",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 37,
+      "san": "Nb5",
+      "label": "excellent",
+      "app_best_san": "Ne2",
+      "app_best_uci": "d4e2",
+      "app_eval": "-0.48",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 38,
+      "san": "Rac8",
+      "label": "good",
+      "app_best_san": "Bc6",
+      "app_best_uci": "d5c6",
+      "app_eval": "+0.19",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 39,
+      "san": "Nxa7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.19",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 40,
+      "san": "Rcd8",
+      "label": "excellent",
+      "app_best_san": "Ra8",
+      "app_best_uci": "c8a8",
+      "app_eval": "+0.40",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 41,
+      "san": "a3",
+      "label": "good",
+      "app_best_san": "a4",
+      "app_best_uci": "a2a4",
+      "app_eval": "+0.08",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 42,
+      "san": "c4",
+      "label": "good",
+      "app_best_san": "Rd7",
+      "app_best_uci": "d8d7",
+      "app_eval": "+0.54",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 43,
+      "san": "d4",
+      "label": "good",
+      "app_best_san": "e4",
+      "app_best_uci": "e3e4",
+      "app_eval": "+0.20",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 44,
+      "san": "Rde8",
+      "label": "good",
+      "app_best_san": "Rfe8",
+      "app_best_uci": "f8e8",
+      "app_eval": "+0.84",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 45,
+      "san": "Nb5",
+      "label": "inaccuracy",
+      "app_best_san": "Rf5",
+      "app_best_uci": "f1f5",
+      "app_eval": "-0.13",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 46,
+      "san": "Rxe3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.13",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 47,
+      "san": "Rae1",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.13",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 48,
+      "san": "Rd3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.13",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 49,
+      "san": "Re7",
+      "label": "good",
+      "app_best_san": "Rd1",
+      "app_best_uci": "e1d1",
+      "app_eval": "-0.67",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 50,
+      "san": "Rd2",
+      "label": "good",
+      "app_best_san": "Rd8",
+      "app_best_uci": "f8d8",
+      "app_eval": "+0.00",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 51,
+      "san": "Rfe1",
+      "label": "mistake",
+      "app_best_san": "Nc7",
+      "app_best_uci": "b5c7",
+      "app_eval": "-1.99",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 52,
+      "san": "Rxg2+",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-1.99",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 53,
+      "san": "Kf1",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-1.99",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 54,
+      "san": "Rxh2",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-1.99",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 55,
+      "san": "Nd6",
+      "label": "excellent",
+      "app_best_san": "Nc7",
+      "app_best_uci": "b5c7",
+      "app_eval": "-2.16",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 56,
+      "san": "Rh1+",
+      "label": "excellent",
+      "app_best_san": "h5",
+      "app_best_uci": "h7h5",
+      "app_eval": "-2.13",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 57,
+      "san": "Kf2",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-2.13",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 58,
+      "san": "Rh3",
+      "label": "excellent",
+      "app_best_san": "Rxe1",
+      "app_best_uci": "h1e1",
+      "app_eval": "-2.12",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 59,
+      "san": "Re8",
+      "label": "inaccuracy",
+      "app_best_san": "Rc7",
+      "app_best_uci": "e7c7",
+      "app_eval": "-3.01",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 60,
+      "san": "g5",
+      "label": "good",
+      "app_best_san": "Rf3+",
+      "app_best_uci": "h3f3",
+      "app_eval": "-2.64",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 61,
+      "san": "Rxf8+",
+      "label": "good",
+      "app_best_san": "R8e7",
+      "app_best_uci": "e8e7",
+      "app_eval": "-3.43",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 62,
+      "san": "Kxf8",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.43",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 63,
+      "san": "Re8+",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.43",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 64,
+      "san": "Kg7",
+      "label": "forced",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.43",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 65,
+      "san": "Nb5",
+      "label": "inaccuracy",
+      "app_best_san": "Rd8",
+      "app_best_uci": "e8d8",
+      "app_eval": "-4.85",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 66,
+      "san": "Bc6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-4.85",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 67,
+      "san": "Nd6",
+      "label": "mistake",
+      "app_best_san": "Re7+",
+      "app_best_uci": "e8e7",
+      "app_eval": "-5.70",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 68,
+      "san": "Bxe8",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": null,
+      "label_source": "chesscom-capture"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+eng 10 acc 56.9 72.4 cee 1.198.16
+1 b1c3 book -4@29 - - -
+2 e7e5 book 36@27 - - - K
+3 f2f4 inaccuracy -49@28 g1f3 best 36@26
+4 e5f4 best -49@27 - - - K
+5 d2d4 inaccuracy -143@28 g1f3 best -49@26
+6 f8d6 mistake -9@14 d8h4 best -143@27 K
+7 g1f3 good -56@17 g1h3 best -9@13
+8 h7h6 inaccuracy 49@17 g8f6 best -56@16
+9 g2g4 inaccuracy -35@17 c3b5 best 49@16
+10 f4g3 best -35@16 - - -
+11 h2g3 mistake -160@19 e2e4 best -35@15 K
+12 d6g3 best -160@18 - - -
+13 e1d2 forced -160@17 - - -
+14 b8c6 good -136@16 h6h5 best -160@16
+15 h1g1 good -168@18 f1h3 best -136@15
+16 g3f4 good -127@19 g3f2 best -168@17
+17 e2e3 best -127@18 - - -
+18 f4h2 blunder 294@20 f4g5 best -127@17 K
+19 g1g7 miss 80@15 f3h2 best 294@19 K
+20 h2d6 inaccuracy 148@17 d8f6 best 80@14
+21 f3e5 mistake -285@19 f1c4 best 148@16 K
+22 c6e5 best -285@18 - - -
+23 d4e5 best -285@17 - - -
+24 d6e5 best -285@16 - - -
+25 d1h5 mistake -505@19 g7f7 best -285@15 K
+26 e5g7 great -505@18 - - - K
+27 c3d5 inaccuracy -597@20 b2b3 best -505@17
+28 c7c6 best -597@19 - - -
+29 d5f4 best -597@18 - - -
+30 d8c7 excellent -579@17 g8f6 best -597@17
+31 f4g6 mistake -748@20 d2e1 best -579@16 K
+32 c7d6 best -748@19 - - - K
+33 f1d3 best -748@18 - - -
+34 h8h7 miss -440@17 f7g6 best -748@17 K
+35 g6f4 excellent -485@18 d2e2 best -440@16
+36 h7h8 best -485@18 - - -
+37 a2a4 excellent -506@18 c2c3 best -485@17
+38 d6b4 good -457@19 g7e5 best -506@17
+39 c2c3 best -457@18 - - -
+40 b4b3 inaccuracy -351@19 g8f6 best -457@17
+41 d3c2 best -351@18 - - -
+42 b3b6 excellent -331@18 b3c4 best -351@17
+43 b2b3 inaccuracy -496@18 c2g6 best -331@17
+44 d7d6 excellent -457@17 g8f6 best -496@17
+45 c3c4 mistake -687@19 c1b2 best -457@16 K
+46 g8f6 good -607@18 g7a1 best -687@18
+47 a1b1 mistake -932@18 h5h1 best -607@17 K
+48 f6h5 best -932@17 - - - K
+49 f4h5 excellent -1008@16 f4e2 best -932@16
+50 h8g8 good -857@17 b6a5 best -1008@15
+51 e3e4 mistake -1122@19 h5f4 best -857@16 K
+52 b6b4 best -1122@18 - - -
+53 d2d1 mistake -M1@246 d2e2 best -1122@17 K
+54 c8g4 best -M0@245 - - -

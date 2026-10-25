@@ -1,0 +1,60 @@
+eng 10 acc 73.4 56.0 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 e7e5 book 26@28 - - -
+3 f1c4 book 10@28 - - -
+4 g8f6 book 10@27 - - -
+5 d2d3 book 3@32 - - -
+6 d7d5 good 47@30 c7c6 best 3@31
+7 e4d5 best 47@29 - - -
+8 f6d5 book 47@28 - - -
+9 g1f3 book 47@27 - - - K
+10 f8c5 inaccuracy 145@30 b8c6 best 47@26
+11 f3e5 best 145@29 - - - K
+12 c5f2 mistake 376@20 e8g8 best 145@28 K
+13 e1f2 best 376@19 - - -
+14 d8f6 inaccuracy 519@19 e8g8 best 376@18
+15 e5f3 best 519@18 - - -
+16 e8g8 mistake 537@18 f6b6 best 519@17 K
+17 h1f1 good 464@17 c4d5 best 537@17
+18 d5b6 excellent 483@18 f6b6 best 464@16
+19 f2g1 good 427@17 c4b3 best 483@17
+20 b8c6 good 482@18 b6c4 best 427@16
+21 c1g5 good 395@20 c4b3 best 482@17
+22 f6b2 best 395@19 - - -
+23 b1d2 great 395@18 - - - K
+24 f8e8 excellent 403@19 b6c4 best 395@17
+25 g5f4 good 354@19 c4b3 best 403@18
+26 e8e7 good 430@18 b2f6 best 354@18
+27 f4g3 excellent 412@18 c4b3 best 430@17
+28 b6a4 good 475@19 c8g4 best 412@17
+29 g3h4 blunder 41@17 f3g5 best 475@18 K
+30 e7d7 miss 599@18 a4c3 best 41@16
+31 f3g5 good 552@19 d1e2 best 599@17
+32 b2d4 excellent 588@21 h7h6 best 552@18
+33 h4f2 best 588@20 - - -
+34 d4f4 best 588@19 - - -
+35 d1h5 excellent 564@21 f1e1 best 588@18 K
+36 h7h6 best 564@20 - - -
+37 g5f7 good 518@22 f2h4 best 564@19
+38 d7f7 best 518@21 - - -
+39 a1e1 best 518@20 - - -
+40 c6d4 mistake 828@19 f4c4 best 518@19 K
+41 c4f7 great 828@18 - - - K
+42 g8h8 mistake M2@246 f4f7 best 828@17 K
+43 f7d5 miss 573@19 e1e8 best M1@245 K
+44 c8g4 mistake 597@19 c8d7 best 573@18 K
+45 e1e8 best 597@18 - - -
+46 a8e8 mistake M5@46 h8h7 best 597@17 K
+47 h5e8 best M4@45 - - -
+48 h8h7 excellent M3@248 f4f8 best M4@44
+49 d5g8 best M2@247 - - -
+50 h7h8 forced M2@246 - - -
+51 g8b3 miss M4@44 g8f7 best M1@245 K
+52 h8h7 excellent M3@248 f4f8 best M4@43
+53 b3g8 best M2@247 - - -
+54 h7h8 forced M2@246 - - -
+55 d2e4 miss 576@15 g8f7 best M1@245 K
+56 a4b6 mistake M2@248 g4d7 best 576@14 K
+57 g8f7 great M1@247 - - - K
+58 h8h7 forced M1@246 - - -
+59 f7g6 best -M0@245 - - -

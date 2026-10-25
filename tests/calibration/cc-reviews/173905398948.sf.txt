@@ -1,0 +1,58 @@
+eng 10 acc 76.8 65.2 cee -
+1 e2e4 book 26@29 - - -
+2 d7d5 book 74@32 - - -
+3 e4d5 book 74@31 - - -
+4 d8d5 book 76@30 - - -
+5 b1c3 book 76@29 - - - K
+6 d5e6 good 115@31 d5d6 best 76@28
+7 f1e2 best 115@30 - - -
+8 b7b6 good 156@28 e6d6 best 115@29
+9 d2d4 best 156@27 - - -
+10 c8b7 good 183@28 c7c6 best 156@26
+11 g1f3 excellent 169@29 d4d5 best 183@27
+12 b7f3 best 169@28 - - -
+13 g2f3 best 169@27 - - -
+14 b8d7 good 207@18 g8f6 best 169@26
+15 d4d5 excellent 200@18 c3b5 best 207@17
+16 e6g6 good 250@19 e6f6 best 200@17
+17 e2b5 inaccuracy 154@18 c3b5 best 250@18
+18 e8c8 excellent 163@16 a7a6 best 154@14
+19 b5a6 inaccuracy 105@17 d1d4 best 163@15
+20 c8b8 forced 105@16 - - -
+21 d5d6 mistake -74@14 d1e2 best 105@15 K
+22 g6d6 good -36@14 e7d6 best -74@13
+23 c3d5 blunder -325@18 c1e3 best -36@13 K
+24 e7e6 inaccuracy -211@17 d7e5 best -325@17
+25 c1f4 mistake -435@20 d5e3 best -211@16 K
+26 d6d5 great -435@19 - - - K
+27 d1e2 excellent -471@19 e1g1 best -435@18
+28 d7c5 good -421@19 f8d6 best -471@18
+29 a6c4 mistake -524@18 e1g1 best -421@18 K
+30 d5d4 inaccuracy -404@18 d5f5 best -524@17
+31 f4g3 excellent -419@18 f4e5 best -404@17
+32 d4b2 excellent -398@20 f8d6 best -419@17 K
+33 e1g1 best -398@19 - - -
+34 b2f6 excellent -388@19 f8d6 best -398@18
+35 a2a4 best -388@18 - - -
+36 f8d6 excellent -386@20 a7a5 best -388@17
+37 a4a5 best -386@19 - - -
+38 d6g3 excellent -367@18 g8e7 best -386@18
+39 f2g3 good -471@18 h2g3 best -367@17
+40 f6d4 excellent -427@19 g8e7 best -471@17
+41 g1h1 best -427@18 - - -
+42 d4d2 inaccuracy -300@17 g8f6 best -427@17
+43 a5b6 inaccuracy -447@17 a1d1 best -300@16
+44 d2e2 good -348@15 c7b6 best -447@16
+45 b6c7 good -414@20 b6a7 best -348@14
+46 b8c7 best -414@19 - - -
+47 c4e2 best -414@18 - - -
+48 d8d2 excellent -404@19 a7a6 best -414@17
+49 a1a7 best -404@18 - - -
+50 c5b7 blunder 10@17 c7d6 best -404@17 K
+51 e2a6 best 10@16 - - -
+52 d2c2 mistake 153@19 c7d6 best 10@15 K
+53 a7b7 great 153@18 - - - K
+54 c7c8 blunder 568@18 c7c6 best 153@17 K
+55 b7b2 great 568@17 - - - K
+56 c8c7 good 619@20 c8d7 best 568@16
+57 b2c2 best 619@19 - - -

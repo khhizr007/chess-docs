@@ -1,0 +1,64 @@
+eng 10 acc 80.4 71.3 cee 1.198.16
+1 d2d4 book 21@29 - - -
+2 g8f6 book 26@28 - - -
+3 c1f4 book 19@29 - - -
+4 g7g6 book 19@28 - - -
+5 e2e3 book 15@29 - - -
+6 f8g7 book 17@28 - - - K
+7 f1d3 excellent 0@33 f1e2 best 17@27
+8 e8g8 excellent 8@29 c7c5 best 0@32
+9 b1d2 good -31@30 g1f3 best 8@28
+10 d7d6 best -31@29 - - -
+11 d1e2 good -70@21 f4g5 best -31@28
+12 b8c6 best -70@20 - - -
+13 e1c1 mistake -152@18 c2c3 best -70@19 K
+14 f8e8 good -117@17 c6b4 best -152@17
+15 e3e4 mistake -250@19 g1f3 best -117@16 K
+16 e7e5 miss -137@18 c6d4 best -250@18 K
+17 d4e5 best -137@17 - - -
+18 d6d5 mistake 51@15 c6e5 best -137@16 K
+19 e5f6 mistake -145@17 g1f3 best 51@14 K
+20 g7f6 mistake 311@19 d8f6 best -145@16 K
+21 e2f3 good 274@19 g1f3 best 311@18
+22 c6b4 best 274@18 - - -
+23 d3b5 inaccuracy 183@17 a2a3 best 274@17
+24 c7c6 best 183@16 - - -
+25 b5a4 mistake 104@17 b5e2 best 183@15 K
+26 b4a2 best 104@16 - - -
+27 c1b1 forced 104@15 - - -
+28 c8e6 mistake 203@18 a2b4 best 104@14 K
+29 e4e5 excellent 188@19 f3a3 best 203@17
+30 f6g7 best 188@18 - - -
+31 f3a3 excellent 177@18 g1e2 best 188@17
+32 d5d4 mistake 329@20 b7b5 best 177@17 K
+33 a4b3 great 329@19 - - - K
+34 a2c3 excellent 339@20 e6b3 best 329@18
+35 b2c3 best 339@19 - - - K
+36 d4c3 best 339@18 - - -
+37 b3e6 best 339@17 - - -
+38 c3d2 inaccuracy 453@20 e8e6 best 339@16
+39 d1d2 good 389@18 e6f7 best 453@19
+40 e8e6 good 493@20 d8b6 best 389@17
+41 d2d8 best 493@19 - - - K
+42 a8d8 best 493@18 - - -
+43 g1f3 best 493@17 - - -
+44 g7f8 excellent 505@19 c6c5 best 493@16
+45 a3a7 excellent 456@19 a3a2 best 505@18
+46 e6e8 best 456@18 - - -
+47 f3g5 excellent 434@18 f4g5 best 456@17
+48 d8a8 best 434@17 - - -
+49 a7d4 excellent 433@18 a7a8 best 434@16
+50 f7f6 mistake 772@16 e8d8 best 433@17 K
+51 e5f6 excellent 687@16 d4c4 best 772@15 K
+52 e8d8 mistake M1@246 g8h8 best 687@15 K
+53 d4e4 miss M7@41 f6f7 best -M0@245 K
+54 d8e8 excellent M5@45 a8a1 best M7@40
+55 f6f7 best M4@48 - - -
+56 g8g7 best M4@45 - - -
+57 f7e8q excellent M4@59 e4d4 best M3@44
+58 a8e8 best M4@88 - - -
+59 e4e8 best M3@87 - - -
+60 g7g8 mistake M2@246 g7h6 best M3@86 K
+61 e8f7 best M1@247 - - -
+62 g8h8 forced M1@246 - - -
+63 f7h7 best -M0@245 - - -

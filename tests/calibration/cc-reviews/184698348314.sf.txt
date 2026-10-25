@@ -1,0 +1,63 @@
+eng 10 acc 78.8 95.8 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 d7d6 book 60@32 - - -
+3 d2d4 book 60@31 - - -
+4 g8f6 book 60@30 - - -
+5 b1c3 book 60@29 - - -
+6 e7e5 book 60@28 - - -
+7 g1e2 book 49@28 - - -
+8 c7c6 book 52@16 - - - K
+9 h2h3 best 52@15 - - -
+10 b7b5 excellent 62@19 f8e7 best 52@14
+11 a2a3 best 62@18 - - -
+12 h7h5 best 62@17 - - -
+13 e2g1 good 42@17 f2f4 best 62@16
+14 f8e7 best 42@16 - - -
+15 g1f3 excellent 41@18 f1e2 best 42@15
+16 b8d7 best 41@17 - - -
+17 f1e2 excellent 38@16 c1e3 best 41@16
+18 c8b7 good 61@15 e8g8 best 38@15
+19 c1e3 good 35@18 e1g1 best 61@14
+20 a7a5 best 35@17 - - -
+21 f3g5 excellent 32@17 e1g1 best 35@16
+22 b5b4 best 32@16 - - -
+23 a3b4 mistake -47@19 d4e5 best 32@15 K
+24 a5b4 best -47@18 - - -
+25 a1a8 great -47@17 - - - K
+26 d8a8 best -47@16 - - -
+27 c3b1 mistake -142@18 d4e5 best -47@15 K
+28 e5d4 great -142@17 - - - K
+29 d1d4 inaccuracy -195@20 e3c1 best -142@16
+30 c6c5 great -195@19 - - - K
+31 d4c4 inaccuracy -265@19 d4d3 best -195@18
+32 d7e5 excellent -246@15 e8g8 best -265@18
+33 c4b3 excellent -266@19 c4b5 best -246@14
+34 f6e4 best -266@18 - - -
+35 g5e4 best -266@17 - - -
+36 b7e4 excellent -254@21 b7d5 best -266@16
+37 f2f3 best -254@20 - - -
+38 e4d5 best -254@19 - - -
+39 c2c4 best -254@18 - - -
+40 d5e6 inaccuracy -177@19 d5c6 best -254@17
+41 e1g1 best -177@18 - - -
+42 e7f6 inaccuracy -146@19 e6d7 best -177@17
+43 b1d2 best -146@18 - - -
+44 e5c6 good -125@24 e8g8 best -146@17
+45 d2e4 best -125@23 - - -
+46 f6e5 best -125@22 - - -
+47 f3f4 best -125@21 - - -
+48 c6d4 great -125@20 - - - K
+49 e3d4 mistake -302@18 b3d3 best -125@19 K
+50 e5d4 best -302@17 - - -
+51 g1h1 mistake -372@19 e4f2 best -302@16 K
+52 a8e4 best -372@18 - - - K
+53 e2f3 excellent -423@21 e2d3 best -372@17
+54 e4e3 best -423@20 - - -
+55 b3a4 best -423@19 - - -
+56 e8e7 best -423@18 - - -
+57 f4f5 excellent -471@20 a4d1 best -423@17
+58 e6c4 best -471@19 - - -
+59 f5f6 excellent -564@19 f1d1 best -471@18
+60 g7f6 best -564@18 - - -
+61 f3d5 inaccuracy -M7@35 f1d1 best -564@17
+62 c4d5 best -M6@34 - - -

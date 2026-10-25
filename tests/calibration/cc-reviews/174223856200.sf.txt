@@ -1,0 +1,62 @@
+eng 10 acc 70.3 65.9 cee 1.198.16
+1 d2d4 book 30@31 - - -
+2 d7d5 book 30@35 - - -
+3 c2c4 book 30@34 - - -
+4 e7e6 book 30@33 - - -
+5 b1c3 book 30@32 - - -
+6 g8f6 book 30@31 - - -
+7 e2e3 book 11@30 - - -
+8 f8b4 book 31@30 - - -
+9 c1d2 book 8@29 - - - K
+10 b8c6 good 62@27 e8g8 best 8@28
+11 a2a3 best 62@26 - - -
+12 b4c3 best 62@18 - - -
+13 d2c3 best 62@17 - - -
+14 b7b6 best 62@16 - - -
+15 g1f3 excellent 59@29 c4d5 best 62@15
+16 c8b7 excellent 69@27 e8g8 best 59@28
+17 f1d3 excellent 57@30 d1c2 best 69@26
+18 e8g8 best 57@29 - - -
+19 d1c2 good 29@20 b2b3 best 57@28
+20 g7g6 inaccuracy 115@17 d5c4 best 29@19
+21 h2h4 excellent 106@16 b2b3 best 115@16
+22 h7h5 inaccuracy 178@16 d5c4 best 106@15
+23 h1h3 mistake 76@16 d3g6 best 178@15 K
+24 g8g7 miss 163@19 c6e7 best 76@15
+25 h3g3 good 130@17 f3g5 best 163@18
+26 f6g4 good 168@16 d8e8 best 130@16
+27 b2b4 mistake 46@14 e3e4 best 168@15 K
+28 d5c4 miss 233@19 c6e7 best 46@13
+29 d3c4 best 233@18 - - -
+30 a7a6 mistake 483@19 c6e7 best 233@17 K
+31 f3g5 inaccuracy 305@18 d4d5 best 483@18
+32 d8f6 inaccuracy 422@21 g7g8 best 305@17
+33 d4d5 best 422@20 - - - K
+34 c6e5 best 422@19 - - -
+35 f2f4 excellent 405@19 g3g4 best 422@18
+36 f6f5 mistake 613@20 e6d5 best 405@18 K
+37 c4d3 best 613@19 - - -
+38 g4e3 excellent 643@19 f5f6 best 613@18
+39 g3e3 best 643@18 - - -
+40 f5f4 mistake 836@17 f5g4 best 643@17 K
+41 e3f3 miss 153@19 c3e5 best 836@16 K
+42 f4h4 best 153@18 - - -
+43 e1e2 blunder -317@17 e1f1 best 153@17 K
+44 h4g5 best -317@16 - - - K
+45 e2f2 good -370@18 f3e3 best -317@15
+46 b7d5 best -370@17 - - - K
+47 d3e4 good -458@19 a1e1 best -370@16
+48 g5h4 excellent -432@17 g7g8 best -458@18
+49 f3g3 mistake -541@15 f2e3 best -432@16 K
+50 h4f4 miss -281@20 d5e4 best -541@14 K
+51 e4f3 best -281@19 - - -
+52 d5f3 good -244@19 g7g8 best -281@18
+53 g2f3 inaccuracy -367@18 g3f3 best -244@18
+54 g7h6 blunder 434@15 h5h4 best -367@17 K
+55 c3d2 great 434@14 - - - K
+56 f4d2 excellent 449@21 g6g5 best 434@13
+57 c2d2 best 449@20 - - -
+58 h6g7 best 449@19 - - -
+59 d2c3 excellent 419@19 a1e1 best 449@18
+60 f7f6 best 419@18 - - -
+61 c3c7 inaccuracy 319@18 a1e1 best 419@17

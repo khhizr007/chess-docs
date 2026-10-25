@@ -1,0 +1,14 @@
+eng 10 acc 98.7 38.6 cee 1.198.16
+1 e2e4 book 25@29 - - -
+2 e7e5 book 25@28 - - -
+3 g1f3 book 25@27 - - -
+4 d7d6 book 62@28 - - -
+5 f1c4 book 29@30 - - - K
+6 c8g4 good 84@29 f8e7 best 29@29
+7 b1c3 excellent 65@28 h2h3 best 84@28
+8 a7a6 inaccuracy 174@20 b8c6 best 65@27
+9 f3e5 brilliant 174@19 - - - K
+10 g4d1 blunder M2@248 d6e5 best 174@18 K
+11 c4f7 best M1@247 - - - K
+12 e8e7 forced M1@246 - - -
+13 c3d5 best M0@245 - - -

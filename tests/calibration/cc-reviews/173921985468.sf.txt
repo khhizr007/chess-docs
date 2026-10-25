@@ -1,0 +1,65 @@
+eng 10 acc 63.1 67.6 cee 1.198.16
+1 c2c4 book 25@28 - - -
+2 g8f6 book 34@35 - - -
+3 b1c3 book 19@28 - - -
+4 b8c6 book 59@29 - - -
+5 g2g3 book 15@30 - - -
+6 e7e5 book 41@29 - - -
+7 f1g2 book 41@28 - - -
+8 f8b4 book 43@28 - - - K
+9 a2a3 good 17@31 c3d5 best 43@27
+10 b4c3 best 17@30 - - -
+11 b2c3 best 17@29 - - -
+12 d7d5 good 39@31 d7d6 best 17@28
+13 c4d5 best 39@30 - - -
+14 f6d5 best 39@29 - - -
+15 c3c4 good 15@19 d1c2 best 39@28
+16 d5b6 excellent 17@18 d5f6 best 15@18
+17 d2d3 best 17@17 - - -
+18 c8e6 good 65@15 e8g8 best 17@16
+19 c1b2 inaccuracy 13@15 a3a4 best 65@14
+20 f7f6 good 44@15 d8d7 best 13@14
+21 g1h3 inaccuracy -43@15 a3a4 best 44@14
+22 d8d7 excellent -35@16 d8e7 best -43@14
+23 h3g1 best -35@15 - - -
+24 h7h5 good 0@16 e8c8 best -35@14
+25 g1f3 mistake -110@17 h2h4 best 0@15 K
+26 e8f7 miss 53@14 e6h3 best -110@16
+27 e1g1 good 14@14 d1b3 best 53@13
+28 g7g5 inaccuracy 71@16 e6h3 best 14@13
+29 d3d4 inaccuracy -1@18 a3a4 best 71@15
+30 e5d4 best -1@17 - - -
+31 f3d4 best -1@16 - - -
+32 c6d4 best -1@15 - - -
+33 d1d4 excellent -5@21 b2d4 best -1@14
+34 d7d4 best -5@20 - - -
+35 b2d4 best -5@19 - - -
+36 c7c6 good 24@15 h8d8 best -5@18
+37 c4c5 good -5@16 f2f4 best 24@14
+38 b6d5 mistake 143@16 a8d8 best -5@15 K
+39 e2e4 inaccuracy 106@17 a1b1 best 143@15
+40 d5c7 best 106@16 - - -
+41 a3a4 inaccuracy 48@15 a1b1 best 106@15
+42 a8d8 best 48@14 - - -
+43 a1d1 good 10@17 d4e3 best 48@13
+44 d8d7 good 60@19 e6c4 best 10@16
+45 d4c3 inaccuracy 0@18 d4e3 best 60@18
+46 h8d8 best 0@17 - - -
+47 d1d7 excellent -8@17 g2f3 best 0@16
+48 d8d7 best -8@16 - - -
+49 e4e5 inaccuracy -94@17 f2f4 best -8@15
+50 f6f5 best -94@16 - - -
+51 h2h3 inaccuracy -158@18 f2f4 best -94@15
+52 c7d5 mistake -43@18 c7a6 best -158@17 K
+53 c3d4 inaccuracy -91@17 c3d2 best -43@17
+54 a7a6 good -66@15 f5f4 best -91@16
+55 f1d1 blunder -462@18 f1b1 best -66@14 K
+56 f7e7 miss -17@17 d5c3 best -462@17 K
+57 h3h4 blunder -396@17 d4a1 best -17@16 K
+58 g5g4 miss -8@15 d5c3 best -396@16 K
+59 f2f3 blunder -395@19 d4b2 best -8@14 K
+60 d5b4 miss -51@15 d5c3 best -395@18 K
+61 f3g4 blunder -283@18 d1d2 best -51@14 K
+62 f5g4 miss -17@17 b4c2 best -283@17 K
+63 g1f2 blunder -452@19 d1d2 best -17@16 K
+64 b4c2 great -452@18 - - - K

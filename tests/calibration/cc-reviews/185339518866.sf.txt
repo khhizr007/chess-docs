@@ -1,0 +1,110 @@
+eng 10 acc 58.4 55.7 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 e7e5 book 26@28 - - - K
+3 c2c4 inaccuracy -44@31 g1f3 best 26@26
+4 a7a6 inaccuracy 31@30 b8c6 best -44@30
+5 d2d4 good -8@17 b1c3 best 31@29
+6 e5d4 best -8@16 - - -
+7 g1f3 mistake -140@16 d1d4 best -8@15 K
+8 f8c5 mistake 13@15 c7c5 best -140@15 K
+9 f3e5 miss -146@17 f3d4 best 13@14 K
+10 d8f6 inaccuracy -59@16 d7d6 best -146@16
+11 f2f4 inaccuracy -110@15 e5d3 best -59@15
+12 g7g5 mistake 32@14 d7d6 best -110@14 K
+13 g2g3 miss -116@19 e5d3 best 32@13
+14 g5f4 inaccuracy -36@18 c5b4 best -116@18
+15 c1f4 best -36@17 - - -
+16 d7d6 best -36@16 - - -
+17 d1a4 blunder -442@16 e5d3 best -36@15 K
+18 c8d7 miss -44@17 b7b5 best -442@15 K
+19 e5d7 great -44@16 - - - K
+20 b8d7 best -44@15 - - -
+21 b1d2 inaccuracy -100@19 f1h3 best -44@14
+22 g8e7 best -100@18 - - -
+23 f1h3 best -100@17 - - -
+24 c7c6 mistake 112@15 e7c6 best -100@16 K
+25 d2f3 miss -132@20 e1g1 best 112@14
+26 d4d3 miss 17@15 e7g6 best -132@19
+27 e1c1 inaccuracy -91@15 a4b3 best 17@14
+28 h7h6 mistake 201@15 e7g6 best -91@14 K
+29 h1f1 inaccuracy 117@17 h3d7 best 201@14
+30 f6g6 mistake 274@18 e7g6 best 117@16 K
+31 d1d3 good 221@17 b2b4 best 274@17
+32 g6e4 inaccuracy 300@19 d7f6 best 221@16
+33 f1d1 blunder 18@15 a4b3 best 300@18 K
+34 e7f5 blunder 525@18 d7b6 best 18@14 K
+35 b2b4 miss 1@18 d1e1 best 525@17 K
+36 c5g1 blunder 599@17 c5e3 best 1@17 K
+37 f3g1 inaccuracy 480@19 d1e1 best 599@16
+38 e4c4 excellent 493@18 d7e5 best 480@18
+39 c1b2 mistake 207@18 a4c2 best 493@17 K
+40 d7b6 mistake 419@19 d7c5 best 207@17 K
+41 a4b3 best 419@18 - - -
+42 c4b3 good 480@18 e8g8 best 419@17
+43 d3b3 inaccuracy 373@19 a2b3 best 480@17
+44 d6d5 mistake 516@18 f5e7 best 373@18 K
+45 a2a4 inaccuracy 344@18 h3f5 best 516@17
+46 e8g8 mistake 438@19 b6c4 best 344@17 K
+47 h3f5 best 438@18 - - - K
+48 f8e8 inaccuracy 551@19 a6a5 best 438@17
+49 g1f3 inaccuracy 449@19 a4a5 best 551@18
+50 h6h5 inaccuracy 555@20 a6a5 best 449@18
+51 f4h6 inaccuracy 449@19 a4a5 best 555@19
+52 b6c4 excellent 481@18 b6a4 best 449@18
+53 b2c3 excellent 437@19 b2b1 best 481@17
+54 b7b5 good 497@19 a6a5 best 437@18
+55 a4a5 best 497@18 - - -
+56 e8e2 best 497@20 - - -
+57 f3d4 best 497@19 - - -
+58 e2h2 good 553@19 e2f2 best 497@18
+59 d4c6 best 553@18 - - - K
+60 a8e8 best 553@18 - - -
+61 f5d7 inaccuracy 453@16 d1d5 best 553@17
+62 e8e2 good 534@17 e8e4 best 453@15
+63 h6g5 inaccuracy 422@17 d1d5 best 534@16
+64 e2c2 inaccuracy 534@17 f7f6 best 422@16
+65 c3d4 best 534@16 - - -
+66 f7f6 good 583@19 h2f2 best 534@15
+67 d7e6 good 527@18 g5f4 best 583@18
+68 g8g7 best 527@17 - - -
+69 g5e3 inaccuracy 416@18 g5c1 best 527@16
+70 h2h3 mistake 723@18 c4e3 best 416@17 K
+71 e6d5 inaccuracy 512@18 e6h3 best 723@17
+72 h3g3 inaccuracy 657@17 h5h4 best 512@17
+73 d5c4 inaccuracy 467@22 e3h6 best 657@16
+74 c2c4 best 467@21 - - -
+75 d4d5 great 467@20 - - - K
+76 h5h4 best 467@19 - - -
+77 d1h1 good 422@17 d1g1 best 467@18
+78 f6f5 mistake 674@19 g7f7 best 422@16 K
+79 h1h4 inaccuracy 482@17 e3d4 best 674@18
+80 c4h4 best 482@16 - - -
+81 e3h6 inaccuracy 356@18 e3d4 best 482@15
+82 g7h6 best 356@17 - - -
+83 b3g3 best 356@16 - - - K
+84 f5f4 inaccuracy 489@18 h4c4 best 356@15
+85 g3f3 excellent 480@18 g3g8 best 489@17
+86 h6g5 excellent 486@19 h6g7 best 480@17
+87 c6e5 best 486@20 - - -
+88 h4h1 best 486@19 - - -
+89 f3d3 good 422@17 e5d3 best 486@18
+90 g5f5 good 484@17 h1c1 best 422@16
+91 e5f3 mistake 283@19 d3f3 best 484@16 K
+92 h1b1 good 338@19 h1c1 best 283@18
+93 d5c5 excellent 316@21 d3d4 best 338@18
+94 f5e4 best 316@20 - - -
+95 d3a3 best 316@19 - - -
+96 b1c1 inaccuracy 439@20 b1b2 best 316@18
+97 c5b6 great 439@19 - - - K
+98 c1c4 mistake 619@20 e4d5 best 439@18 K
+99 f3d2 best 619@19 - - - K
+100 e4d4 best 619@18 - - -
+101 d2c4 best 619@17 - - - K
+102 d4c4 excellent 646@18 b5c4 best 619@16
+103 b6a6 excellent 624@21 a3f3 best 646@17
+104 c4b4 best 624@20 - - -
+105 a3f3 best 624@19 - - -
+106 b4c4 mistake 1043@22 b4c5 best 624@18 K
+107 f3f4 best 1043@21 - - -
+108 c4c5 best 1043@20 - - -
+109 f4f5 best 1043@19 - - -

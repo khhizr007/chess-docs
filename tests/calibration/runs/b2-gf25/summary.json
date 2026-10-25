@@ -1,0 +1,269 @@
+{
+  "run_name": "b2-gf25",
+  "generated_at": "2026-10-18T11:09:25+00:00",
+  "harness_version": 1,
+  "git_commit": "27fafb5b0f3bc2ec0bc04095a9bc9179c184c130",
+  "backend_dirty": true,
+  "backend_diff_sha256": "78d53b3a9776b58fe742dce833a301ea4b6252b8adb401031c6a63a41d65d3f2",
+  "engine": "Stockfish 17.1",
+  "settings": {
+    "depth": 18,
+    "multipv": 3,
+    "config": {
+      "great_find": {
+        "min_gap_to_second_best": 0.25
+      }
+    }
+  },
+  "games": {
+    "requested": 41,
+    "compared": 41,
+    "compared_ids": [
+      "1034847688",
+      "1041474766",
+      "184759554082",
+      "185209623352",
+      "185324357184",
+      "185436488062",
+      "185437323918",
+      "185438343298",
+      "185438707002",
+      "185456088510",
+      "185468039834",
+      "185468614210",
+      "185475865432",
+      "185962590893",
+      "1011026868",
+      "184678264914",
+      "184732665836",
+      "184759290504",
+      "184773009646",
+      "184784174152",
+      "184794204922",
+      "184828162542",
+      "184829980734",
+      "184873703892",
+      "185110487484",
+      "185117573448",
+      "185173941140",
+      "185193771738",
+      "185217478440",
+      "185218140778",
+      "185277691132",
+      "185328167888",
+      "185330935602",
+      "185334658860",
+      "185363017994",
+      "185461631884",
+      "185617589205",
+      "185966191317",
+      "186222389165",
+      "186411389477",
+      "186429989523"
+    ],
+    "skipped": {},
+    "from_cache": 0
+  },
+  "plies": {
+    "total": 2842,
+    "scored": 2833,
+    "excluded": {
+      "uncertain": 9
+    },
+    "uncertain_guess_matches_ours": 9
+  },
+  "exact_agreement": 0.6734909989410519,
+  "within_one_agreement": 0.8937522061418991,
+  "per_label": {
+    "brilliant": {
+      "app_count": 4,
+      "our_count": 2,
+      "tp": 1,
+      "precision": 0.5,
+      "recall": 0.25,
+      "f1": 0.3333333333333333
+    },
+    "great": {
+      "app_count": 77,
+      "our_count": 9,
+      "tp": 5,
+      "precision": 0.5555555555555556,
+      "recall": 0.06493506493506493,
+      "f1": 0.11627906976744184
+    },
+    "best": {
+      "app_count": 963,
+      "our_count": 1080,
+      "tp": 804,
+      "precision": 0.7444444444444445,
+      "recall": 0.8348909657320872,
+      "f1": 0.7870778267254037
+    },
+    "excellent": {
+      "app_count": 537,
+      "our_count": 565,
+      "tp": 294,
+      "precision": 0.5203539823008849,
+      "recall": 0.547486033519553,
+      "f1": 0.5335753176043557
+    },
+    "good": {
+      "app_count": 375,
+      "our_count": 393,
+      "tp": 195,
+      "precision": 0.4961832061068702,
+      "recall": 0.52,
+      "f1": 0.5078125
+    },
+    "book": {
+      "app_count": 296,
+      "our_count": 258,
+      "tp": 246,
+      "precision": 0.9534883720930233,
+      "recall": 0.831081081081081,
+      "f1": 0.8880866425992779
+    },
+    "inaccuracy": {
+      "app_count": 275,
+      "our_count": 250,
+      "tp": 161,
+      "precision": 0.644,
+      "recall": 0.5854545454545454,
+      "f1": 0.6133333333333333
+    },
+    "mistake": {
+      "app_count": 182,
+      "our_count": 167,
+      "tp": 120,
+      "precision": 0.718562874251497,
+      "recall": 0.6593406593406593,
+      "f1": 0.6876790830945558
+    },
+    "miss": {
+      "app_count": 75,
+      "our_count": 58,
+      "tp": 44,
+      "precision": 0.7586206896551724,
+      "recall": 0.5866666666666667,
+      "f1": 0.6616541353383458
+    },
+    "blunder": {
+      "app_count": 49,
+      "our_count": 51,
+      "tp": 38,
+      "precision": 0.7450980392156863,
+      "recall": 0.7755102040816326,
+      "f1": 0.76
+    }
+  },
+  "per_100_moves": {
+    "brilliant": {
+      "app": 0.1411930815390046,
+      "ours": 0.0705965407695023
+    },
+    "great": {
+      "app": 2.7179668196258384,
+      "ours": 0.3176844334627603
+    }
+  },
+  "accuracy": {
+    "mad": 3.6589675043261463,
+    "bias": 3.439279836202425,
+    "max_abs": 9.236542734425967,
+    "n": 82
+  },
+  "best_move_agreement": {
+    "compared": 431,
+    "agree": 336,
+    "rate": 0.7795823665893271
+  },
+  "confusion": {
+    "brilliant": {
+      "best": 1,
+      "good": 1,
+      "brilliant": 1,
+      "excellent": 1
+    },
+    "great": {
+      "best": 68,
+      "great": 5,
+      "good": 1,
+      "excellent": 2,
+      "book": 1
+    },
+    "best": {
+      "best": 804,
+      "excellent": 128,
+      "good": 20,
+      "great": 4,
+      "inaccuracy": 5,
+      "brilliant": 1,
+      "book": 1
+    },
+    "excellent": {
+      "best": 141,
+      "excellent": 294,
+      "good": 85,
+      "inaccuracy": 7,
+      "book": 3,
+      "mistake": 7
+    },
+    "good": {
+      "good": 195,
+      "inaccuracy": 38,
+      "best": 26,
+      "excellent": 108,
+      "miss": 1,
+      "mistake": 5,
+      "book": 2
+    },
+    "book": {
+      "book": 246,
+      "good": 10,
+      "excellent": 15,
+      "best": 24,
+      "inaccuracy": 1
+    },
+    "inaccuracy": {
+      "inaccuracy": 161,
+      "best": 13,
+      "excellent": 15,
+      "good": 64,
+      "mistake": 16,
+      "book": 4,
+      "miss": 2
+    },
+    "mistake": {
+      "mistake": 120,
+      "good": 12,
+      "inaccuracy": 27,
+      "miss": 8,
+      "blunder": 9,
+      "best": 3,
+      "excellent": 2,
+      "book": 1
+    },
+    "miss": {
+      "inaccuracy": 11,
+      "blunder": 4,
+      "miss": 44,
+      "mistake": 11,
+      "good": 5
+    },
+    "blunder": {
+      "miss": 3,
+      "blunder": 38,
+      "mistake": 8
+    }
+  },
+  "mismatch_rules": {
+    "precision": 864,
+    "miss_detector": 13,
+    "mate_override": 13,
+    "book": 12,
+    "losing_material_hardened": 12,
+    "blunder_softened": 6,
+    "great_find_event": 4,
+    "brilliant_event": 1
+  }
+}

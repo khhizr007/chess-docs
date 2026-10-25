@@ -1,0 +1,814 @@
+{
+  "game_id": "185438707002",
+  "source_url": "https://www.chess.com/game/live/185438707002",
+  "collected_at": "2026-10-17",
+  "review_settings": {
+    "strength": "Fast (18)",
+    "engine": "stockfish16 nnue",
+    "notes": "earlier Torch review (78.6/83.3) was recomputed by the site after switching engine"
+  },
+  "white": "ali321314",
+  "black": "khhizr7",
+  "white_elo": "1004",
+  "black_elo": "1041",
+  "time_control": "600",
+  "result": "0-1",
+  "white_accuracy": 77.8,
+  "black_accuracy": 83,
+  "counts": {
+    "white": {
+      "brilliant": 0,
+      "great": 1,
+      "book": 6,
+      "best": 18,
+      "excellent": 10,
+      "good": 3,
+      "inaccuracy": 4,
+      "mistake": 1,
+      "miss": 1,
+      "blunder": 2
+    },
+    "black": {
+      "brilliant": 0,
+      "great": 3,
+      "book": 5,
+      "best": 20,
+      "excellent": 5,
+      "good": 7,
+      "inaccuracy": 4,
+      "mistake": 2,
+      "miss": 1,
+      "blunder": 0
+    }
+  },
+  "plies": [
+    {
+      "ply": 1,
+      "san": "e4",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.26"
+    },
+    {
+      "ply": 2,
+      "san": "e5",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.26"
+    },
+    {
+      "ply": 3,
+      "san": "Bc4",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.11"
+    },
+    {
+      "ply": 4,
+      "san": "Nf6",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.11"
+    },
+    {
+      "ply": 5,
+      "san": "Nc3",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.05"
+    },
+    {
+      "ply": 6,
+      "san": "Bc5",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.05"
+    },
+    {
+      "ply": 7,
+      "san": "d3",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.02"
+    },
+    {
+      "ply": 8,
+      "san": "Nc6",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.18"
+    },
+    {
+      "ply": 9,
+      "san": "Bg5",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.01"
+    },
+    {
+      "ply": 10,
+      "san": "h6",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.01"
+    },
+    {
+      "ply": 11,
+      "san": "Bh4",
+      "label": "book",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.01"
+    },
+    {
+      "ply": 12,
+      "san": "g5",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.33"
+    },
+    {
+      "ply": 13,
+      "san": "Bg3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.33"
+    },
+    {
+      "ply": 14,
+      "san": "h5",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.95"
+    },
+    {
+      "ply": 15,
+      "san": "h3",
+      "label": "inaccuracy",
+      "app_best_san": "h4",
+      "app_best_uci": "h2h4",
+      "app_eval": "-0.33"
+    },
+    {
+      "ply": 16,
+      "san": "h4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.33"
+    },
+    {
+      "ply": 17,
+      "san": "Bh2",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.33"
+    },
+    {
+      "ply": 18,
+      "san": "d6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.33"
+    },
+    {
+      "ply": 19,
+      "san": "Nf3",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.52"
+    },
+    {
+      "ply": 20,
+      "san": "Be6",
+      "label": "inaccuracy",
+      "app_best_san": "g4",
+      "app_best_uci": "g5g4",
+      "app_eval": "+0.37"
+    },
+    {
+      "ply": 21,
+      "san": "Bxe6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.37"
+    },
+    {
+      "ply": 22,
+      "san": "fxe6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.37"
+    },
+    {
+      "ply": 23,
+      "san": "Nxg5",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.04"
+    },
+    {
+      "ply": 24,
+      "san": "Qe7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.04"
+    },
+    {
+      "ply": 25,
+      "san": "a3",
+      "label": "mistake",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-2.10"
+    },
+    {
+      "ply": 26,
+      "san": "O-O-O",
+      "label": "miss",
+      "app_best_san": "Rg8",
+      "app_best_uci": "h8g8",
+      "app_eval": "-0.69"
+    },
+    {
+      "ply": 27,
+      "san": "Nf3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-0.69"
+    },
+    {
+      "ply": 28,
+      "san": "Nd4",
+      "label": "inaccuracy",
+      "app_best_san": "Rhg8",
+      "app_best_uci": "h8g8",
+      "app_eval": "+0.82"
+    },
+    {
+      "ply": 29,
+      "san": "Na4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+0.82"
+    },
+    {
+      "ply": 30,
+      "san": "Nxf3+",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.28"
+    },
+    {
+      "ply": 31,
+      "san": "Qxf3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.28"
+    },
+    {
+      "ply": 32,
+      "san": "Bd4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.35"
+    },
+    {
+      "ply": 33,
+      "san": "c3",
+      "label": "great",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.35"
+    },
+    {
+      "ply": 34,
+      "san": "Bc5",
+      "label": "mistake",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+2.65"
+    },
+    {
+      "ply": 35,
+      "san": "Nxc5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+2.65"
+    },
+    {
+      "ply": 36,
+      "san": "dxc5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+2.65"
+    },
+    {
+      "ply": 37,
+      "san": "Bxe5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+2.65"
+    },
+    {
+      "ply": 38,
+      "san": "Nd7",
+      "label": "inaccuracy",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.97"
+    },
+    {
+      "ply": 39,
+      "san": "Bxh8",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.97"
+    },
+    {
+      "ply": 40,
+      "san": "Rxh8",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.97"
+    },
+    {
+      "ply": 41,
+      "san": "O-O-O",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.58"
+    },
+    {
+      "ply": 42,
+      "san": "Nb6",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.99"
+    },
+    {
+      "ply": 43,
+      "san": "d4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.74"
+    },
+    {
+      "ply": 44,
+      "san": "cxd4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.01"
+    },
+    {
+      "ply": 45,
+      "san": "Rxd4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.82"
+    },
+    {
+      "ply": 46,
+      "san": "e5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.82"
+    },
+    {
+      "ply": 47,
+      "san": "Rd3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.82"
+    },
+    {
+      "ply": 48,
+      "san": "Qc5",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+4.87"
+    },
+    {
+      "ply": 49,
+      "san": "Qf5+",
+      "label": "inaccuracy",
+      "app_best_san": "Qf6",
+      "app_best_uci": "f3f6",
+      "app_eval": "+3.70"
+    },
+    {
+      "ply": 50,
+      "san": "Kb8",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.70"
+    },
+    {
+      "ply": 51,
+      "san": "Rhd1",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.49"
+    },
+    {
+      "ply": 52,
+      "san": "a6",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.78"
+    },
+    {
+      "ply": 53,
+      "san": "Qf6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.78"
+    },
+    {
+      "ply": 54,
+      "san": "Rf8",
+      "label": "mistake",
+      "app_best_san": "Rh7",
+      "app_best_uci": "h8h7",
+      "app_eval": "+5.73"
+    },
+    {
+      "ply": 55,
+      "san": "Rd8+",
+      "label": "miss",
+      "app_best_san": "Qxf8+",
+      "app_best_uci": "f6f8",
+      "app_eval": "+3.74"
+    },
+    {
+      "ply": 56,
+      "san": "Rxd8",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.74"
+    },
+    {
+      "ply": 57,
+      "san": "Qxd8+",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.69"
+    },
+    {
+      "ply": 58,
+      "san": "Ka7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.69"
+    },
+    {
+      "ply": 59,
+      "san": "Qxh4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.68"
+    },
+    {
+      "ply": 60,
+      "san": "Nc4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+3.68"
+    },
+    {
+      "ply": 61,
+      "san": "Qg3",
+      "label": "inaccuracy",
+      "app_best_san": "a4",
+      "app_best_uci": "a3a4",
+      "app_eval": "+2.58"
+    },
+    {
+      "ply": 62,
+      "san": "Qb5",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+2.58"
+    },
+    {
+      "ply": 63,
+      "san": "b4",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.87"
+    },
+    {
+      "ply": 64,
+      "san": "Qa4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.87"
+    },
+    {
+      "ply": 65,
+      "san": "Rd5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "+1.84"
+    },
+    {
+      "ply": 66,
+      "san": "Qxa3+",
+      "label": "inaccuracy",
+      "app_best_san": "Qb3",
+      "app_best_uci": "a4b3",
+      "app_eval": "+2.60"
+    },
+    {
+      "ply": 67,
+      "san": "Kc2",
+      "label": "blunder",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.65"
+    },
+    {
+      "ply": 68,
+      "san": "Qb2+",
+      "label": "great",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.65"
+    },
+    {
+      "ply": 69,
+      "san": "Kd1",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.65"
+    },
+    {
+      "ply": 70,
+      "san": "Qb1+",
+      "label": "great",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.65",
+      "hidden": "Skill",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 71,
+      "san": "Ke2",
+      "label": "forced",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.65"
+    },
+    {
+      "ply": 72,
+      "san": "Qxe4+",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.65",
+      "hidden": "Skill",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 73,
+      "san": "Kf1",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.65"
+    },
+    {
+      "ply": 74,
+      "san": "Qxd5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.38"
+    },
+    {
+      "ply": 75,
+      "san": "Kg1",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-3.38"
+    },
+    {
+      "ply": 76,
+      "san": "Qd1+",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-2.61"
+    },
+    {
+      "ply": 77,
+      "san": "Kh2",
+      "label": "forced",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-2.61"
+    },
+    {
+      "ply": 78,
+      "san": "Qd5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-2.36"
+    },
+    {
+      "ply": 79,
+      "san": "h4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-2.36"
+    },
+    {
+      "ply": 80,
+      "san": "Nd2",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-1.83"
+    },
+    {
+      "ply": 81,
+      "san": "h5",
+      "label": "blunder",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-7.11"
+    },
+    {
+      "ply": 82,
+      "san": "Nf1+",
+      "label": "great",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-7.11",
+      "hidden": "Skill",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 83,
+      "san": "Kh3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-7.11"
+    },
+    {
+      "ply": 84,
+      "san": "Nxg3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-7.11"
+    },
+    {
+      "ply": 85,
+      "san": "fxg3",
+      "label": "good",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-8.73"
+    },
+    {
+      "ply": 86,
+      "san": "Qf7",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-8.73"
+    },
+    {
+      "ply": 87,
+      "san": "g4",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-8.80"
+    },
+    {
+      "ply": 88,
+      "san": "e4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-8.80"
+    },
+    {
+      "ply": 89,
+      "san": "g3",
+      "label": "inaccuracy",
+      "app_best_san": "g5",
+      "app_best_uci": "g4g5",
+      "app_eval": "-M7"
+    },
+    {
+      "ply": 90,
+      "san": "e3",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-M6"
+    },
+    {
+      "ply": 91,
+      "san": "Kh4",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-M6"
+    },
+    {
+      "ply": 92,
+      "san": "e2",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-M5"
+    },
+    {
+      "ply": 93,
+      "san": "g5",
+      "label": "excellent",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-M3"
+    },
+    {
+      "ply": 94,
+      "san": "e1=Q",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-M2",
+      "hidden": "Skill",
+      "label_source": "chesscom-capture"
+    },
+    {
+      "ply": 95,
+      "san": "g6",
+      "label": "best",
+      "app_best_san": null,
+      "app_best_uci": null,
+      "app_eval": "-M2"
+    }
+  ]
+}

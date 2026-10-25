@@ -1,0 +1,64 @@
+eng 10 acc 85.5 77.6 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 c7c5 book 35@31 - - -
+3 g1f3 book 32@28 - - -
+4 e7e6 book 49@28 - - -
+5 d2d3 book 13@29 - - -
+6 d7d5 book 14@28 - - -
+7 b1d2 book -3@32 - - -
+8 g8f6 book -3@31 - - -
+9 g2g3 book -7@36 - - -
+10 f8e7 book -7@35 - - -
+11 f1g2 book -7@34 - - -
+12 e8g8 book 0@38 - - -
+13 e1g1 book 0@37 - - -
+14 b8c6 book 0@36 - - -
+15 f1e1 book 0@35 - - -
+16 b7b5 book 0@34 - - - K
+17 a2a4 good -15@15 e4d5 best 0@33
+18 b5b4 best -15@14 - - -
+19 e4d5 good -27@16 e4e5 best -15@13
+20 e6d5 inaccuracy 3@15 f6d5 best -27@15
+21 d2b3 good -23@15 d3d4 best 3@14
+22 h7h6 mistake 47@16 c8e6 best -23@14 K
+23 c1f4 miss -33@18 c1e3 best 47@15
+24 c8e6 excellent -27@21 c8f5 best -33@17
+25 d3d4 best -27@20 - - -
+26 c5c4 great -27@19 - - - K
+27 b3c5 great -27@18 - - - K
+28 e6g4 best -27@17 - - -
+29 h2h3 good -54@16 c2c3 best -27@16
+30 g4f5 mistake 30@18 g4f3 best -54@15 K
+31 f3e5 best 30@17 - - -
+32 a8c8 mistake 161@17 d8c8 best 30@16 K
+33 d1d2 blunder -164@20 c5b7 best 161@16 K
+34 c6d4 great -164@19 - - - K
+35 c5b7 best -164@18 - - -
+36 d8b6 great -164@17 - - - K
+37 e5c4 mistake -288@18 f4e3 best -164@16 K
+38 b6b7 inaccuracy -183@18 c8c4 best -288@17
+39 d2d4 best -183@17 - - -
+40 c8c4 blunder 214@18 e7c5 best -183@16 K
+41 d4c4 great 214@17 - - - K
+42 d5c4 inaccuracy 343@19 f8e8 best 214@16
+43 g2b7 best 343@18 - - -
+44 e7c5 mistake 384@20 f8e8 best 343@17 K
+45 c2c3 inaccuracy 236@19 e1e5 best 384@19
+46 f5h3 best 236@18 - - -
+47 f4e3 excellent 223@26 a1d1 best 236@17
+48 c5e3 best 223@25 - - -
+49 e1e3 best 223@24 - - -
+50 h3e6 best 223@23 - - -
+51 a4a5 best 223@22 - - -
+52 b4c3 best 223@21 - - -
+53 b2c3 best 223@20 - - -
+54 f8d8 best 223@19 - - -
+55 a5a6 excellent 218@18 e3e5 best 223@18
+56 f6g4 good 288@19 g7g5 best 218@16
+57 e3e4 excellent 286@18 e3e1 best 288@18
+58 d8d2 excellent 304@19 g8f8 best 286@17
+59 a1f1 mistake 176@18 e4d4 best 304@18 K
+60 h6h5 good 196@19 d2a2 best 176@17
+61 e4d4 best 196@18 - - -
+62 g4e5 mistake 561@19 d2a2 best 196@17 K
+63 d4d2 best 561@18 - - - K

@@ -1,0 +1,62 @@
+eng 10 acc 72.0 78.6 cee 1.198.16
+1 d2d4 book 21@29 - - -
+2 e7e5 book 140@30 - - -
+3 d4e5 book 140@29 - - - K
+4 b8c6 book 143@27 - - - K
+5 e5e6 mistake -44@28 g1f3 best 143@26 K
+6 f7e6 best -44@27 - - - K
+7 c1f4 inaccuracy -108@27 c2c4 best -44@26
+8 d7d6 inaccuracy -20@15 d8f6 best -108@26
+9 e2e3 excellent -39@15 b1c3 best -20@14
+10 g8f6 excellent -28@15 d8e7 best -39@14
+11 g1f3 best -28@14 - - -
+12 f8e7 excellent -10@17 c8d7 best -28@13
+13 b1c3 excellent -31@16 f4g3 best -10@16
+14 e8g8 excellent -17@16 e6e5 best -31@15
+15 f1b5 good -41@16 f4g3 best -17@15
+16 c8d7 excellent -26@16 a7a6 best -41@15
+17 e1g1 excellent -44@16 b5d3 best -26@15
+18 e6e5 excellent -24@16 f6h5 best -44@15
+19 f4g3 best -24@15 - - -
+20 a7a6 excellent -14@14 g8h8 best -24@14
+21 b5a4 good -51@17 b5d3 best -14@13
+22 b7b5 inaccuracy 14@16 g8h8 best -51@16
+23 a4b3 best 14@15 - - -
+24 g8h8 best 14@14 - - -
+25 a2a3 inaccuracy -45@15 f3g5 best 14@13
+26 d7g4 excellent -42@14 c6a5 best -45@14
+27 h2h3 excellent -57@19 d1e1 best -42@13
+28 g4h5 best -57@18 - - -
+29 b3d5 inaccuracy -138@17 d1d2 best -57@17
+30 c6a5 mistake 20@18 d8d7 best -138@16 K
+31 d5a8 best 20@17 - - - K
+32 d8a8 best 20@16 - - -
+33 f1e1 blunder -325@18 e3e4 best 20@15 K
+34 e5e4 great -325@17 - - - K
+35 d1d2 mistake -457@18 c3e2 best -325@16 K
+36 e4f3 good -398@20 a5c4 best -457@17
+37 g2f3 good -489@19 b2b3 best -398@19
+38 h5f3 excellent -471@18 a5c4 best -489@18
+39 c3e2 inaccuracy -578@20 e3e4 best -471@17
+40 a5c4 best -578@19 - - -
+41 d2c3 excellent -616@19 d2d3 best -578@18
+42 f3h1 good -538@19 f6e4 best -616@18
+43 e2f4 best -538@18 - - -
+44 a8f3 inaccuracy -374@17 f6e4 best -538@17
+45 b2b3 mistake -682@17 e3e4 best -374@16 K
+46 c4e5 excellent -644@18 f6d5 best -682@16
+47 g1h2 mistake -858@21 c3d2 best -644@17 K
+48 f6g4 brilliant -858@20 - - - K
+49 h3g4 best -858@19 - - -
+50 e5g4 best -858@18 - - -
+51 h2h3 inaccuracy -M4@247 h2g1 best -858@17
+52 f8f4 best -M3@246 - - - K
+53 e1h1 best -M3@109 - - -
+54 g4f2 excellent -M4@44 f4f5 best -M2@99
+55 h3h2 forced -M4@43 - - -
+56 f2e4 good -558@20 f2g4 best -M3@41
+57 c3e1 best -558@19 - - -
+58 f4f6 best -558@18 - - -
+59 h1f1 best -558@17 - - -
+60 f6h6 excellent -520@20 f3h5 best -558@16
+61 g3h4 best -520@19 - - -

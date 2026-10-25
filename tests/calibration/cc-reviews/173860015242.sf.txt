@@ -1,0 +1,73 @@
+eng 10 acc 79.1 74.7 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 e7e5 book 26@28 - - -
+3 d2d4 book -8@29 - - -
+4 e5d4 book -8@28 - - -
+5 d1d4 book -13@29 - - -
+6 b8c6 book -13@28 - - - K
+7 d4d1 inaccuracy -67@28 d4e3 best -13@27
+8 f8c5 inaccuracy -11@27 g8f6 best -67@27
+9 g1f3 best -11@26 - - -
+10 d7d6 good 14@30 g8f6 best -11@25
+11 h2h3 excellent 4@30 b1c3 best 14@29
+12 c8e6 excellent 12@30 d8f6 best 4@29
+13 f1e2 excellent 0@15 b1c3 best 12@29
+14 g8f6 best 0@39 - - -
+15 b1c3 best 0@38 - - -
+16 e8g8 best 0@36 - - -
+17 a2a3 best 0@16 - - -
+18 f8e8 best 0@19 - - -
+19 e1g1 best 0@18 - - -
+20 a7a6 excellent 8@17 c6e5 best 0@17
+21 c1g5 good -25@19 c1f4 best 8@16
+22 h7h6 best -25@18 - - -
+23 g5h4 excellent -35@17 g5f4 best -25@17
+24 d8d7 mistake 159@19 c6e5 best -35@16 K
+25 h4f6 best 159@18 - - -
+26 g7f6 best 159@17 - - -
+27 f3h2 good 124@17 d1d2 best 159@16
+28 g8f8 inaccuracy 174@19 f6f5 best 124@16
+29 d1d2 best 174@18 - - -
+30 f8e7 inaccuracy 246@18 f8g7 best 174@17
+31 c3d5 excellent 245@20 a1e1 best 246@17
+32 e6d5 best 245@19 - - -
+33 e4d5 best 245@18 - - -
+34 c6e5 best 245@17 - - -
+35 d2h6 mistake 82@16 a1e1 best 245@16 K
+36 e8h8 miss 154@18 d7f5 best 82@15
+37 h6f4 great 154@17 - - - K
+38 a8g8 good 189@19 e5g6 best 154@16
+39 e2g4 best 189@18 - - -
+40 e5g4 excellent 197@19 d7b5 best 189@17
+41 h2g4 best 197@18 - - -
+42 g8g6 best 197@17 - - -
+43 g1h1 blunder -351@17 b2b4 best 197@16 K
+44 g6g4 great -340@22 - - - K
+45 a1e1 excellent -348@25 f4f3 best -340@16
+46 e7f8 best -348@24 - - -
+47 f4f6 best -348@23 - - -
+48 g4h4 best -348@22 - - -
+49 h1g1 best -348@21 - - -
+50 h8h6 best -348@20 - - -
+51 f6g5 mistake -481@18 f6f3 best -348@19 K
+52 h4h3 brilliant -476@16 - - - K
+53 g2g3 mistake -774@19 g2h3 best -476@15 K
+54 h3h1 excellent -740@25 h3h5 best -774@18 K
+55 g1g2 forced -740@24 - - -
+56 d7h3 best -740@23 - - -
+57 g2f3 forced -740@22 - - -
+58 h1f1 best -740@21 - - -
+59 e1f1 best -740@20 - - -
+60 h3f1 inaccuracy -449@20 h6h5 best -740@19
+61 g5h6 best -449@19 - - -
+62 f8e8 great -449@18 - - - K
+63 h6h8 excellent -500@19 h6d2 best -449@17
+64 e8e7 excellent -457@19 e8d7 best -500@18
+65 h8h4 best -457@18 - - -
+66 e7f8 mistake 0@49 e7e8 best -457@17 K
+67 h4h8 miss -457@21 h4d8 best 0@48 K
+68 f8e7 forced -457@20 - - -
+69 h8h4 best -457@19 - - -
+70 e7f8 mistake 0@57 e7e8 best -457@18 K
+71 h4h8 great 0@246 - - - K
+72 f8e7 forced 0@245 - - -

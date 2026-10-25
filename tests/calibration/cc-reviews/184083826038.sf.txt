@@ -1,0 +1,59 @@
+eng 10 acc 81.0 87.6 cee 1.198.16
+1 d2d4 book 21@29 - - -
+2 c7c6 book 53@29 - - -
+3 g1f3 book 37@30 - - -
+4 d7d5 book 46@31 - - -
+5 c2c3 book 14@32 - - -
+6 c8f5 book 15@29 - - - K
+7 e2e3 good -10@28 f3h4 best 15@28
+8 e7e6 excellent -7@28 b8d7 best -10@27
+9 f1d3 excellent -18@27 c3c4 best -7@27
+10 g8e7 inaccuracy 29@15 g8f6 best -18@26
+11 d1c2 excellent 13@19 c3c4 best 29@14
+12 f5d3 best 13@18 - - -
+13 c2d3 best 13@17 - - -
+14 b8d7 excellent 16@20 e7g6 best 13@16
+15 b1d2 best 16@19 - - -
+16 e7f5 excellent 31@19 c6c5 best 16@18
+17 e3e4 best 31@18 - - -
+18 d5e4 best 31@17 - - -
+19 d2e4 best 31@16 - - -
+20 f8e7 excellent 39@17 d7c5 best 31@15
+21 e1g1 excellent 25@17 c1f4 best 39@16
+22 e8g8 best 25@16 - - -
+23 h2h3 excellent 19@18 f1e1 best 25@15
+24 h7h6 best 19@17 - - -
+25 d3c2 excellent 5@17 a2a4 best 19@16
+26 d8c7 best 5@16 - - -
+27 c1d2 excellent -13@15 f1d1 best 5@15
+28 c6c5 inaccuracy 44@16 f8e8 best -13@14
+29 d4c5 inaccuracy -19@20 d4d5 best 44@15
+30 d7c5 best -19@19 - - -
+31 e4c5 best -19@18 - - -
+32 e7c5 excellent -10@16 c7c5 best -19@14
+33 a1d1 excellent -22@17 f1d1 best -10@15
+34 f5g3 good 6@17 a8c8 best -22@16
+35 f1e1 best 6@16 - - -
+36 a8d8 inaccuracy 81@15 g3f5 best 6@15
+37 d2e3 inaccuracy -3@20 b2b4 best 81@14
+38 d8d1 best -3@19 - - -
+39 c2d1 best -3@18 - - -
+40 c5e3 excellent 8@17 f8d8 best -3@17
+41 e1e3 best 8@16 - - -
+42 g3f5 inaccuracy 68@17 f8d8 best 8@15
+43 e3d3 best 68@16 - - -
+44 c7b6 inaccuracy 124@18 c7c6 best 68@15
+45 b2b3 inaccuracy 61@16 d3d7 best 124@17
+46 a7a5 excellent 74@16 f5e7 best 61@15
+47 f3e5 good 43@16 d3d7 best 74@15
+48 f5h4 blunder 326@20 b6c7 best 43@15 K
+49 e5d7 great 326@19 - - - K
+50 b6c6 best 326@18 - - -
+51 f2f3 mistake -23@15 d1g4 best 326@17 K
+52 f8c8 good 0@18 f8e8 best -23@14
+53 d7e5 inaccuracy -56@16 d3d4 best 0@17
+54 c6b6 inaccuracy -8@17 c6c5 best -56@15
+55 g1f1 good -30@17 g1h2 best -8@16
+56 h4f5 excellent -21@16 a5a4 best -30@16
+57 d1d2 blunder -M2@247 d1e1 best -21@15 K
+58 f5g3 great -M1@246 - - - K

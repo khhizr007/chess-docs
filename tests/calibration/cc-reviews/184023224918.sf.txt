@@ -1,0 +1,57 @@
+eng 10 acc 72.4 80.6 cee 1.198.16
+1 e2e4 book 38@31 - - -
+2 e7e5 book 38@30 - - -
+3 g1f3 book 38@29 - - -
+4 b8c6 book 38@28 - - -
+5 c2c3 book -25@26 - - -
+6 g8f6 book 9@29 - - - K
+7 f1b5 good -35@34 d2d4 best 9@28
+8 f6e4 best -35@33 - - - K
+9 b5c6 good -75@30 e1g1 best -35@32
+10 b7c6 inaccuracy -22@26 d7c6 best -75@29
+11 d1e2 inaccuracy -92@20 e1g1 best -22@25
+12 d7d5 best -92@19 - - -
+13 d2d3 best -92@18 - - -
+14 e4f6 mistake 50@15 c8a6 best -92@17 K
+15 e2e5 miss -58@16 f3e5 best 50@14 K
+16 d8e7 inaccuracy 2@17 c8e6 best -58@15
+17 e5e7 good -35@17 e1g1 best 2@16
+18 f8e7 best -35@16 - - -
+19 e1g1 best -35@15 - - -
+20 e8g8 excellent -34@15 e7d6 best -35@14
+21 f3d4 excellent -52@17 c1f4 best -34@14
+22 c6c5 excellent -49@16 c8d7 best -52@16
+23 d4c6 inaccuracy -95@17 f1e1 best -49@15
+24 e7d6 great -95@16 - - - K
+25 c1e3 mistake -253@18 d3d4 best -95@15 K
+26 c8b7 miss -151@21 f6g4 best -253@17
+27 c6a5 best -151@20 - - -
+28 b7c8 mistake -78@17 b7a6 best -151@19 K
+29 b1d2 good -102@19 h2h3 best -78@16
+30 a7a6 mistake 0@16 f6g4 best -102@18 K
+31 a5b3 inaccuracy -51@18 d2b3 best 0@15
+32 c5c4 mistake 56@16 f6d7 best -51@17 K
+33 b3d4 miss -182@18 d3c4 best 56@15 K
+34 c4d3 excellent -175@19 c7c5 best -182@17 K
+35 e3g5 inaccuracy -277@22 c3c4 best -175@18
+36 f6e4 best -277@21 - - -
+37 d2e4 best -277@20 - - -
+38 d5e4 best -277@19 - - -
+39 f1e1 good -315@18 f2f3 best -277@18
+40 c8b7 good -260@19 f7f5 best -315@17
+41 a1d1 good -313@19 d4f5 best -260@18
+42 f7f6 excellent -304@20 f7f5 best -313@18
+43 g5e3 best -304@19 - - -
+44 f8e8 good -268@17 f6f5 best -304@18
+45 d4f5 excellent -286@19 f2f3 best -268@16
+46 d6f8 best -286@18 - - -
+47 d1d2 excellent -300@18 e3f4 best -286@17
+48 a6a5 excellent -296@17 a8d8 best -300@17
+49 a2a4 excellent -326@19 e3f4 best -296@16
+50 b7d5 excellent -315@19 c7c5 best -326@18
+51 f5d4 excellent -334@19 e3f4 best -315@18
+52 c7c5 excellent -329@20 a8c8 best -334@18
+53 d4b5 best -329@19 - - -
+54 d5b3 mistake -157@19 a8c8 best -329@18 K
+55 b5d6 blunder -615@19 b5c7 best -157@18 K
+56 f8d6 best -615@18 - - - K

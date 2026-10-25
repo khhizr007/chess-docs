@@ -1,0 +1,71 @@
+eng 10 acc 68.5 78.8 cee 1.198.16
+1 d2d4 book 21@29 - - -
+2 d7d6 book 63@30 - - -
+3 e2e4 book 63@29 - - - K
+4 b8c6 excellent 87@28 g8f6 best 63@28
+5 d4d5 best 87@27 - - -
+6 c6b4 good 132@27 c6b8 best 87@26
+7 f1b5 inaccuracy 51@32 c1e3 best 132@26
+8 c7c6 best 51@31 - - -
+9 d5c6 excellent 33@17 b5a4 best 51@30
+10 b7c6 excellent 61@18 b4c6 best 33@16
+11 b5c6 blunder -357@28 b5a4 best 61@17 K
+12 b4c6 best -357@27 - - -
+13 d1d5 good -434@26 c2c4 best -357@26
+14 d8a5 excellent -399@21 c8b7 best -434@25
+15 d5a5 best -399@20 - - -
+16 c6a5 best -399@19 - - -
+17 c1d2 excellent -410@20 g1f3 best -399@18
+18 a5c4 best -410@19 - - -
+19 g1f3 excellent -449@19 d2c3 best -410@18
+20 c8g4 good -394@19 g8f6 best -449@18
+21 f3d4 excellent -433@18 d2c3 best -394@18
+22 g8f6 excellent -418@18 g4d7 best -433@17
+23 d4b5 excellent -428@22 f2f3 best -418@17
+24 f6e4 best -428@21 - - - K
+25 b5c7 best -428@20 - - -
+26 e8d7 best -428@19 - - -
+27 c7a8 best -428@18 - - -
+28 f7f6 mistake -141@18 c4d2 best -428@17 K
+29 d2a5 mistake -381@20 d2c1 best -141@17 K
+30 c4a5 great -381@19 - - - K
+31 e1g1 excellent -414@18 b1a3 best -381@18
+32 g7g6 excellent -406@19 e7e5 best -414@17
+33 f1e1 excellent -441@18 f2f3 best -406@18
+34 e4g5 good -352@18 f6f5 best -441@17
+35 f2f4 good -420@18 b1c3 best -352@17
+36 g5e6 best -420@17 - - -
+37 b1c3 excellent -461@18 h2h3 best -420@16
+38 e6f4 excellent -434@18 f8h6 best -461@17 K
+39 b2b4 excellent -476@19 e1e4 best -434@17
+40 a5c4 best -476@18 - - -
+41 a1b1 excellent -505@18 e1e4 best -476@17
+42 f8h6 excellent -503@19 d6d5 best -505@17
+43 c3b5 mistake -670@18 a8c7 best -503@18 K
+44 c4d2 inaccuracy -560@20 h8a8 best -670@17
+45 b1b2 mistake -673@18 h2h3 best -560@19 K
+46 f4e2 good -572@18 h8a8 best -673@17
+47 e1e2 good -621@19 g1f2 best -572@17
+48 g4e2 best -621@18 - - -
+49 b5a7 mistake -847@20 b5c7 best -621@17 K
+50 h6e3 best -847@19 - - -
+51 g1h1 forced -847@18 - - -
+52 e3a7 excellent -781@19 h8a8 best -847@17
+53 c2c3 best -781@18 - - -
+54 h7h5 excellent -724@20 h8a8 best -781@17
+55 b2d2 best -724@19 - - -
+56 e2f1 excellent -701@18 e2c4 best -724@18
+57 b4b5 good -773@21 d2d5 best -701@17
+58 h8a8 best -773@20 - - -
+59 d2b2 best -773@19 - - -
+60 a8c8 good -677@20 a7b6 best -773@18
+61 b5b6 best -677@19 - - -
+62 a7b8 best -677@18 - - -
+63 b6b7 excellent -717@17 b2b3 best -677@17
+64 c8c3 excellent -702@18 c8c5 best -717@16
+65 a2a4 good -826@19 b2b6 best -702@17
+66 f1e2 excellent -811@19 c3c1 best -826@18
+67 a4a5 mistake -M1@246 b2b1 best -811@18 K
+68 c3c4 miss -601@18 c3c1 best -M0@245 K
+69 a5a6 mistake -M1@246 h1g1 best -601@17 K
+70 c4c1 great -M0@245 - - - K

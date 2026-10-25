@@ -1,0 +1,64 @@
+eng 10 acc 76.4 66.6 cee -
+1 e2e4 book 26@29 - - -
+2 c7c5 book 35@31 - - -
+3 g1f3 book 32@28 - - -
+4 d7d6 book 46@27 - - -
+5 f1c4 book 20@33 - - -
+6 g8f6 book 20@32 - - -
+7 b1c3 book 20@31 - - - K
+8 b8c6 excellent 50@27 a7a6 best 20@30
+9 d2d3 good -13@31 d2d4 best 50@26
+10 e7e5 mistake 219@28 e7e6 best -13@30 K
+11 e1g1 miss 26@30 f3g5 best 219@27
+12 f8e7 best 26@29 - - -
+13 c3d5 excellent 21@29 a2a4 best 26@28
+14 e8g8 excellent 26@29 f6d5 best 21@28
+15 d5e7 excellent 9@31 d5f6 best 26@28
+16 d8e7 best 9@30 - - -
+17 c1g5 excellent -4@29 h2h3 best 9@29
+18 f8d8 inaccuracy 85@20 h7h6 best -4@28
+19 g5h4 good 27@18 f3h4 best 85@19
+20 c8e6 excellent 32@14 h7h6 best 27@17
+21 c2c3 excellent 27@17 c4d5 best 32@13
+22 e6c4 excellent 52@19 d6d5 best 27@16
+23 d3c4 best 52@18 - - -
+24 e7e6 excellent 65@18 h7h6 best 52@17
+25 f3g5 mistake -102@17 d1d3 best 65@17 K
+26 e6e7 miss 118@17 e6c4 best -102@16 K
+27 g5h3 best 118@16 - - -
+28 e7e6 good 147@16 d8e8 best 118@15
+29 b2b3 inaccuracy 92@16 f2f4 best 147@15
+30 d8e8 good 127@21 f6e4 best 92@15
+31 f2f4 best 127@20 - - -
+32 f6e4 best 127@19 - - -
+33 f4e5 mistake -185@18 f4f5 best 127@18 K
+34 e6e5 inaccuracy -108@18 e4c3 best -185@17
+35 h4g3 mistake -298@19 d1f3 best -108@17 K
+36 e4g3 excellent -274@21 e5c3 best -298@18
+37 h2g3 best -274@20 - - -
+38 e5e3 good -227@19 e5g3 best -274@19
+39 h3f2 good -283@17 g1h2 best -227@18
+40 e3g3 excellent -266@19 c6e5 best -283@16
+41 f1e1 good -343@22 d1d5 best -266@18
+42 c6e5 best -343@21 - - -
+43 f2e4 best -343@20 - - -
+44 e5f3 blunder 350@21 g3h4 best -343@19 K
+45 d1f3 great 350@20 - - - K
+46 g3f3 best 350@19 - - -
+47 g2f3 best 350@18 - - -
+48 f7f5 good 408@25 a8d8 best 350@17
+49 e4d6 best 408@24 - - - K
+50 e8e1 best 408@23 - - -
+51 a1e1 best 408@22 - - -
+52 b7b6 best 408@21 - - -
+53 d6f5 best 408@20 - - - K
+54 a8f8 best 408@19 - - -
+55 f5e7 best 408@18 - - -
+56 g8h8 good 459@19 g8f7 best 408@17
+57 g1g2 excellent 453@19 g1f2 best 459@18
+58 f8e8 mistake 713@19 g7g5 best 453@18 K
+59 b3b4 miss 479@20 e7g6 best 713@18 K
+60 e8d8 best 479@19 - - -
+61 e7c6 good 431@17 e7d5 best 479@18
+62 d8d3 blunder M1@246 d8d2 best 431@16 K
+63 e1e8 great M0@245 - - - K

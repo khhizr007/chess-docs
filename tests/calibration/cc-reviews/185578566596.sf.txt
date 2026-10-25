@@ -1,0 +1,59 @@
+eng 10 acc 79.7 88.2 cee 1.198.16
+1 e2e4 book 26@29 - - -
+2 d7d6 book 56@33 - - -
+3 d2d4 book 56@32 - - -
+4 g8f6 book 56@31 - - -
+5 b1c3 book 56@30 - - -
+6 e7e5 book 56@29 - - -
+7 g1f3 book 56@28 - - -
+8 b8d7 book 56@27 - - - K
+9 h1g1 excellent 55@15 h2h3 best 56@26
+10 h7h5 excellent 64@18 d6d5 best 55@14
+11 h2h3 excellent 61@18 c1e3 best 64@17
+12 c7c6 best 61@17 - - -
+13 g2g4 inaccuracy 27@16 a2a4 best 61@16
+14 h5g4 good 50@21 e5d4 best 27@15
+15 h3g4 best 50@20 - - -
+16 e5d4 best 50@19 - - -
+17 f3d4 best 50@18 - - -
+18 d7e5 best 50@17 - - -
+19 g4g5 best 50@16 - - -
+20 f6g4 great 50@15 - - - K
+21 f2f3 mistake -46@19 f1e2 best 50@14 K
+22 g4h2 best -46@18 - - -
+23 f1e2 great -46@17 - - - K
+24 d8b6 mistake 68@13 h8h3 best -46@16 K
+25 f3f4 blunder -283@20 e1f2 best 68@12 K
+26 b6d4 brilliant -283@19 - - - K
+27 d1d4 good -330@21 g1g3 best -283@18
+28 e5f3 best -330@20 - - -
+29 e1f2 best -330@19 - - -
+30 f3d4 great -330@18 - - - K
+31 e2d3 excellent -336@18 e2d1 best -330@17
+32 d6d5 excellent -334@16 h8h3 best -336@17
+33 f2g3 good -492@19 e4d5 best -334@15
+34 f8c5 good -343@18 h8h3 best -492@18
+35 c3a4 good -428@20 g1h1 best -343@17
+36 d5e4 best -428@19 - - -
+37 a4c5 excellent -468@17 g1e1 best -428@18
+38 e4d3 excellent -467@18 h8h3 best -468@16
+39 c2d3 excellent -538@19 g1h1 best -467@17
+40 d4e2 excellent -536@19 h8h3 best -538@18
+41 g3g2 excellent -557@24 g3f2 best -536@18
+42 e2g1 best -557@23 - - -
+43 g2g1 best -557@22 - - -
+44 h2f3 best -557@21 - - -
+45 g1f2 best -557@20 - - -
+46 f3d4 best -557@19 - - -
+47 a1b1 excellent -628@17 f4f5 best -557@18
+48 b7b6 best -628@16 - - -
+49 c5e4 excellent -643@19 c5b3 best -628@15
+50 e8g8 good -410@19 h8h2 best -643@18
+51 c1e3 excellent -463@17 c1d2 best -410@18
+52 c6c5 excellent -413@16 f8d8 best -463@16
+53 e4g3 excellent -518@19 b1h1 best -413@15
+54 d4f5 excellent -487@19 f8d8 best -518@18
+55 e3d2 excellent -603@21 g3e4 best -487@18
+56 f5g3 best -603@20 - - -
+57 f2g3 best -603@19 - - -
+58 c8f5 excellent -576@18 f8d8 best -603@18

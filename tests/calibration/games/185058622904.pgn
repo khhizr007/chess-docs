@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.10.09"]
+[Round "-"]
+[White "BaoChgen"]
+[Black "khhizr7"]
+[Result "0-1"]
+[WhiteElo "921"]
+[BlackElo "949"]
+[TimeControl "600"]
+[EndTime "13:36:17 GMT+0000"]
+[Termination "khhizr7 won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7. Ke1
+Qh4+ 8. g3 Nxg3 9. hxg3 Qxh1+ 10. Ke2 Qg2+ 11. Kd3 Qxg3+ 12. Ke2 Nd4+ 13. Kf1
+Qh3+ 14. Kf2 Qh4+ 15. Kg2 d5 16. Bxd5 Qh3+ 17. Kf2 Qh2+ 18. Ke3 Qf4+ 19. Kd3
+Bf5+ 20. Kc3 Nb5+ 21. Kb3 Nd4+ 22. Kc3 Ne6 23. Nxh8 Qd4+ 24. Kb3 Nc5+ 25. Ka3
+Qa4# 0-1
