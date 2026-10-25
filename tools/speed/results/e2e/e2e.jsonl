@@ -1,0 +1,16 @@
+{"variant": "default_pool4", "game": "1009533214", "state": "failed", "plies": null, "searches": 75, "wall_s": 19.48}
+{"variant": "default_pool4", "game": "171841312410", "state": "completed", "plies": 51, "searches": 96, "wall_s": 31.46}
+{"variant": "default_pool4", "game": "174173341932", "state": "completed", "plies": 57, "searches": 101, "wall_s": 27.19}
+{"variant": "default_pool4", "game": "183971255448", "state": "completed", "plies": 37, "searches": 67, "wall_s": 20.17}
+{"variant": "mpv2_pool4", "game": "1009533214", "state": "completed", "plies": 38, "searches": 75, "wall_s": 13.57}
+{"variant": "mpv2_pool4", "game": "171841312410", "state": "completed", "plies": 51, "searches": 96, "wall_s": 21.38}
+{"variant": "mpv2_pool4", "game": "174173341932", "state": "completed", "plies": 57, "searches": 101, "wall_s": 18.44}
+{"variant": "mpv2_pool4", "game": "183971255448", "state": "completed", "plies": 37, "searches": 67, "wall_s": 15.81}
+{"variant": "mpv1_pool4", "game": "1009533214", "state": "completed", "plies": 38, "searches": 75, "wall_s": 7.81}
+{"variant": "mpv1_pool4", "game": "171841312410", "state": "completed", "plies": 51, "searches": 96, "wall_s": 14.82}
+{"variant": "mpv1_pool4", "game": "174173341932", "state": "completed", "plies": 57, "searches": 101, "wall_s": 9.34}
+{"variant": "mpv1_pool4", "game": "183971255448", "state": "completed", "plies": 37, "searches": 67, "wall_s": 9.65}
+{"variant": "nothreat_pool4", "game": "1009533214", "state": "completed", "plies": 38, "searches": 39, "wall_s": 21.58}
+{"variant": "nothreat_pool4", "game": "171841312410", "state": "completed", "plies": 51, "searches": 52, "wall_s": 29.57}
+{"variant": "nothreat_pool4", "game": "174173341932", "state": "completed", "plies": 57, "searches": 57, "wall_s": 25.02}
+{"variant": "nothreat_pool4", "game": "183971255448", "state": "completed", "plies": 37, "searches": 38, "wall_s": 19.75}
