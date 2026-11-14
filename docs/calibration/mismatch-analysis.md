@@ -90,9 +90,13 @@ names. Checked on every ply of the 575 games:
 | Positions before **and** after the move are in it | **99.67%** | 0.963 / 1.000 |
 
 So Book is fully explained: same rule, bigger book. We cannot ship Chess.com's book. **Fix to
-build:** a book of our own from public games (lichess database, CC0). The records carry game counts
-(e.g. 1,333 / 1,490 for the first entry), which suggests a "played often enough" criterion. Measure
-on the 575 games before switching.
+build:** a book of our own from public games (lichess database, CC0). Measure on the 575 games
+before switching.
+
+**Update 2026-11-14 ([book-analysis.md](book-analysis.md)):** the two numbers in each record
+(1,333 / 1,490 above) are name and family ids, not game counts. A third field types each record
+`"book"` (51,752) or `"notable"` (2,220). The exact rule is: the positions before **and** after
+the move are both `"book"` records. It matches all 42,319 plies of the 577 games.
 
 ## 4. Miss
 
